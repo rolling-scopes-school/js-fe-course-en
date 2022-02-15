@@ -1,6 +1,7 @@
-### What is this module about?
+### Module description
 The overview on most popular IDE for web development. The module demonstrates how to get started with a particular IDE and describes most common features that simplify development process
 
+### Education materials
 * [IDE overview](https://youtu.be/khRmv3XSk0I)
 * Getting started with Visual Studio Code.[Basics](https://code.visualstudio.com/docs/introvideos/basics) and [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 * [JavaScript extensions for VS Code](https://code.visualstudio.com/docs/nodejs/extensions)
