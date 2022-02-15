@@ -5,5 +5,5 @@
 * and so on.  
 
 
-### At the end of this module, you should pass the [test](add link to the test!!!!). The [documentation](https://docs.app.rs.school/#/) helps you successfully pass the test.
+### At the end of this module, you should pass the [test](add link to the test!!!!). The [documentation](https://docs.app.rs.school/#/) helps you successfully pass it.
 
