@@ -1,5 +1,5 @@
 ### Module description
-JavaScript is one of the key programming languages for web development. In this module, you’ll get started with JavaScript, get acquainted with basic syntax, and take a brief overview of core language concepts.
+Working with data is an essential part of software development. Data types are a fundamental concept in programming. To be able to operate on variables, it is important to know something about its type. You’ll learn about data types in JavaScript.
 
 ### Education materials
 * [Hello, world!](https://javascript.info/hello-world)
