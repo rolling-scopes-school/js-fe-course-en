@@ -20,9 +20,9 @@
 ### Week #5
 - [Figma](modules/figma/)
 - [JS Basics. Part 2](modules/js-basics-2/)
+- [DevTools](modules/devtools/)
 
 ### Week #6
-- [DevTools](modules/devtools/)
 - [JS Basics. Part 3](modules/js-basics-3/)
 - [JS Functions](modules/js-functions/)
 
