@@ -1,6 +1,10 @@
 # RS School. JS/Frontend development course.
 
 ## Course roadmap
+
+<details>
+<summary>Stage 1</summary>
+
 ### Week #1
 - [RS School introduction](modules/rs-school-intro/)
 - [JS/FE developer](modules/js-fe-developer/)
@@ -43,6 +47,13 @@
 ### Week #11
 - [CSS Grid](modules/css-grid/)
 
+</details>
+
+### Interview with mentors
+
+<details>
+<summary>Stage 2</summary>
+
 ### Week #12
 - [JS Classes & Prototypes](modules/js-classes-prototypes/)
 
@@ -77,3 +88,13 @@
 ### Week #21
 - [Testing](modules/testing/)
 - [Software Development Lifecycle](modules/sdlc/)
+
+</details>
+
+### Interview with mentors
+
+<details>
+<summary>Stage 3 ( Frameworks)</summary>
+</details>
+
+### Exit Interview 
