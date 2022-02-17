@@ -11,9 +11,9 @@ The [documentation](https://docs.app.rs.school/#/) helps you to orientate in the
 ### Test
 At the end of this module, you should pass the [test](add link to the test!!!!). 
 
-### [How to submit test](https://docs.app.rs.school/#/platform/tasks?id=tests)
-Tests submitted in RS School App could be solved after authorization in the application.
-* The minimum passing score is usually 90% of the maximum possible number of points.
-* You can take the test as many times as specified, the last result is counted.
-* If specified, you can try the test even more times, but the score for the test will be twice lower.
+#### Preconditions for test:
+* Tests submitted in RS School App could be solved after authorization in the application.
+* The minimum passing score is 75% of the maximum possible number of points.
+* You can take the test 5 times, the last result is counted.
+* You can try the test even more times, but the score for the test will be twice lower.
 * The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
