@@ -5,7 +5,7 @@ This module you will get knowledge about markdown, what is it and how to create 
 * [Overview of Markdown](https://www.markdownguide.org/getting-started/)
 * [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-### Task [CV.Markdown](../../tasks/CV(markdown).md)
+### Task [CV.Markdown](../../tasks/CV(markdown)/CV(markdown).md)
 
 ### Examples
 * [Hanna Voloshyna](https://annavoloshina.github.io/rsschool-cv/cv)

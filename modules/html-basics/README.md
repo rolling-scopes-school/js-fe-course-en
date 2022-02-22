@@ -7,7 +7,7 @@ This week you will get knowledge about HTML5, its main tags, semantic and so on.
 * [Video course](https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&ab_channel=TheNetNinja)
 
 ### Test
-At the end of this module, you should pass the "HTML Basic ( EN )" test.
+At the end of this module, you should pass the **"HTML Basic ( EN )"** test.
 
 #### Preconditions for test:
 * Tests submitted in RS School App could be solved after authorization in the application.

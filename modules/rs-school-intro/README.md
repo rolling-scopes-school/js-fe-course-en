@@ -9,7 +9,7 @@ This week you will learn
 The [documentation](https://docs.app.rs.school/#/) helps you to orientate in the RS School app, know how to submit any type of task,  what is the cross-check and so on..
 
 ### Test
-At the end of this module, you should pass the "RS app intro" test. 
+At the end of this module, you should pass the **"RS app intro"** test. 
 
 #### Preconditions for test:
 * Tests submitted in RS School App could be solved after authorization in the application.
