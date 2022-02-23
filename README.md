@@ -28,7 +28,6 @@
 
 ### Week #6
 - [JS Basics. Part 3](modules/js-basics-3/)
-- [JS Functions](modules/js-functions/)
 
 ### Week #7
 - [JS Arrays](modules/js-arrays/)
