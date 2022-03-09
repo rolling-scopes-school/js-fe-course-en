@@ -11,6 +11,14 @@ The goal is to gain more in-depth knowledge about built-in objects, methods, and
 * [Object to primitive conversion](https://javascript.info/object-toprimitive)
 * [Online course from codecademy](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript)
 
+### Test
+At the end of this module you should pass the **"JS Object. Basic"**
 
-### Task ( codewars) add link to the task
-### Test (add link to the test)
+#### Preconditions for test:
+* Tests submitted in RS School App could be solved after authorization in the application.
+* The minimum passing score is **90%** of the maximum possible number of points.
+* You can take the test **3 times**, the last result is counted.
+* You can try the test even more times, but the score for the test will be twice lower.
+* The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
+
+### Task [Codewars Basic. Part 1](../../tasks/Codewars/codewars-part-1.md) 
