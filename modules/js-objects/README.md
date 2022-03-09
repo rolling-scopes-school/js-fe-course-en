@@ -21,4 +21,4 @@ At the end of this module you should pass the **"JS Object. Basic"**
 * You can try the test even more times, but the score for the test will be twice lower.
 * The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
 
-### Task [Codewars Basic. Part 1](../../tasks/Codewars/codewars-part-1.md) 
+### Task [Codewars: Array, Object](../../tasks/Codewars/codewars.arrays.objects.md) 
