@@ -11,8 +11,6 @@ The goal is to gain more in-depth knowledge about data types and structures in J
 * [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
 * [JavaScript specials](https://javascript.info/javascript-specials)
 
-### Task [Codewars: Strings, Numbers](../../tasks/codewars/codewars.strings.numbers.md)
-
 ### Test
 At the end of this module you should pass the **"JS-basic. Part 3 (EN)"**
 
@@ -23,4 +21,4 @@ At the end of this module you should pass the **"JS-basic. Part 3 (EN)"**
 * You can try the test even more times, but the score for the test will be twice lower.
 * The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
 
-
+### Task [Codewars: Strings, Numbers](../../tasks/codewars/codewars.strings.numbers.md)
