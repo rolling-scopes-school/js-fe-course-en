@@ -23,7 +23,7 @@
 - [CSS Basics](modules/css-basics/)
   - Test: "CSS Basic (EN)"
 - [Markdown](modules/markdown/)
-  - Task: [CV.Markdown](../../tasks/CV(markdown)/CV(markdown).md)
+  - Task: [CV.Markdown](tasks/CV(markdown)/CV(markdown).md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #4
@@ -41,7 +41,7 @@
 ### Week #6
 - [JS Basics. Part 3](modules/js-basics-3/)
   - Test: "JS-basic. Part 3 (EN)"
-  - Task: [Codewars: Strings, Numbers](../../tasks/codewars/codewars.strings.numbers.md)
+  - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #7
@@ -49,7 +49,7 @@
   - Test: "JS Array. Basic"
 - [JS Objects](modules/js-objects/)
   - Test: "JS Object. Basic"
-  - Task: [Codewars: Array, Object](../../tasks/codewars/codewars.arrays.objects.md)
+  - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #8
