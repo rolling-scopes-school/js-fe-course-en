@@ -13,4 +13,4 @@ In this module you will learn DOM events basic: what is DOM Event, EventTarget, 
 - [EventTarget (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget)
 - [EventListener (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/EventListener)
 
-### At the end of this module you should pass the [test](add link to the test)
+### At the end of this module you should pass the **DOM Events (EN)** test
