@@ -14,4 +14,4 @@ In this module you will learn DOM api basic:
 - [Element (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/Element)
 - [Node (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/Node)
 
-### At the end of this module you should pass the [test](add link to the test)
+### At the end of this module you should pass the **DOM API (EN)** test
