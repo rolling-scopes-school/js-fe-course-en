@@ -26,7 +26,7 @@
 - [CSS Basics](modules/css-basics/)
   - Test: "CSS Basic (EN)"
 - [Markdown](modules/markdown/)
-  - Task: [CV.Markdown](tasks/CV(markdown)/CV(markdown).md)
+  - Task: [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #4
@@ -74,7 +74,7 @@
 ### Week #10
 
 - [CSS Flex](modules/css-flex/)
-  - Test: ""
+  - Test: "Responsive & Flexbox (EN)"
   - Task: "Pets"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
