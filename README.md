@@ -81,7 +81,7 @@
 ### Week #11
 
 - [CSS Grid](modules/css-grid/)
-  - Test: ""
+  - Test: "CSS Grid (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 </details>
