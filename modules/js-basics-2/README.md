@@ -18,6 +18,6 @@ At the end of this module you should pass the **"JS-basic. Part 2 (EN)"**
 * Tests submitted in RS School App could be solved after authorization in the application.
 * The minimum passing score is **90%** of the maximum possible number of points.
 * You can take the test **3 times**, the last result is counted.
-* You can try the test even more times, but the score for the test will be "reduced by half (from the original score)".
+* You can try the test even more times, but the score for the test will be reduced by half (from the original score).
 * The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
 
