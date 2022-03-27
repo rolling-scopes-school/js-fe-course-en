@@ -27,7 +27,7 @@
 10. 8 kyu https://www.codewars.com/kata/regular-ball-super-ball
 
 ## Scoring criteria
-| Category | Number of tasks | Points for each | Sub total Points |
+| Category | Number of tasks | Points for each task | Sub total Points |
 | --- | :---: | :---: | ---: |
 | 8 kyu | 3 | 3 | (3 * 3) = 9 |
 | 7 kyu | 12 | 3 | (12 * 3) = 36 |
