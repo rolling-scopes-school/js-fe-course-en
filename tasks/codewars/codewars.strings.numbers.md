@@ -24,7 +24,7 @@
 
 
 ## Scoring criteria
-| | Number of tasks | Points for each | Sub total Points |
+| Category | Number of tasks | Points for each | Sub total Points |
 | --- | :---: | :---: | ---: |
 | 8 kyu | 7 | 3 | (7 * 3) = 21 |
 | 7 kyu | 8 | 3 | (8 * 3) = 24 |
