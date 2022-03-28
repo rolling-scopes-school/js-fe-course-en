@@ -24,11 +24,13 @@
 
 
 ## Scoring criteria
-3 point for 8 kyu tasks (7 tasks at all)  
-3 point for 7 kyu tasks (8 at all)  
-5 points for 6 kyu tasks (1 at all)  
-Total: 3 * 7 + 3 * 8 + 5 * 1 = 50
+| Category | Number of tasks | Points for each task | Subtotal Points |
+| --- | :---: | :---: | ---: |
+| 8 kyu | 7 | 3 | (7 * 3) = 21 |
+| 7 kyu | 8 | 3 | (8 * 3) = 24 |
+| 6 kyu | 5 | 1 | (5 * 1) = 5 |
+| | | **Total Points** = | (21 + 24 + 5) = **50** |
 
-**Total sum - 50 points**
+**Total sum = 50 points**
 
 
