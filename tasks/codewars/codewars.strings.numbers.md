@@ -24,12 +24,12 @@
 
 
 ## Scoring criteria
-| Category | Number of tasks | Points for each task | Subtotal Points |
-| --- | :---: | :---: | ---: |
-| 8 kyu | 7 | 3 | (7 * 3) = 21 |
-| 7 kyu | 8 | 3 | (8 * 3) = 24 |
-| 6 kyu | 5 | 1 | (5 * 1) = 5 |
-| | | **Total Points** = | (21 + 24 + 5) = **50** |
+| Category | Number of tasks | Points for each task |      Subtotal Points |
+|----------|:---------------:|:--------------------:|---------------------:|
+| 8 kyu    |        7        |          3           |           7 * 3 = 21 |
+| 7 kyu    |        8        |          3           |           8 * 3 = 24 |
+| 6 kyu    |        1        |          5           |            1 * 5 = 5 |
+|          |                 |  **Total Points** =  | 21 + 24 + 5 = **50** |
 
 **Total sum = 50 points**
 
