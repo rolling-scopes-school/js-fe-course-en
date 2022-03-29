@@ -12,3 +12,12 @@ This module you will get knowledge about markdown, what is it and how to create 
 * [Elvin Yekayev](https://elvinyeka.github.io/rsschool-cv/cv)
 * [Artur Markasian](https://mrks77.github.io/rsschool-cv/cv)
 
+### How to submit the task
+* After completing implementation of the task
+  * go to the [rs app](https://app.rs.school/)
+  * select Auto-Test
+  * select the name of the task in the drop-down list
+  * click the Submit button
+* The test's result will be displayed on the right
+* Till the deadline, you may submit the task as many times as you want, each submission result overwrites the previous one.
+
