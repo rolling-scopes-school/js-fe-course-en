@@ -24,7 +24,6 @@
 
 ### Week #3
   ( 05.04.2022 - 11.04.2022 )
-
 - [CSS Basics](modules/css-basics/)
   - Test: "CSS Basics (EN)"
 - [Markdown](modules/markdown/)
@@ -40,7 +39,7 @@
 
 ### Week #5 
   ( 19.04.2022 - 25.04.2022 )
-- [Cross-check. CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(cross-check).md>)
+- Cross-check.[CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(cross-check).md>)
 - [Figma](modules/figma/)
 - [JS Basics. Part 2](modules/js-basics-2/)
   - Test: "JS-basics. Part 2 (EN)"
@@ -49,7 +48,7 @@
 
 ### Week #6 
   ( 26.04.2022 - 02.05.2022 )
-
+- Task: "Shelter.Week_1"
 - [JS Basics. Part 3](modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
@@ -57,7 +56,7 @@
 
 ### Week #7 
   ( 03.05.2022 - 09.05.2022 )
-
+- Task: "Shelter.Week_2"
 - [JS Arrays](modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
@@ -67,31 +66,31 @@
 
 ### Week #8  
   ( 10.05.2022 - 16.05.2022 )
-
+- Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
 - [DOM API](modules/dom-api/)
   - Test: "DOM API (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #9 
   ( 17.05.2022 - 23.05.2022 )
-
+- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md)
 - [DOM Events](modules/dom-events/)
   - Test: "DOM Events (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #10
   ( 24.05.2022 - 30.05.2022 )
-
+- Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
 - [CSS Flex](modules/css-flex/)
   - Test: "Responsive & Flexbox (EN)"
-  - Task: "Pets"
+- Task: "Shelter.Week_3"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #11 
   ( 31.05.2022 - 06.06.2022 )
-
 - [CSS Grid](modules/css-grid/)
   - Test: "CSS Grid (EN)"
+- Task: "Shelter.Week_4"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 </details>
@@ -102,7 +101,7 @@
 <summary>Stage 2</summary>
 
 ### Week #12 ( 07.06.2022 - 13.06.2022 )
-
+- Cross-check.Shelter
 - [JS Classes & Prototypes](modules/js-classes-prototypes/)
   - Test: ""
   - Task: "Inheritance"
