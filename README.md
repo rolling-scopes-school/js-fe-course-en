@@ -33,7 +33,7 @@
 
 ### Week #4 
   ( 12.04.2022 - 18.04.2022 )
-- Task:[CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
+- Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [JS Basics. Part 1](modules/js-basics-1/)
   - Test: "JS-basics. Part 1 (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)

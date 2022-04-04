@@ -9,6 +9,12 @@ Your task is to create your own CV using HTML and Css.
 3. The number of commits should be not less than **3**
 4. [Commit names according to the guideline](https://docs.rs.school/#/en/git-convention)
 5. Put `index.html` and `style.css` files with your code for CV in the `rsschool-cv-html` branch. 
+   * Markup should pass validation (https://validator.w3.org/ )
+   * Semantic layout
+   * Content should be placed in the horizontal centered block
+   * The CV should work in the Google Chrome browser
+   * There are in the footer: link to your name, github name, date, course logo with the link
+   * In case you are worried about your private information - you may use fake data
 6. Inside the `README.md` in the `rsschool-cv-html` branch put the link `https://GITHUB-USERNAME.github.io/rsschool-cv/` wherhe the `GITHUB-USERNAME` is your github name. This link should lead to your CV created with HTML and Css
 7. Create the Pull Request from the `rsschool-cv-html` to `gh-pages`. The name of PR should be `HTML, CSS & Git Basics`
 8. Merge the Pull Request from the `rsschool-cv-html` to `gh-pages`
