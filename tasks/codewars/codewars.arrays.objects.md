@@ -15,7 +15,7 @@
 10. 6 kyu https://www.codewars.com/kata/valid-string
 
 ### Object
-1. 7 kyu https://www.codewars.com/kata/mylanguages
+1. 7 kyu https://www.codewars.com/kata/whos-online
 2. 6 kyu https://www.codewars.com/kata/count-characters-in-your-string
 3. 6 kyu https://www.codewars.com/kata/run-length-encoding
 4. 7 kyu https://www.codewars.com/kata/numbers-to-objects

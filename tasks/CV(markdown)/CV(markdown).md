@@ -44,7 +44,7 @@ The document should be deployed on GitHub Pages (https://pages.github.com/), it 
 
 ### PR (Pull Request) Requirements
 
-1. PR name should contain **the task name** and probably additional info.
+1. PR name should contain **the task name as "Markdown & Git"** and probably additional info.
 2. Changes **must not contain commented code, unnecessary files, changes from other branches and generated files** like \*.bundle.js. Please review your changes before contributing. .editorconfig, .gitignore, etc. can be included.
 3. Comments in the PR are a good practice.
 4. [How to write the perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)

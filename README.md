@@ -17,7 +17,7 @@
   ( 29.03.2022 - 04.04.2022 )
 
 - [HTML basics](modules/html-basics/)
-  - Test: "HTML Basic ( EN )"
+  - Test: "HTML Basics (EN)"
 - [Git](modules/git/)
   - Test: "Git Quiz"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -26,7 +26,7 @@
   ( 05.04.2022 - 11.04.2022 )
 
 - [CSS Basics](modules/css-basics/)
-  - Test: "CSS Basic (EN)"
+  - Test: "CSS Basics (EN)"
 - [Markdown](modules/markdown/)
   - Task: [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -35,7 +35,7 @@
   ( 12.04.2022 - 18.04.2022 )
 
 - [JS Basics. Part 1](modules/js-basics-1/)
-  - Test: "JS-basic. Part 1 (EN)"
+  - Test: "JS-basics. Part 1 (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #5 
@@ -43,7 +43,7 @@
 
 - [Figma](modules/figma/)
 - [JS Basics. Part 2](modules/js-basics-2/)
-  - Test: "JS-basic. Part 2 (EN)"
+  - Test: "JS-basics. Part 2 (EN)"
 - [DevTools](modules/devtools/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
@@ -51,7 +51,7 @@
   ( 26.04.2022 - 02.05.2022 )
 
 - [JS Basics. Part 3](modules/js-basics-3/)
-  - Test: "JS-basic. Part 3 (EN)"
+  - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
@@ -59,9 +59,9 @@
   ( 03.05.2022 - 09.05.2022 )
 
 - [JS Arrays](modules/js-arrays/)
-  - Test: "JS Array. Basic"
+  - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
-  - Test: "JS Object. Basic"
+  - Test: "JS Object. Basics"
   - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
