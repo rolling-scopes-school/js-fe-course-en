@@ -6,13 +6,15 @@ Shelter is the project in which you will create a markup with two pages, make it
 
 ## Stages of task completion
 
-**[Week 1](#week-1)**: Static markup of the `main` and `pets` pages.  
-- at this stage, you should create a static markup for the two pages. With the fixed layout, the pages look identical if the window width is at least 1280px.
+**[Week 1](#week-1)**: Static markup of the `main` page.  
+**[Week 2](#week-2)**: Static markup of the `pets` page.  
+- at these stages, you should create a static markup for the two pages. With the fixed layout, the pages look identical if the window width is at least 1280px.
 
 ## Task verification
 
 - The task will be checked by the cross-check flow. **There will be 3 checks in total, at each stage of the task.** [How to perform cross-check](https://docs.app.rs.school/#/platform/cross-check-flow).
   - [Cross-check evaluation criteria. Week 1](#cross-check-evaluation-criteria-week-1).
+  - [Cross-check evaluation criteria. Week 2](#cross-check-evaluation-criteria-week-2).
 
 ## Creation of a copy of the layout
 
@@ -123,6 +125,8 @@ JPG: **[shelter. main-1280. JPG](shelter-main-1280px.jpg)**
 - The image of the dog, address and contacts are different blocks that should not overlap.
 - The background of the block can be made with a gradient.
 
+## Week 2
+
 #### Desktop version of the Our Pets (40 points)
 
 JPG: **[shelter. Pets page. JPG](shelter-pets-1280px.jpg)**  
@@ -215,6 +219,8 @@ The *Main page* is created **+60**.
 - At least one `location` element does not work as a link to google maps: **-1**.
 - There's no image of a dog: **-2**. There is a image of a dog, but it is significantly shifted, or overlapped on the text or other blocks: **-1**.
 - The background significantly differs from what is on the designs (does not mean a shifted image or gradient): **-1**.
+
+## Cross-check evaluation criteria. Week 2
 
 The *Our pets* page is created **+40**.
 
