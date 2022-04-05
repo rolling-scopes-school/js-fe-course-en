@@ -15,7 +15,7 @@ Your task is to create your own CV using HTML and Css.
    * The CV should work in the Google Chrome browser
    * There are in the footer: link to your name, github name, date, course logo with the link
    * In case you are worried about your private information - you may use fake data
-6. Inside the `README.md` in the `rsschool-cv-html` branch put the link `https://GITHUB-USERNAME.github.io/rsschool-cv/` wherhe the `GITHUB-USERNAME` is your github name. This link should lead to your CV created with HTML and Css
+6. Inside the `README.md` in the `rsschool-cv-html` branch put the link `https://GITHUB-USERNAME.github.io/rsschool-cv/` where the `GITHUB-USERNAME` is your github name. This link should lead to your CV created with HTML and Css
 7. Create the Pull Request from the `rsschool-cv-html` to `gh-pages`. The name of PR should be `HTML, CSS & Git Basics`
 8. Merge the Pull Request from the `rsschool-cv-html` to `gh-pages`
 
