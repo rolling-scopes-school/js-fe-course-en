@@ -1,7 +1,7 @@
 # "CV. HTML, CSS & Git Basics"
 
 ## Task
-Your task is to create your own CV using HTML and Css.
+Your task is to create your own CV using HTML and CSS.
 
 ### Repository Requirements:
 1. Continue working in the repository `rsschool-cv` created during the previous task [CV.Markdown](./CV(markdown).md)
