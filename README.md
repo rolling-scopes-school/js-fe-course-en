@@ -105,7 +105,7 @@
 - Cross-check.Shelter
 - [JS Classes & Prototypes](modules/js-classes-prototypes/)
   - Test: ""
-  - Task: "Inheritance"
+  - Task: [Inheritance](tasks/classes-inheritance/classes-inheritance.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #13 ( 14.06.2022 - 20.06.2022 )
