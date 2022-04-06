@@ -76,6 +76,7 @@
 - Task: [BookShop.Week_2](tasks/books-shop/books-shop.md)
 - [DOM Events](modules/dom-events/)
   - Test: "DOM Events (EN)"
+- [Forms & Validation](modules/forms-validation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #10
@@ -141,20 +142,12 @@
 ### Week #17 
   ( 12.07.2022 - 18.07.2022 )
 
-- [Forms & Validation](modules/forms-validation/)
-  - Test: ""
-  - Task: ""
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
-### Week #18
-  ( 19.07.2022 - 25.07.2022 )
-
 - [Browser API](modules/browser-api/)
   - Test: ""
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
-### Week #19 
-  ( 26.07.2022 - 01.08.2022 )
+### Week #18
+  ( 19.07.2022 - 25.07.2022 )
 
 - [Design Patterns](modules/design-patterns/)
   - Test: ""
@@ -162,22 +155,27 @@
   - Test: ""
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
-### Week #20 
-  ( 02.08.2022 - 08.08.2022 )
+### Week #19 
+  ( 26.07.2022 - 01.08.2022 )
 
 - [TypeScript](modules/typescript/)
   - Test: ""
   - Task: ""
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
-### Week #21 
-  ( 09.08.2022 - 15.08.2022 )
+### Week #20 
+  ( 02.08.2022 - 08.08.2022 )
 
 - [Testing](modules/testing/)
   - Test: ""
 - [Software Development Lifecycle](modules/sdlc/)
   - Test: ""
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+
+### Week #21 
+  ( 09.08.2022 - 15.08.2022 )
+
+- [Preparing to interview](modules/interview-core-js/)
 
 </details>
 
