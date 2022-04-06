@@ -175,7 +175,7 @@
 ### Week #21 
   ( 09.08.2022 - 15.08.2022 )
 
-- [Preparing to interview](modules/interview-core-js/)
+- [Preparing to interview](modules/interview-core-js/interview.md)
 
 </details>
 

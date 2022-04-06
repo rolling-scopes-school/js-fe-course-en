@@ -7,6 +7,3 @@ You will learn how to work with forms, its events and how you can handle them.
 * [javascript.info. Forms, controls](https://javascript.info/forms-controls)
 * [MDN. Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 * [MDN. Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-
-
-### At the end of this module you should pass the [test](add link to the test)
