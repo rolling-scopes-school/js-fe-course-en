@@ -187,7 +187,6 @@
   - Test: ""
   - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
 - [Software Development Lifecycle](modules/sdlc/)
-  - Test: ""
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #21 
