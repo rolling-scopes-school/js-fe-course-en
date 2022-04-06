@@ -68,4 +68,4 @@ The document should be deployed on GitHub Pages (https://pages.github.com/), it 
    "Merge ..." or "Initial commit" commits were ignored.
 
 4. Question: I’ve got 50 and status "Failed PR requirements:...."  
-   Answer: The main reason, in the majority of cases, is that you haven’t made a Pull Request from ‘gh-pages’ to ‘master’. The other reason - there is no task title ("Markdown & Git") in your Pull Request. To look at your PR you can here:  https://github.com/your-github-account/rsschool-cv/pulls?utf8=%E2%9C%93&q=is%3Apr
+   Answer: The main reason, in the majority of cases, is that you haven’t made a Pull Request from ‘gh-pages’ to ‘master’. The other reason - there is no task title ("Markdown & Git") in your Pull Request. To look at your PR you can here: https://github.com/your-github-account/rsschool-cv/pulls?utf8=%E2%9C%93&q=is%3Apr
