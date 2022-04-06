@@ -53,7 +53,7 @@
 ### Week #6 
   ( 26.04.2022 - 02.05.2022 )
 
-- Task: "Shelter.Week_1"
+- Task: [Shelter.Week_1](tasks/shelter/README.md)
 - [JS Basics. Part 3](modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
@@ -62,7 +62,7 @@
 ### Week #7 
   ( 03.05.2022 - 09.05.2022 )
 
-- Task: "Shelter.Week_2"
+- Task: [Shelter.Week_2](tasks/shelter/README.md)
 - [JS Arrays](modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
