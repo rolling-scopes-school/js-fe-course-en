@@ -8,7 +8,7 @@ Your task is checking colleagues' CV.
 * Semantic layout
 * Content should be placed in the horizontal centered block
 * The CV should work in the Google Chrome browser
-* There are in the footer: link to your name, github name, date, course logo with the link
+* There are in the footer: link to your github, date ( month/year), course logo with the link
 * In case you are worried about your private information - you may use fake data
 
 ### Scoring criteria
