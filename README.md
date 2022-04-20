@@ -63,6 +63,7 @@
   ( 03.05.2022 - 09.05.2022 )
 
 - Task: [Shelter.Week_2](tasks/shelter/README.md)
+- Cross-check: [Shelter.Week_1](tasks/shelter/README.md)
 - [JS Arrays](modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
@@ -74,6 +75,7 @@
   ( 10.05.2022 - 16.05.2022 )
 
 - Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
+- Cross-check: [Shelter.Week_2](tasks/shelter/README.md)
 - [DOM API](modules/dom-api/)
   - Test: "DOM API (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
