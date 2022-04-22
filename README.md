@@ -59,7 +59,7 @@
 
 ( 26.04.2022 - 02.05.2022 )
 
-- Task: [Shelter.Week_1](tasks/shelter/README.md)
+- Task: [Shelter.Week_1](tasks/shelter/README.md) (Deadline of submitting  for cross-check - May, 02. 23.59 (GMT + 3))
 - [JS Basics. Part 3](modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
@@ -69,7 +69,7 @@
 
 ( 03.05.2022 - 09.05.2022 )
 
-- Task: [Shelter.Week_2](tasks/shelter/README.md)
+- Task: [Shelter.Week_2](tasks/shelter/README.md) (Deadline of submitting  for cross-check - May, 09. 23.59 (GMT + 3))
 - Cross-check: [Shelter.Week_1](tasks/shelter/README.md)
 - [JS Arrays](modules/js-arrays/)
   - Test: "JS Array. Basics"
@@ -92,7 +92,7 @@
 
 ( 17.05.2022 - 23.05.2022 )
 
-- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md)
+- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md) (Deadline of submitting  for cross-check - May, 23. 23.59 (GMT + 3))
 - [DOM Events](modules/dom-events/)
   - Test: "DOM Events (EN)"
 - [Forms & Validation](modules/forms-validation/)
