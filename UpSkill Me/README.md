@@ -24,17 +24,17 @@
 - [CSS Basics](../modules/css-basics/)
   - Test: "CSS Basics (EN)"
 - [Markdown](../modules/markdown/)
-  - Task: [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Task: [CV.Markdown](<../tasks/CV(markdown)/CV(markdown).md>)
 
 ### Week #4
 
-- Task: [CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(HTML+CSS+Markdown).md)
+- Task: [CV. HTML, CSS & Git Basics](<../tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [JS Basics. Part 1](../modules/js-basics-1/)
   - Test: "JS-basics. Part 1 (EN)"
 
 ### Week #5
 
-- Cross-check.[CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(cross-check).md)
+- Cross-check.[CV. HTML, CSS & Git Basics](<../tasks/CV(markdown)/CV(cross-check).md>)
 - [Figma](../modules/figma/)
 - [JS Basics. Part 2](../modules/js-basics-2/)
   - Test: "JS-basics. Part 2 (EN)"
@@ -42,14 +42,14 @@
 
 ### Week #6
 
-- Task: [Shelter.Week_1](../tasks/shelter/README.md) (Deadline of submitting  for cross-check - May, 02. 23.59 (GMT + 3))
+- Task: [Shelter.Week_1](../tasks/shelter/README.md) (Deadline of submitting for cross-check - May, 02. 23.59 (GMT + 3))
 - [JS Basics. Part 3](../modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](../tasks/codewars/codewars.strings.numbers.md)
 
 ### Week #7
 
-- Task: [Shelter.Week_2](../tasks/shelter/README.md) (Deadline of submitting  for cross-check - May, 09. 23.59 (GMT + 3))
+- Task: [Shelter.Week_2](../tasks/shelter/README.md) (Deadline of submitting for cross-check - May, 09. 23.59 (GMT + 3))
 - Cross-check: [Shelter.Week_1](../tasks/shelter/README.md)
 - [JS Arrays](../modules/js-arrays/)
   - Test: "JS Array. Basics"
@@ -66,7 +66,7 @@
 
 ### Week #9
 
-- Task: [BookShop.Week_2](../tasks/books-shop/books-shop.md) (Deadline of submitting  for cross-check - May, 23. 23.59 (GMT + 3))
+- Task: [BookShop.Week_2](../tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - May, 23. 23.59 (GMT + 3))
 - [DOM Events](../modules/dom-events/)
   - Test: "DOM Events (EN)"
 - [Forms & Validation](../modules/forms-validation/)
@@ -86,7 +86,7 @@
 
 </details>
 
-#### Interview with mentors 
+#### Interview with mentors
 
 <details>
 <summary>Stage 2</summary>
@@ -107,7 +107,7 @@
 ### Week #14
 
 - [JS Async Programming](../modules/js-async/)
-  - Test: ""
+  - Test: "Async (EN)"
   - Task: [English for kids](../tasks/english-for-kids/english-for-kids.md)
 
 ### Week #15
@@ -180,4 +180,4 @@
 
 </details>
 
-#### Exit Interview 
+#### Exit Interview
