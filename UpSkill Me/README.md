@@ -42,14 +42,14 @@
 
 ### Week #6
 
-- Task: [Shelter.Week_1](../tasks/shelter/README.md) (Deadline of submitting  for cross-check - May, 02. 23.59 (GMT + 3))
+- Task: [Shelter.Week_1](../tasks/shelter/README.md)
 - [JS Basics. Part 3](../modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](../tasks/codewars/codewars.strings.numbers.md)
 
 ### Week #7
 
-- Task: [Shelter.Week_2](../tasks/shelter/README.md) (Deadline of submitting  for cross-check - May, 09. 23.59 (GMT + 3))
+- Task: [Shelter.Week_2](../tasks/shelter/README.md)
 - Cross-check: [Shelter.Week_1](../tasks/shelter/README.md)
 - [JS Arrays](../modules/js-arrays/)
   - Test: "JS Array. Basics"
@@ -66,7 +66,7 @@
 
 ### Week #9
 
-- Task: [BookShop.Week_2](../tasks/books-shop/books-shop.md) (Deadline of submitting  for cross-check - May, 23. 23.59 (GMT + 3))
+- Task: [BookShop.Week_2](../tasks/books-shop/books-shop.md)
 - [DOM Events](../modules/dom-events/)
   - Test: "DOM Events (EN)"
 - [Forms & Validation](../modules/forms-validation/)
