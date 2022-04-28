@@ -3,7 +3,7 @@
 ![Welcome](img.png)
 
 ### About course
-[The course](../../UpSkill Me/README.md) divided on **3 stages**, stages - on weeks. Each week you will have a test or task or event several assignments.
+[The course](../UpSkill Me/README.md) divided on **3 stages**, stages - on weeks. Each week you will have a test or task or event several assignments.
 On **stage 1** you will learn *git, HTML, Css* and get basic knowledge on *JavaScript*. After stage 1 you will pass the interviewer, according to knowledge you got,  with your future mentor.
 During **stage 2** you will improve knowledge on *JavaScript*, familiar with *TypeScript, Testing, Software Methodology*,  implement interesting tasks. Your mentor will check tasks and provide valuable feedback. This stage  will finish with an interview as well, according to information from stage 2.
 And finally, **stage 3** will let you know about **Angular** - one of the most demanded framework nowadays.
