@@ -25,7 +25,7 @@ See you there!
 
 
 ### Useful links
-1. [Schedule](../UpSkill Me/README.md)
+1. [Schedule](../../UpSkillMe/README.md)
 2. [Discord](!!!add link)
 3. [RS application](https://app.rs.school/)
 4. [Registration to RS app](https://app.rs.school/registry/student?course=upskill-me)
