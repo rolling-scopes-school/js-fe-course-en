@@ -3,9 +3,9 @@
 ![Welcome](img.png)
 
 ### About course
-[The course](../../UpSkill Me/README.md) divided on **3 stages**, stages - on weeks. Each week you will have a test or task or event several assignments.
-On **stage 1** you will learn *git, HTML, Css* and get basic knowledge on *JavaScript*. After stage 1 you will pass the interviewer, according to knowledge you got,  with your future mentor.
-During **stage 2** you will improve knowledge on *JavaScript*, familiar with *TypeScript, Testing, Software Methodology*,  implement interesting tasks. Your mentor will check tasks and provide valuable feedback. This stage  will finish with an interview as well, according to information from stage 2.
+[The course](../../UpSkillMe/README.md) divided on **3 stages**, stages - on weeks. Each week you will have a test or task or even several assignments.
+On **stage 1** you will learn *git, HTML, Css, Flex, Grid* and get basic knowledge on *JavaScript*. After stage 1 you will pass the interviewer, according to knowledge you got,  with your future mentor.
+During **stage 2** you will improve knowledge on *JavaScript*, familiar with *TypeScript,NPM. Webpack, Testing, Software Methodology*,  implement interesting tasks. Your mentor will check tasks and provide valuable feedback. This stage  will finish with an interview as well, according to information from stage 2.
 And finally, **stage 3** will let you know about **Angular** - one of the most demanded framework nowadays.
 
 
@@ -23,7 +23,7 @@ See you there!
 
 
 ### Useful links
-1. [Schedule](../../UpSkill Me/README.md)
+1. [Schedule](../UpSkill Me/README.md)
 2. [Discord](!!!add link)
 3. [RS application](https://app.rs.school/)
 4. [Registration to RS app](https://app.rs.school/registry/student?course=upskill-me)
