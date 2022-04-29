@@ -112,7 +112,6 @@ JPG: **[shelter. main-1280. JPG](shelter-main-1280px.jpg)**
 - Clicking on `Get to know the rest` takes us to the *our pets* page.
   
 5. **Help** block
-- For positioning block elements, flexbox or grid layout is used.
 - Arrangement of elements: necessarily 5 elements on top and 4 elements on the bottom.
   
 6. **In addition** block
@@ -157,7 +156,7 @@ JPG: **[shelter. Pets page. JPG](shelter-pets-1280px.jpg)**
 
 ## Cross-check evaluation criteria. Week 1
 
-Open the application with 1280px screen width. If the screen is smaller, you can zoom in, or you can set the page width to 1280px and observe the horizontal scrollbar. If the screen is wider, you can make the area narrower or narrow the window.
+Open the application at 1280px screen width. If the screen is smaller, you can zoom in, or you can set the page width to 1280px and observe with the visible horizontal scrollbar. If the screen is wider, you can make the area narrower or narrow the window. If the vertical scroll is present, in some cases the width may not match the one that displays the value in the dev tools (the offset can be up to 17px). When checking, keep this in mind and make sure that the width is set correctly.
 
 The task is checked exclusively according to the criteria specified below. If you see some kind of defect or mistake in the work that does not match a criterion, the score should not be decreased. But you can highlight it in the comments.
 
