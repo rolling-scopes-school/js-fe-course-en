@@ -84,6 +84,7 @@
 
 - Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
 - Cross-check: [Shelter.Week_2](tasks/shelter/README.md)
+- Complete task: Codewars: Array, Object
 - [DOM API](modules/dom-api/)
   - Test: "DOM API (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
