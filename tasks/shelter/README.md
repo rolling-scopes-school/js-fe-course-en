@@ -132,10 +132,10 @@ JPG: **[shelter. Pets page. JPG](shelter-pets-1280px.jpg)**
 
 1. **Header** (`<header>` contains only the logo and navigation bar)
 - Interactive navigation bar:
-  - `About the shelter` element should be highlighted by default;
-  - highlighted `About the shelter` element may not have hover effects.
-- Clicking on `Our pets` takes us to the *our pets* page.
-- Clicking on `Help the shelter` redirects us to the *Help* block located on the same page (anchor link).
+  - `Our pets` element should be highlighted by default;
+  - highlighted `Our pets` element may not have hover effects.
+- Clicking on `About the shelter` takes us to the the *main page*
+- Clicking on `Help the shelter` redirects us to the *Help* block located on the *main page* (anchor link).
 - Clicking on `Contacts` takes us to the *Footer* block located on the same page (anchor link).
 - The logo is located on the left. The logo consists of text elements (i.e. not a picture). Clicking on the logo leaves us on the current page.
 - There must be one `<h1>` element on the page. You can make it with the text `Cozy House`.
@@ -224,12 +224,12 @@ The *Main page* is created **+60**.
 The *Our pets* page is created **+40**.
 
 1. The **Header** block is absent: **-10**.
-- There's no logo: **-2** The logo is present, but does not work as a link to the page *main*: **-1**.
+- There's no logo: **-2** The logo is present, but does not work as a link to the *Main page*: **-1**.
 - No navbar: **-5**. The navigation bar is present, but not interactive: **-1**. It is recommended to use `<nav>`.
 - The `About the shelter` element does not work as a link to the *Main page*: **-1**.
 - The `Our pets` element is not highlighted: **-1**.
 - The `Help the shelter` element does not work as an anchor link to the *Help* block of the *Main page*: **-1**.
-- The `Contacts` element does not work as an anchor link to the *Footer* block: **-1**.
+- The `Contacts` element does not work as an anchor link to the *Footer* block of the same page: **-1**.
 - There is no `<h1>` element on the page: **-2**. There is an `<h1>` element, but there is more than one: **-1**.
 - The background significantly differs from what is on the designs (does not mean a shifted image or gradient): **-1**.
 
