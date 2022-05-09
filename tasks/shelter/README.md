@@ -137,7 +137,7 @@ JPG: **[shelter. Pets page. JPG](shelter-pets-1280px.jpg)**
 - Clicking on `About the shelter` takes us to the the *main page*
 - Clicking on `Help the shelter` redirects us to the *Help* block located on the *main page* (anchor link).
 - Clicking on `Contacts` takes us to the *Footer* block located on the same page (anchor link).
-- The logo is located on the left. The logo consists of text elements (i.e. not a picture). Clicking on the logo leaves us on the current page.
+- The logo is located on the left. The logo consists of text elements (i.e. not a picture). Clicking on the logo takes us to the *main page*.
 - There must be one `<h1>` element on the page. You can make it with the text `Cozy House`.
 - There is no need to make the header "sticky". It means what when scrolling, it remains in its position.
 
