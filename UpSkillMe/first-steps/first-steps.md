@@ -18,8 +18,8 @@ During this course, you will use several online resources: Rolling Scopes applic
 1. Follow the link https://app.rs.school/registry/student?course=upskill-me
 ![Registration](../images/img.png)
 2. Make sure you choose the *'UpSkill Me (JavaScript, May 2022)'* course
-3. Fill all fields with information about yourself
-4. Visit the https://app.rs.school/, fill you profile. RS app will the main resource to pass task/test and following your progress
+3. Fill in all fields with information about yourself
+4. Visit the https://app.rs.school/, fillin your profile. RS app will be the main resource to pass task/test and follow your progress
 ![RSApp](../images/img_1.png)
 ![Profile](../images/img_2.png)
 
