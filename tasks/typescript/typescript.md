@@ -27,7 +27,7 @@
 * the footer contains a link to your github, date (month, year), course [logo](https://rs.school/images/rs_school_js.svg) with [course link](https://rs.school/js-en/)
 
 ## Your task is done when
-1. `Typescritp` is added to your application
+1. `Typescript` is added to your application
    * added `npm` package `Typescript`
    * created `tscongig.json` file
 2. `ESLint` and `Webpack` configured to work with `Typescript`
