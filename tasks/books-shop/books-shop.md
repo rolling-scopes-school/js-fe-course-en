@@ -4,7 +4,7 @@
 The books shop owner asked you to create the online shop to buy book with delivery to user's home. He wants the user to be able to look through the books' catalog, see the description of a particular book, add a book to the bag, choose the appropriate date and address to deliver. 
 
 ## Stages of task completion
-**Week_1**: Layout of catalog page (the page should be created through the JavaScript code. It means. You have hmtl file without tags (if you need, you may add main or div as wrapper, not more). All tags should be created in the js code. Styles you describe in the css file, using JavaScript you add css classes to created tags), the delivery form (should be created inside the HTML file)
+**Week_1**: Layout of catalog page (the page should be created through the JavaScript code. It means. You have html file without tags (if you need, you may add main or div as wrapper, not more). All tags should be created in the js code. Styles you describe in the css file, using JavaScript you add css classes to created tags), the delivery form (should be created inside the HTML file)
 
 **Week_2**: Add actions to pages: 
  * add book to the bag by click on appropriate button or by drag the image of book to the bag (drag and drop), 
