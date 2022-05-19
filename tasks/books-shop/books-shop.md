@@ -26,7 +26,7 @@ The books shop owner asked you to create the online shop to buy book with delive
    * Delivery date(mandatory, not earlier than next day)
    * Street (mandatory, the length not less than 5 symbols, the numbers are allowed)
    * House number(mandatory, numbers only, positive numbers only)
-   * Flat number(mandatory, numbers only, positive numbers only, the dash symbol is allowed)
+   * Flat number(mandatory, numbers only, positive numbers only, the dash symbol is allowed. Means, the flat number shouldn't start with minus/dash symbol. For example:  -37 is invalid, but 1-37 is valid)
    * Choose the payment type(radio buttons group): Cash or Card (mandatory)
    * Choose 2 gifts:  (optional)
      - pack as a gift, 
