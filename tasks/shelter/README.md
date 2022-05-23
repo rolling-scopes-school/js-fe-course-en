@@ -296,11 +296,11 @@ Pay attention to additions:
 
 The task will be evaluated by resizing the Google Chrome browser window, or by connecting device emulation through the developer panel (DevTools -> Toggle Device Toolbar). Evaluation the project on real mobile devices or tablets is **not required**.
 
-❗ Make sure you don't have a vertical scroll bar when you check, because it "eats" part of the responsive layout space with its width. To disable it, you must select the `Responsive` emulation mode, as well as set the device type to `Mobile`. If the device type is not displayed, in the top bar of the `device toolbar`, click on the three dots on the right and select `Add device type`.
+❗ Make sure you don't have a vertical scroll bar when you check, because it takes part of the responsive layout space with its width. To disable it, you must select the `Responsive` emulation mode, as well as set the device type to `Mobile`. If the device type is not displayed, in the top bar of the `device toolbar`, click on the three dots on the right and select `Add device type`.
 
 ![responsive](shelter-responsive.png)
 
-**"responsive"** are sizes given in relative values from the width of the window or parent block, which smoothly change their values when the browser window is reduced or enlarged. The main thing is that when imposing a picture, for example, at 768px on a layout with a width of 768px, the sizes or indents match.
+**"responsive"** are sizes given in relative values from the width of the window or parent block, which smoothly change their values when the browser window is reduced or enlarged. The main thing is that when imposing a picture, for example, at 768px on a layout with a width of 768px, the sizes or indents should match.
 
 ❗ The page should not fall apart, which means that padding, block sizes, and so on, should not go beyond the right edge of the screen and there should not be a horizontal scroll, up to a threshold value (less than 320px).
 
@@ -312,47 +312,47 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 ### Main Page
 
-1. **Header** (`<header>` only contains logo and navigation bar)
+1. **Header** (`<header>` contains only the logo and navigation bar)
 
 - The logo is nailed closer to the top of the page.
 - Padding to the left of the logo and to the right of the navigation menu must be hardcoded, as in the `768px` layout.
-- You don't need to make the header sticky. Those, when scrolling, it remains in its position.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
 2. **Not only** section
 
-- The title with the text "Not only people need a house" should be positioned as indicated on the layout. Those, line wrapping must match the layout. To do this, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- The title with the text "Not only people need a house" should be positioned as indicated on the layout, i.e. the line wrapping must match the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
 - The block with the text "We offer to give..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
 - The "Make a Friend" button should be centered and rigidly sized like the `768px` layout.
 - The dog picture can be `responsive`, but the offset to the right must remain proportional, i.e. padding to the right margin can also be `responsive`.
 
 3. **About** section
 
-- The title with the text "About the shelter..." should be positioned as indicated on the layout. Those, line wrapping must match the layout. To do this, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- The title with the text "About the shelter..." should be positioned as indicated on the layout, i.e. the line wrapping must match the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
 - Blocks with the text "Currently..." and "We feed our..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
 - A picture of a cat and a dog, its indents can be `responsive`. The main thing is that the picture is centered.
 
 4. **Our Friends** section
 
-- The block header must be centered. Block with text and padding can be `responsive`.
+- The header block must be centered. Block with text and padding can be `responsive`.
 - Instead of three blocks with pets, there should now be two. Pet blocks are rigidly sized, as in the `assets` layout. In this case, the indents between blocks, slider arrows or screen edges can be `responsive`.
 - The "Get to know the rest" button should be centered and rigidly sized like the `768px` layout.
 
 5. **Help** section
 
-- The block header must be centered. Block with text and padding can be `responsive`.
-- Elements are arranged in a grid, 3 x 3. Either the grid increases in proportion to the size of the screen, or the indents between the elements and the edges of the screen can be made `responsive`. The grid structure should not change.
+- The header block must be centered. Block with text and padding can be `responsive`.
+- Elements are arranged in a 3 x 3 grid. Either the grid increases in proportion to the size of the screen or the indents between the elements and the edges of the screen can be `responsive`. The grid structure should not change.
 
 6. **In addition** section
 
-- The block with the text "You can..." must be positioned as indicated on the layout. Those, line wrapping must match the layout. To do this, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
-- The block with the text "Name of the bank..." should be located as indicated on the layout. To do this, you can make an additional wrapper, which is centered relative to the main blocks. Only padding can be `responsive`, but the left padding must match the next button padding.
-- The button with the bank account number must be located as indicated on the layout and have a fixed size, as on the `768px` layout. To do this, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
-- The block with the text "Legal information..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- The block with the text "You can..." must be positioned as indicated on the layout, i.e. line wrapping must match the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- The block with the "Name of the bank..." text should be located as indicated on the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only padding can be `responsive`, but the left padding must match the next button padding.
+- The button with the bank account number should be located as indicated on the layout and have a fixed size, as on the `768px` layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- The block with the "Legal information..." text should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
 - Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 7. **Footer** (`<footer>` contains contacts, address and image):
 
-- There is a grid of two columns. Please note that the grid box itself must be centered. Those, the distance to the left of the first column is the same as the distance to the right of the second column. In this case, the columns themselves and indents can be `responsive`.
+- There is a grid of two columns. Please note that the grid block itself must be centered, i.e. the distance to the left of the first column is the same as the distance to the right of the second column. In this case, the columns themselves and indents can be `responsive`.
 - Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 ### Pets Page
@@ -361,7 +361,7 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 - The logo is nailed closer to the top of the page.
 - Padding to the left of the logo and to the right of the navigation menu must be hardcoded, as in the `768px` layout.
-- You don't need to make the header sticky. Those, when scrolling, it remains in its position.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
 2. **Our Friends** section
 
@@ -371,7 +371,7 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 3. **Footer** (`<footer>` contains contacts, address and image):
 
-- There is a grid of two columns. Please note that the grid box itself must be centered. Those, the distance to the left of the first column is the same as the distance to the right of the second column. In this case, the columns themselves and indents can be `responsive`.
+- There is a grid of two columns. Please note that the grid box itself must be centered, i.e. the distance to the left of the first column is the same as the distance to the right of the second column. In this case, the columns themselves and indents can be `responsive`.
 - Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 ## 320px <= width < 768px
@@ -380,21 +380,21 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 1. **Header** (`<header>` only contains logo and burger menu)
 
-- The navigation menu is transformed into the burger menu, which will open on click and offer the familiar navigation bar. The logo is duplicated in the open menu, although this is not visible on the layout. However, if you made the menu open and the logo disappears from the main page - this is not a mistake, points will not be deducted.
-- The indent to the left of the logo can be `responsive`. The padding to the right of the navigation menu must be hardcoded, as in the `320px` layout.
-- You don't need to make the header sticky. Those, when scrolling, it remains in its position.
+- The navigation menu is transformed into the burger menu, which will open on click and offer the familiar navigation bar. The logo is duplicated in the open menu, although it's not visible on the layout. However, if you implemented it so that the menu opens and the logo disappears from the main page - it's not a mistake, and the score will not be reduced.
+- The indent to the left of the logo can be `responsive`. The padding to the right of the navigation menu should be hardcoded, as in the `320px` layout.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
 2. **Not only** section
 
-- The title with the text "Not only people need a house" should be centered with equal margins around the edges. Block with text and padding can be `responsive`.
-- The block with the text "We offer to give..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- The title with the "Not only people need a house" text should be centered with equal margins around the edges. Block with text and padding can be `responsive`.
+- The block with the "We offer to give..." text should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
 - The "Make a Friend" button should be centered and rigidly sized like the `320px` layout.
 - The dog picture can be `responsive`, but the offset to the right must remain proportional, i.e. padding to the right margin can also be `responsive`.
 
 3. **About** section
 
-- The title with the text "About the shelter..." should be centered with equal margins around the edges. Block with text and padding can be `responsive`.
-- Blocks with the text "Currently..." and "We feed our..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- The title with the "About the shelter..." text should be centered with equal margins around the edges. Block with text and padding can be `responsive`.
+- Blocks with the "Currently..." text and "We feed our..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
 - Cat and dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 4. **Our Friends** section
@@ -410,8 +410,8 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 6. **In addition** section
 
-- Block with text "You can..." should be centered. Block with text and padding can be `responsive`.
-- The block with the text "Name of the bank..." should be centered. Block with text and padding can be `responsive`.
+- Block with the "You can..." text should be centered. Block with text and padding can be `responsive`.
+- The block with the "Name of the bank..." text should be centered. Block with text and padding can be `responsive`.
 - The button with the bank account number must be centered. The button itself, as well as padding to the edges of the screen, can be `responsive`.
 - The block with the text "Legal information..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
 - Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
@@ -427,7 +427,7 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 - The navigation menu is transformed into the burger menu, which will open on click and offer the familiar navigation bar. The logo is duplicated in the open menu, although this is not visible on the layout. However, if you made the menu open and the logo disappears from the main page - this is not a mistake, the points will not be reduced.
 - The indent to the left of the logo can be `responsive`. The padding to the right of the navigation menu must be hardcoded, as in the `320px` layout.
-- You don't need to make the header sticky. Those, when scrolling, it remains in its position.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
 2. **Our Friends** section
 
@@ -442,13 +442,16 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 ## width < 320px
 
-Minimum layout width = 320px. After the threshold value, the location of the layout does not matter. The layout structure remains the same as with a width of 320px. If at some point when the screen width is reduced, the layout "breaks", this is not a mistake.
+Minimum layout width = 320px. After the threshold value, the location of the layout does not matter. The layout structure remains the same with a width of 320px. If at some moment during screen resolution reduction the layout "breaks" it's not a mistake.
 
 ## Cross-check evaluation criteria. Week 3
 
-❗ **Important note #1**: When changing the width using the dev tools and having a vertical scrollbar, the discrepancy can be up to 17px (standard vertical scrollbar width). In this case, you must either change the width by the amount of this discrepancy, or go to [task verification features](#task-verification-features) so that there is no vertical scrollbar.
+❗ **Important note #1**: When changing the width using the dev tools and having a vertical scrollbar, the discrepancy can be up to 17px (standard vertical scrollbar width). In this case, you must either change the width by the amount of this discrepancy or go to [task verification features](#task-verification-features) so that there is no vertical scrollbar.
+
 ❗ **Important note #2**: When scaling the screen (for example, zoom+ 125%), the actual width may differ by 1-2 pixels. For example, the real value could be 767 or 769, although the developer tools will show 768. Therefore, you need to shift to the transition point, despite the difference.
+
 ❗ **Important note #3**: The only block in which elements do not have to follow a structure is the `Help` block. If the elements are listed as enumerated elements, then when checking for responsive layout, the indents from the edge of the block to the elements, as well as the number in the row, are not taken into account and the points are not reduced. It also does not evaluate whether elements are centered or nailed to the left. However, size violation is taken into account, be careful!
+
 ❗ **Important note #4**: Checking for full compliance with layouts by Perfect Pixel occurs only at the corresponding breakpoints - 1280px, 768px, 320px. At all intermediate values, the absence of exact following of indents and sizes is allowed, but it is recommended to follow the principles of the arrangement of certain elements that are not noted in specific requirements.
 
 ---
@@ -460,11 +463,11 @@ Minimum layout width = 320px. After the threshold value, the location of the lay
 - **Size Violation** is a situation when the dimensions of elements (buttons, pictures, animal cards, icons) differ from those specified on the layout by more than 10 pixels in height or width. The check is carried out in the same way as in case of violation of indents, and if the differences are large, we remove the specified number of points.
 - The length of the text and words in width, as well as the order of word wrapping in lines, we **do not take into account when checking**.
 - **Unique error** is the new error found in the block being checked. Regardless of how many times this error is repeated in the block being checked, the specified number of points is deducted only 1 time.
-  For example, the button in all animal cards moved out. We will remove points only once, because most likely the general style is broken. If there is only one card with the button that has moved down (and in the rest the button is in its place), we still remove the indicated number of points. Those, there is no difference, the error is in one repeated element, or in several.
+  For example, the button in all animal cards moved out. We will remove points only once because most likely the general style is broken. If there is only one card with the button that has moved down (and in the rest, the button is in its place), we still remove the indicated number of points, i.e. there is no difference, the error is in one repeated element, or in several.
 
 ### General check of application behavior when window width is changed
 
-Even if the screen is stretched to 4k, even if it is reduced to 320px, the integrity of the application should not be lost. With smooth resizing, we do not take into account the exact calculations of the location of elements. At this stage, the **Google Chrome** browser checks for:
+Even if the screen is stretched to 4k, even if it is reduced to 320px, the integrity of the application should not be lost. With smooth resizing, we do not take into account the exact calculations of the location of elements. At this stage, we check on the **Google Chrome** browser for:
 
 - no horizontal scroll bar on any screen width up to 320px;
 - elements should not go beyond the side borders of the screen\* for any screen width up to 320px.
@@ -474,10 +477,10 @@ Even if the screen is stretched to 4k, even if it is reduced to 320px, the integ
 
   After checking the responsiveness of the layout in the Google Chrome browser, a similar check is performed in the **Mozilla Firefox** browser, in which:
 
-- if when resizing the browser window from the maximum to 320px a horizontal scrollbar appears, or the content goes off the screen, **-20** is removed.
+- if a horizontal scrollbar appears when resizing the browser window from the maximum to 320px, or the content goes off the screen, **-20** points are removed.
 - if the horizontal scrollbar does not appear when the browser window is resized from the maximum to 320px, the content does not go off the screen, but some other layout problems appear (other than those in Google Chrome) - ** -5 is removed for each** with a description of the problem, but **no more than -20**.
 
-  The maximum number of points that can be deducted if there are errors during the check in the browser **Mozilla Firefox** - **-20**.\*\*\*
+  The maximum number of points that can be deducted if there are errors during the check on the **Mozilla Firefox** browser - **-20**.\*\*\*
 
   \* _when the screen width is <768px, the burger menu can go beyond the side border of the screen. Because this is normal practice, it is not considered an error if the horizontal scrolling does not appear on the page._
   \*\* _if a page is set to 0 during the general check, no further criteria related to that page are checked._
@@ -489,8 +492,8 @@ When checking on large screens, it is acceptable:
 **1) block backgrounds are stretched to the full width of the window**, while the content itself is in the center of the screen and corresponds to the layout;
 **2) the layout occupies a maximum width of 1280px** and matches the layout, is centered with equal indents on the left and right, the free space is filled with any color;
 
-For any of the cases above, it is **considered an error** if the content is not centered, i.e. aligned to the right or the left side. In case of such an error **removed -10** points per page.
-If the content is centered, it checks if it matches the 1280px layout, for this:
+For any of the cases above, it is **considered an error** if the content is not centered, i.e. aligned to the right or the left side. In case of such an error **-10** points penalty applied per page.
+If the content is centered, we check if it matches the 1280px layout. To do so:
 
 - set window width to 1280px
 - check for indentation violations or size violations.
@@ -546,7 +549,7 @@ A check is made to match our-pets-1280 layout, for this:
 Check if the following conditions for responsive layout are met:
 
 - `Header` and `Not only` section background is stretched.
-- The picture of the dog below in the `Not only` ыусешщт does not intersect with the text.
+- The picture of the dog below in the `Not only` section does not intersect with the text.
 - All paragraphs with text are aligned to the left in the `Not only` section. The blocks themselves are centered.
 - "Make a friend" button is centered.
 - All paragraphs with text are aligned to the left in the `About the shelter` section. The blocks themselves are centered.
@@ -557,7 +560,7 @@ Check if the following conditions for responsive layout are met:
 - The picture of the dog below in the `Footer` section does not intersect with the text.
 
 If the conditions are violated, **-5** is deducted for each item.
-If blocks or elements go beyond the screen, or overlap each other, **-5** is deducted for each unique error.
+If blocks or elements go beyond the screen or overlap each other, **-5** is deducted for each unique mistake.
 
 Compliance with the main-768 layout is checked, for which:
 
@@ -571,7 +574,7 @@ Check if the conditions for responsive layout are met:
 
 - `Header` is always visible, located at the top of the page, including when scrolling.
 - In the `Our friends` section there are 6 pet cards, 3 rows of 2 elements.
-- In the `Our friends` section, all elements and blocks with elements are centered. If a pagination is found to have a flaw or layout inaccuracy, make sure the problem still exists after you set the width and **reload the page** before lowering the score.
+- In the `Our friends` section, all elements and blocks with elements are centered. If pagination is found to have a flaw or layout inaccuracy, make sure the problem still exists after you set the width and **reload the page** before lowering the score.
 - When opening the page, the pagination should have the number "1", and the buttons on the left are inactive.
 - The picture of the dog below in the `Footer` section does not intersect with the text.
 
@@ -582,7 +585,7 @@ The our-pets-768 layout check is performed, for this:
 
 - set window width to 768px
 - check for indentation violations or size violations.
-  **-3** is deducted for each unique error in indentation or size violation, **but not more than -15 in total, including deduction for violation of responsive layout conditions**.
+  **-3** is deducted for each unique mistake in indentation or size violation, **but not more than -15 in total, including a deduction for violation of responsive layout conditions**.
 
 ### 320px <= width < 768px (maximum -15 points per page)
 
@@ -601,8 +604,8 @@ Check if the following conditions for responsive layout are met:
 - Headings with text, icon and email address, icon and phone number and dog picture at the very bottom are centered in the `Footer` section.
 - Location and address icons are left aligned and the block itself is centered. If locations and icons are completely centered - this is not a mistake, we do not deduct points!
 
-If the conditions are violated, **-5** is deducted for each item.
-If blocks or elements go beyond the screen, or overlap each other, **-5** is deducted for each unique error.
+If the conditions are violated, **-5** is deducted for each point.
+If blocks or elements go beyond the screen or overlap each other, **-5** is deducted for each unique mistake.
 
 The main-320 layout check is performed, for this:
 
