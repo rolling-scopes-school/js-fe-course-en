@@ -82,7 +82,7 @@ You can connect fonts by either downloading local files or connecting fonts via 
 
 ## Week 1
 
-The original width of the provided layout is 1280px. The width of the wrapper or guide columns is 1200px. The sizes of internal blocks are recommended to be set in relative values (%, vw) in order not to rewrite CSS styles for fluid layout.
+The original width of the provided layout is 1280px. The width of the wrapper or guide columns is 1200px. The sizes of internal blocks are recommended to be set in relative values (%, vw) in order not to rewrite CSS styles for responsive layout.
 
 When the window width is above 1280px, the layout should remain centered, and not stretch to the full width of the window. To fill the free space, you can either stretch the backgrounds of the corresponding blocks to the entire width of the window, or use any of the colors present in the [designs](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom):
 
@@ -296,334 +296,337 @@ Pay attention to additions:
 
 The task will be evaluated by resizing the Google Chrome browser window, or by connecting device emulation through the developer panel (DevTools -> Toggle Device Toolbar). Evaluation the project on real mobile devices or tablets is **not required**.
 
-❗ Убедитесь, что при проверке у вас отсутствует вертикальная полоса прокрутки, т.к. она "съедает" часть пространства отзывчивой верстки своей шириной. Чтобы ее отключить, необходимо выбрать режим эмуляции `Responsive`, а так же установить тип устройства `Mobile`. Если тип устройства не отображается, в верхней панели `device toolbar` нажмите на три точки справа и выберите `Add device type`.
+❗ Make sure you don't have a vertical scroll bar when you check, because it takes part of the responsive layout space with its width. To disable it, you must select the `Responsive` emulation mode, as well as set the device type to `Mobile`. If the device type is not displayed, in the top bar of the `device toolbar`, click on the three dots on the right and select `Add device type`.
 
 ![responsive](shelter-responsive.png)
 
-**«responsive»** - это размеры, заданные в относительных величинах от ширины окна или родительского блока, которые плавно меняют свои значения при уменьшении или увеличении окна браузера. Главное, чтобы при наложении картинки, например, в 768px на макет шириной 768px, размеры или отступы совпадали.
+**"responsive"** are sizes given in relative values from the width of the window or parent block, which smoothly change their values when the browser window is reduced or enlarged. The main thing is that when imposing a picture, for example, at 768px on a layout with a width of 768px, the sizes or indents should match.
 
-❗ Страница не должна разваливаться, что значит, что отступы, размеры блоков, и прочее, не должны уходить за правый край экрана и не должен появляться горизонтальный скролл, до порогового значения (меньше 320px).
+❗ The page should not fall apart, which means that padding, block sizes, and so on, should not go beyond the right edge of the screen and there should not be a horizontal scroll, up to a threshold value (less than 320px).
 
 ## 1280px <= width
 
-Выполняются требования верстки [week 1](#week-1) проекта: либо блоки продолжают свой цвет на всю доступную область окна, а сама обертка (1200px) центрируется (при этом градиент также может менять ширину), либо макет занимает максимальную ширину в 1280px и центрируется с равными отступами справа и слева, белого или любого другого цвета из макета (при проверке, если трудно будет смотреть целостность на большом экране, в панели разработчика можно задать элементу body свойство background-color любого контрастного цвета).
+The layout requirements of [week 1](#week-1) of the project are met: either the blocks continue their color to the entire available area of the window, and the wrapper itself (1200px) is centered (the gradient can also change the width), or the layout takes a maximum width of 1280px and centered with equal indents on the right and left, white or any other color from the layout (when checking, if it will be difficult to see the integrity on a large screen, you can set the body element's background-color property of any contrasting color in the developer panel).
 
 ## 768px <= width < 1280px
 
 ### Main Page
 
-1. **Header** (`<header>` содержит только логотип и панель навигации)
+1. **Header** (`<header>` contains only the logo and navigation bar)
 
-- Логотип прибивается ближе к верху страницы.
-- Отступы слева от логотипа и справа от меню навигации должны быть заданы жестко, как на макете `768px`.
-- Хедер "липким" делать не нужно. Т.е. при скролле он остается на своей позиции.
+- The logo is nailed closer to the top of the page.
+- Padding to the left of the logo and to the right of the navigation menu must be hardcoded, as in the `768px` layout.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
-2. Блок **Not only**
+2. **Not only** section
 
-- Заголовок с текстом "Not only people need a house" должен быть расположен как указано на макете. Т.е. перенос строк должен быть соответствующим макету. Для этого можно сделать дополнительную обертку, которую и центрировать относительно основных блоков. Только отступы могут быть `responsive`, но отступ слева должен совпадать с отступом последующего блока текста.
-- Блок с текстом "We offer to give..." должен быть центрирован с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Кнопка "Make a Friend" должна быть центрирована и иметь жесткие размеры, как на макете `768px`.
-- Картинка собаки может быть `responsive`, но смещение должно оставаться в правую сторону пропорциональным, т.е. отступы до правого края могут быть так же `responsive`.
+- The title with the text "Not only people need a house" should be positioned as indicated on the layout, i.e. the line wrapping must match the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- The block with the text "We offer to give..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- The "Make a Friend" button should be centered and rigidly sized like the `768px` layout.
+- The dog picture can be `responsive`, but the offset to the right must remain proportional, i.e. padding to the right margin can also be `responsive`.
 
-3. Блок **About**
+3. **About** section
 
-- Заголовок с текстом "About the shelter..." должен быть расположен как указано на макете. Т.е. перенос строк должен быть соответствующим макету. Для этого можно сделать дополнительную обертку, которую и центрировать относительно основных блоков. Только отступы могут быть `responsive`, но отступ слева должен совпадать с отступом последующего блока текста.
-- Блоки с текстом "Currently..." и "We feed our..." должны быть центрированы с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Картинка кошки и собаки ее отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- The title with the text "About the shelter..." should be positioned as indicated on the layout, i.e. the line wrapping must match the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- Blocks with the text "Currently..." and "We feed our..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- A picture of a cat and a dog, its indents can be `responsive`. The main thing is that the picture is centered.
 
-4. Блок **Our Friends**
+4. **Our Friends** section
 
-- Заголовок блока должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Вместо трех блоков с питомцами, теперь должно быть два. Блоки с питомцами имеют жесткие размеры, как на макете `assets`. При этом отступы между блоками, стрелками слайдера или краями экрана могут быть `responsive`.
-- Кнопка "Get to know the rest" должна быть центрирована и иметь жесткие размеры, как на макете `768px`.
+- The header block must be centered. Block with text and padding can be `responsive`.
+- Instead of three blocks with pets, there should now be two. Pet blocks are rigidly sized, as in the `assets` layout. In this case, the indents between blocks, slider arrows or screen edges can be `responsive`.
+- The "Get to know the rest" button should be centered and rigidly sized like the `768px` layout.
 
-5. Блок **Help**
+5. **Help** section
 
-- Заголовок блока должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Элементы расположены сеткой, 3 х 3. Либо сетка увеличивается пропорционально размерам экрана, либо отступы между элементами и краями экрана можно сделать `responsive`. Структура сетки меняться не должна.
+- The header block must be centered. Block with text and padding can be `responsive`.
+- Elements are arranged in a 3 x 3 grid. Either the grid increases in proportion to the size of the screen or the indents between the elements and the edges of the screen can be `responsive`. The grid structure should not change.
 
-6. Блок **In addition**
+6. **In addition** section
 
-- Блок с текстом "You can..." должен быть расположен как указано на макете. Т.е. перенос строк должен быть соответствующим макету. Для этого можно сделать дополнительную обертку, которую и центрировать относительно основных блоков. Только отступы могут быть `responsive`, но отступ слева должен совпадать с отступом последующего блока текста.
-- Блок с текстом "Name of the bank..." должен быть расположен как указано на макете. Для этого можно сделать дополнительную обертку, которую и центрировать относительно основных блоков. Только отступы могут быть `responsive`, но отступ слева должен совпадать с отступом последующей кнопки.
-- Кнопка с номером счета в банке должна быть расположена, как указано на макете, и иметь жесткие размеры, как на макете `768px`. Для этого можно сделать дополнительную обертку, которую и центрировать относительно основных блоков. Только отступы могут быть `responsive`, но отступ слева должен совпадать с отступом последующего блока текста.
-- Блок с текстом "Legal information..." должен быть центрирован с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Картинка собаки и отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- The block with the text "You can..." must be positioned as indicated on the layout, i.e. line wrapping must match the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- The block with the "Name of the bank..." text should be located as indicated on the layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only padding can be `responsive`, but the left padding must match the next button padding.
+- The button with the bank account number should be located as indicated on the layout and have a fixed size, as on the `768px` layout. To do so, you can make an additional wrapper, which is centered relative to the main blocks. Only indentation can be `responsive`, but the indentation on the left must match the indentation of the next block of text.
+- The block with the "Legal information..." text should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
-7. **Footer** (`<footer>` содержит контакты, адрес и изображение):
+7. **Footer** (`<footer>` contains contacts, address and image):
 
-- Тут идет сетка из двух колонок. Обратите внимание, что сам блок с сеткой должен быть центрирован. Т.е. расстояние слева до первой колонки совпадает с расстоянием справа до второй колонки. При этом сами колонки и отступы могут быть `responsive`.
-- Картинка собаки и отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- There is a grid of two columns. Please note that the grid block itself must be centered, i.e. the distance to the left of the first column is the same as the distance to the right of the second column. In this case, the columns themselves and indents can be `responsive`.
+- Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 ### Pets Page
 
 1. **Header** (`<header>` содержит только логотип и панель навигации)
 
-- Логотип прибивается ближе к верху страницы.
-- Отступы слева от логотипа и справа от меню навигации должны быть заданы жестко, как на макете `768px`.
-- Хедер должен быть "липким". Т.е. при скролле он всегда показан на странице сверху, сохраняя свою позицию.
+- The logo is nailed closer to the top of the page.
+- Padding to the left of the logo and to the right of the navigation menu must be hardcoded, as in the `768px` layout.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
-2. Блок **Our Friends**
+2. **Our Friends** section
 
-- Заглавный текст должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Сетка становится 2 х 3. Блоки с питомцами имеют жесткие размеры, как на макете `assets`. При этом отступы между блоками или краями экрана могут быть `responsive`.
-- Блок с кнопками должен быть центрирован. Размеры кнопок и расстояния между ними заданы жестко, как на `assets`, или как на макете `768px`. Отступы до краев экрана могут быть `responsive`.
+- Heading text should be centered. Block with text and padding can be `responsive`.
+- Grid becomes 2 x 3. Pet blocks are rigidly sized like in the `assets` layout. In this case, the indents between blocks or screen edges can be `responsive`.
+- Block with buttons should be centered. Button sizes and spacings are hardcoded, like on `assets`, or like on the `768px` layout. Padding to the edges of the screen can be `responsive`.
 
-3. **Footer** (`<footer>` содержит контакты, адрес и изображение):
+3. **Footer** (`<footer>` contains contacts, address and image):
 
-- Тут идет сетка из двух колонок. Обратите внимание, что сам блок с сеткой, должен быть центрирован. Т.е. расстояние слева до первой колонки совпадает с расстоянием справа до второй колонки. При этом сами колонки и отступы могут быть `responsive`.
-- Картинка собаки и отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- There is a grid of two columns. Please note that the grid box itself must be centered, i.e. the distance to the left of the first column is the same as the distance to the right of the second column. In this case, the columns themselves and indents can be `responsive`.
+- Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 ## 320px <= width < 768px
 
 ### Main Page
 
-1. **Header** (`<header>` содержит только логотип и бургер меню)
+1. **Header** (`<header>` only contains logo and burger menu)
 
-- Меню навигации преобразовывается в так называемое бургер меню, которое будет открываться по нажатию и предлагать привычную нам панель навигации. Логотип дублируется в открытом меню, хотя на макете этого не видно. Однако, если вы сделали так, что меню открывается, а логотип с основной страницы пропадает - это не ошибка, баллы сниматься не будут.
-- Отступ слева от логотипа может быть `responsive`. Отступ справа от меню навигации должен быть задан жестко, как на макете `320px`.
-- Хедер "липким" делать не нужно. Т.е. при скролле он остается на своей позиции.
+- The navigation menu is transformed into the burger menu, which will open on click and offer the familiar navigation bar. The logo is duplicated in the open menu, although it's not visible on the layout. However, if you implemented it so that the menu opens and the logo disappears from the main page - it's not a mistake, and the score will not be reduced.
+- The indent to the left of the logo can be `responsive`. The padding to the right of the navigation menu should be hardcoded, as in the `320px` layout.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
-2. Блок **Not only**
+2. **Not only** section
 
-- Заголовок с текстом "Not only people need a house" должен быть центрирован с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Блок с текстом "We offer to give..." должен быть центрирован с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Кнопка "Make a Friend" должна быть центрирована и иметь жесткие размеры, как на макете `320px`.
-- Картинка собаки может быть `responsive`, но смещение должно оставаться в правую сторону пропорциональным, т.е. отступы до правого края могут быть так же `responsive`.
+- The title with the "Not only people need a house" text should be centered with equal margins around the edges. Block with text and padding can be `responsive`.
+- The block with the "We offer to give..." text should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- The "Make a Friend" button should be centered and rigidly sized like the `320px` layout.
+- The dog picture can be `responsive`, but the offset to the right must remain proportional, i.e. padding to the right margin can also be `responsive`.
 
-3. Блок **About**
+3. **About** section
 
-- Заголовок с текстом "About the shelter..." должен быть центрирован с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Блоки с текстом "Currently..." и "We feed our..." должны быть центрированы с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Картинка кошки и собаки и отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- The title with the "About the shelter..." text should be centered with equal margins around the edges. Block with text and padding can be `responsive`.
+- Blocks with the "Currently..." text and "We feed our..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- Cat and dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
-4. Блок **Our Friends**
+4. **Our Friends** section
 
-- Заголовок блока должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Вместо двух блоков с питомцами, теперь должен быть один. Блок с питомцами имеет жесткие размеры, как на макете `assets`. При этом отступы между стрелками слайдера или краями экрана могут быть `responsive`.
-- Кнопка "Get to know the rest" должна быть центрирована и иметь жесткие размеры, как на макете `320px`.
+- The block header must be centered. Block with text and padding can be `responsive`.
+- Instead of two blocks with pets, there should be one for now. The pet block has rigid dimensions, as in the `assets` layout. In this case, the padding between slider arrows or screen edges can be `responsive`.
+- The "Get to know the rest" button should be centered and rigidly sized like the `320px` layout.
 
-5. Блок **Help**
+5. **Help** section
 
-- Заголовок блока должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Элементы расположены сеткой, 2 х 5. Либо сетка увеличивается пропорционально размерам экрана, либо отступы между элементами и краями экрана можно сделать `responsive`. Структура сетки меняться не должна. Последний, девятый элемент сетки должен находиться в сетке слева.
+- The block header must be centered. Block with text and padding can be `responsive`.
+- Elements are arranged in a grid, 2 x 5. Either the grid increases in proportion to the size of the screen, or the indents between the elements and the edges of the screen can be made `responsive`. The grid structure should not change. The last ninth element of the grid should be in the grid on the left.
 
-6. Блок **In addition**
+6. **In addition** section
 
-- Блок с текстом "You can..." должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Блок с текстом "Name of the bank..." должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Кнопка с номером счета в банке должна быть центрирована. Сама кнопка, как и отступы до краев экрана, могут быть `responsive`.
-- Блок с текстом "Legal information..." должен быть центрирован с равными отступами по краям. Блок с текстом и отступы могут быть `responsive`.
-- Картинка собаки и отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- Block with the "You can..." text should be centered. Block with text and padding can be `responsive`.
+- The block with the "Name of the bank..." text should be centered. Block with text and padding can be `responsive`.
+- The button with the bank account number must be centered. The button itself, as well as padding to the edges of the screen, can be `responsive`.
+- The block with the text "Legal information..." should be centered with equal margins on the edges. Block with text and padding can be `responsive`.
+- Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
-7. **Footer** (`<footer>` содержит текст, логотип и панель навигации):
+7. **Footer** (`<footer>` contains text, logo and navigation bar):
 
-- Одна единственная колонка. Отступы всех элементов до краев экрана должны совпадать. Сама колонка должна быть центрирована. При этом, как сама колонка, так и отступы до краев экрана, могут быть `responsive`.
-- Картинка собаки и отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- One single column. The indents of all elements to the edges of the screen must match. The column itself must be centered. At the same time, both the column itself and the indents to the edges of the screen can be `responsive`.
+- Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 ### Pets Page
 
-1. **Header** (`<header>` содержит только логотип и бургер меню)
+1. **Header** (`<header>` only contains logo and burger menu)
 
-- Меню навигации преобразовывается в так называемое бургер меню, которое будет открываться по нажатию и предлагать привычную нам панель навигации. Логотип дублируется в открытом меню, хотя на макете этого не видно. Однако, если вы сделали так, что меню открывается, а логотип с основной страницы пропадает - это не ошибка, баллы сниматься не будут.
-- Отступ слева от логотипа может быть `responsive`. Отступ справа от меню навигации должны быть задан жестко, как на макете `320px`.
-- Хедер должен быть "липким". Т.е. при скролле он всегда показан на странице сверху, сохраняя свою позицию.
+- The navigation menu is transformed into the burger menu, which will open on click and offer the familiar navigation bar. The logo is duplicated in the open menu, although this is not visible on the layout. However, if you made the menu open and the logo disappears from the main page - this is not a mistake, the points will not be reduced.
+- The indent to the left of the logo can be `responsive`. The padding to the right of the navigation menu must be hardcoded, as in the `320px` layout.
+- There is no need to make the header "sticky". It means that when scrolling, it remains in its position.
 
-2. Блок **Our Friends**
+2. **Our Friends** section
 
-- Заголовок блока должен быть центрирован. Блок с текстом и отступы могут быть `responsive`.
-- Сетка становится 1 х 3. Блоки с питомцами имеют жесткие размеры, как на макете `assets`. При этом отступы между блоками или краями экрана могут быть `responsive`.
-- Блок с кнопками должен быть центрирован. Размеры кнопок и расстояния между ними заданы жестко, как на `assets`, или как на макете `320px`. Отступы до краев экрана могут быть `responsive`.
+- The block header must be centered. Block with text and padding can be `responsive`.
+- Grid becomes 1 x 3. Pet blocks are rigidly sized like in the `assets` layout. In this case, the indents between blocks or screen edges can be `responsive`.
+- Block with buttons should be centered. Button sizes and spacings are hardcoded, like on `assets`, or like on the `320px` layout. Padding to the edges of the screen can be `responsive`.
 
-3. **Footer** (`<footer>` содержит контакты, адрес и изображение):
+3. **Footer** (`<footer>` contains contacts, address and image):
 
-- Одна единственная колонка. Отступы всех элементов до краев экрана должны совпадать. Сама колонка должна быть центрирована. При этом, как сама колонка, так и отступы до краев экрана, могут быть `responsive`.
-- Картинка собаки и отступы могут быть `responsive`. Главное, чтобы картинка была центрирована.
+- One single column. The indents of all elements to the edges of the screen must match. The column itself must be centered. At the same time, both the column itself and the indents to the edges of the screen can be `responsive`.
+- Dog picture and padding can be `responsive`. The main thing is that the picture is centered.
 
 ## width < 320px
 
-Минимальная ширина макета = 320px. После порогового значения расположение верстки значения не имеет. Структура верстки остается такой же, как при ширине 320px. Если в какой-то момент при уменьшении ширины экрана верстка "ломается", это не ошибка.
+Minimum layout width = 320px. After the threshold value, the location of the layout does not matter. The layout structure remains the same with a width of 320px. If at some moment during screen resolution reduction the layout "breaks" it's not a mistake.
 
 ## Cross-check evaluation criteria. Week 3
 
-❗ **Важное замечание #1**: При изменении ширины с использованием инструментов разработчика (dev tools) и наличии вертикальной полосы прокрутки, расхождение может составлять до 17px (стандартная ширина вертикальной полосы прокрутки). В таком случае надо либо изменить ширину на величину этого расхождения, либо перейти в [task verification features](#task-verification-features), чтобы вертикальной полосы прокрутки не было.  
-❗ **Важное замечание #2**: При масштабировании экрана (например, zoom+ 125%) реальная ширина может отличаться на 1-2 пикселя. Например, реальное значение может быть 767 или 769, хотя инструменты разработчика будут показывать 768. Поэтому надо сдвинуть до точки перехода, несмотря на отличие.  
-❗ **Важное замечание #3**: Единственненный блок, в котором элементы не обязательно должны соблюдать структуру - это блок `Help`. Если элементы идут как перечисляемые элементы, то при проверке на резиновую верстку, отступы от края блока до элементов, а также количество в ряду не учитываются и баллы не снижаются. Также не оценивается, центрируются ли элементы или прибиты к левому краю. Однако нарушение размеров учитывается, будьте внимательны!  
-❗ **Важное замечание #4**: Проверка полного соответствия макетам по Perfect Pixel происходит только на соответствующих контрольных точках - 1280px, 768px, 320px. На всех промежуточных величинах допускается отсутствие точного следования отступам и размерам, но рекомендуется следовать принципам расположения тех или иных элементов, не отмеченных в конкретных требованиях.
+❗ **Important note #1**: When changing the width using the dev tools and having a vertical scrollbar, the discrepancy can be up to 17px (standard vertical scrollbar width). In this case, you must either change the width by the amount of this discrepancy or go to [task verification features](#task-verification-features) so that there is no vertical scrollbar.
+
+❗ **Important note #2**: When scaling the screen (for example, zoom+ 125%), the actual width may differ by 1-2 pixels. For example, the real value could be 767 or 769, although the developer tools will show 768. Therefore, you need to shift to the transition point, despite the difference.
+
+❗ **Important note #3**: The only block in which elements do not have to follow a structure is the `Help` block. If the elements are listed as enumerated elements, then when checking for responsive layout, the indents from the edge of the block to the elements, as well as the number in the row, are not taken into account and the points are not reduced. It also does not evaluate whether elements are centered or nailed to the left. However, size violation is taken into account, be careful!
+
+❗ **Important note #4**: Checking for full compliance with layouts by Perfect Pixel occurs only at the corresponding breakpoints - 1280px, 768px, 320px. At all intermediate values, the absence of exact following of indents and sizes is allowed, but it is recommended to follow the principles of the arrangement of certain elements that are not noted in specific requirements.
 
 ---
 
-❗ **Ознакомьтесь с некоторыми определениями**:
+❗ **Check out some definitions**:
 
-- **Нарушение отступов** - это ситуация, когда расстояние между элементами, или расстояние от элемента до края контейнера, в котором он содержится, отличается от заданного на макете более чем на 10 пикселей по высоте или ширине.
-  Рассмотрим ситуацию на примере блока `our friends`. Вы, скорее всего, будете знать примерное расстояние между элементами на глаз. Однако, вас смущает отступ кнопки "влево" от края экрана слева. Расстояние от кнопки "влево" до левой границы блока 40px на ширине экрана 1280px. Значит, выставив ширину 1280px, смотрим расстояние. Если оно отличается на величину до 10px включительно (например 50px или 30px) - баллы не снимаем. Однако, если отступы больше этих значений (например 51px или 29px) - снимаем указанное количество баллов.
-- **Нарушение размеров** - это ситуация, когда размеры элементов (кнопок, картинок, карточек животных, иконок) отличаются от заданного на макете более чем на 10 пикселей по высоте или ширине. Проверку проводим таким же образом, как и при нарушении отступов, и если отличия большие, снимаем указанное количество баллов.
-- Длину текста и слов по ширине, а также порядок переноса слов по строкам, мы **не учитываем при проверке**.
-- **Уникальная ошибка** - это новая найденная ошибка в проверяемом блоке. Независимо от того, сколько раз эта ошибка повторяется в проверяемом блоке, указанное количество баллов снимается только 1 раз.  
-  Например, съехала кнопка во всех карточках животных. Снимать баллы будем лишь один раз, т.к. скорее всего сломан общий стиль. Если карточка со съехавшей кнопкой одна (а в остальных кнопка находится на своем месте) - все равно снимаем указанное количество баллов. Т.е. нет разницы, ошибка в одном повторяющемся элементе, или в нескольких.
+- A **padding violation** is a situation where the distance between elements, or the distance from an element to the edge of the container it is contained in, differs from the one set on the layout by more than 10 pixels in height or width.
+  Consider the situation using the `our friends` section as an example. You will most likely know the approximate distance between elements by eye. However, you are confused by the indentation of the "left" button from the edge of the screen on the left. The distance from the "left" button to the left border of the block is 40px on a screen width of 1280px. So, setting the width to 1280px, we look at the distance. If it differs by up to 10px inclusive (for example, 50px or 30px) - do not remove points. However, if the indents are greater than these values ​​(for example, 51px or 29px), we remove the specified number of points.
+- **Size Violation** is a situation when the dimensions of elements (buttons, pictures, animal cards, icons) differ from those specified on the layout by more than 10 pixels in height or width. The check is carried out in the same way as in case of violation of indents, and if the differences are large, we remove the specified number of points.
+- The length of the text and words in width, as well as the order of word wrapping in lines, we **do not take into account when checking**.
+- **Unique error** is the new error found in the block being checked. Regardless of how many times this error is repeated in the block being checked, the specified number of points is deducted only 1 time.
+  For example, the button in all animal cards moved out. We will remove points only once because most likely the general style is broken. If there is only one card with the button that has moved down (and in the rest, the button is in its place), we still remove the indicated number of points, i.e. there is no difference, the error is in one repeated element, or in several.
 
-### Общая проверка поведения приложения при изменении ширины окна
+### General check of application behavior when window width is changed
 
-Хоть при растягивании экрана на 4k, хоть при уменьшении до 320px не должна теряться целостность приложения. При плавном изменении размера мы не учитываем точных подсчетов расположения элементов. На данном этапе в браузере **Google Chrome** проверяется:
+Even if the screen is stretched to 4k, even if it is reduced to 320px, the integrity of the application should not be lost. With smooth resizing, we do not take into account the exact calculations of the location of elements. At this stage, we check on the **Google Chrome** browser for:
 
-- отсутствие горизонтальной полосы прокрутки на любой ширине экрана до 320px включительно;
-- элементы не должны выходить за боковые границы экрана\* при любой ширине экрана до 320px включительно.
+- no horizontal scroll bar on any screen width up to 320px;
+- elements should not go beyond the side borders of the screen\* for any screen width up to 320px.
 
-  Если, оба условия в браузере **Google Chrome** выполняются (сайт ведет себя отзывчиво, элементы и общая структура меняет размеры вместе с изменением ширины, не появляется горизонтальная полоса прокрутки и элементы не выходят за боковые стороны окна), то ставим **+50** за каждую страницу. В сумме за 2 страницы ставим **+100**.
-  Если на странице появляется горизонтальная полоса прокрутки или происходит заход контента за боковую границу экрана, ставим **0** за страницу.\*\*
+  If both conditions in the **Google Chrome** browser are met (the site behaves responsively, the elements and the general structure change sizes along with the change in width, the horizontal scrollbar does not appear and the elements do not go beyond the sides of the window), then set **+ 50** per page. In total, we put **+100** for 2 pages.
+  If a horizontal scrollbar appears on the page, or if the content goes beyond the side of the screen, set **0** per page.\*\*
 
-  После проверки отзывчивости верстки в браузере Google Chrome выполняется аналогичная проверка в браузере **Mozilla Firefox**, при которой:
+  After checking the responsiveness of the layout in the Google Chrome browser, a similar check is performed in the **Mozilla Firefox** browser, in which:
 
-- если при изменении размера окна браузера от максимума до 320px появляется горизонтальная полоса прокрутки, или контент выходит за пределы экрана, **снимается -20**.
-- если при изменении размера окна браузера от максимума до 320px горизонтальная полоса прокрутки не появляется, контент не выходит за пределы экрана, но появляются какие-то другие проблемы в верстке (отличные от тех, что были в Google Chrome) - **снимается -5 за каждую** с описанием проблемы, но **не более -20**.
+- if a horizontal scrollbar appears when resizing the browser window from the maximum to 320px, or the content goes off the screen, **-20** points are removed.
+- if the horizontal scrollbar does not appear when the browser window is resized from the maximum to 320px, the content does not go off the screen, but some other layout problems appear (other than those in Google Chrome) - ** -5 is removed for each** with a description of the problem, but **no more than -20**.
 
-  Максимальное количество баллов, которое можно вычесть при наличии ошибок во время проверки в браузере **Mozilla Firefox** - **-20**.\*\*\*
+  The maximum number of points that can be deducted if there are errors during the check on the **Mozilla Firefox** browser - **-20**.\*\*\*
 
-  \* _на ширине экрана <768px за боковую границу экрана может заходить бургер-меню. Т.к. это нормальная практика, ошибкой это не считается, если при этом на странице не появляется горизонтальная прокрутка._  
-  \*\* _если во время общей проверки за страницу выставляется 0, дальнейшие критерии, относящиеся к этой странице, не проверяются._  
-  \*\*\* _дальнейшая проверка происходит только в браузере Google Chrome_
+  \* _when the screen width is <768px, the burger menu can go beyond the side border of the screen. Because this is normal practice, it is not considered an error if the horizontal scrolling does not appear on the page._
+  \*\* _if a page is set to 0 during the general check, no further criteria related to that page are checked._
+  \*\*\* _further check only happens in Google Chrome browser_
 
-### 1280px <= width (максимально -10 баллов за страницу)
+### 1280px <= width (maximum -10 points per page)
 
-При проверке на больших экранах допустимо:
-**1) фоны блоков растягиваются на всю ширину окна**, при этом сам контент находится в центре экрана и соответствует макету;
-**2) верстка занимает максимальную ширину 1280px** и соответствует макету, центрируется с равными отступами слева и справа, свободное пространство заполнено любым цветом;
+When checking on large screens, it is acceptable:
+**1) block backgrounds are stretched to the full width of the window**, while the content itself is in the center of the screen and corresponds to the layout;
+**2) the layout occupies a maximum width of 1280px** and matches the layout, is centered with equal indents on the left and right, the free space is filled with any color;
 
-Для любого из случаев выше **считается ошибкой**, если контент не центрируется, т.е. прижат к правой или левой стороне. В случае такой ошибки **снимается -10** баллов за страницу.
-Если контент центрирован, проверяется соответствие макету 1280px, для этого:
+For any of the cases above, it is **considered an error** if the content is not centered, i.e. aligned to the right or the left side. In case of such an error **-10** points penalty applied per page.
+If the content is centered, we check if it matches the 1280px layout. To do so:
 
-- выставляем ширину окна в 1280px
-- проверяем отсутствие нарушений отступов или нарушений размеров.
-  За каждую уникальную ошибку в нарушении отступов или нарушении размеров снимается **-3**, **но не более -10 суммарно**.
+- set window width to 1280px
+- check for indentation violations or size violations.
+  For each unique error in indentation violation or size violation, **-3** is deducted, **but not more than -10 in total**.
 
-**3) контент растягивается по всей ширине окна**:
+**3) content is stretched across the entire width of the window**:
 
-В этом случае производится дополнительная проверка следующих условий:
-
-#### Main Page
-
-Смотрим, выполняются ли следующие условия резиновой верстки:
-
-- Фон растянут на `Header` и блок `Not only`.
-- Картинка собаки в блоке `Not only` не пересекается с текстом.
-- Все параграфы с текстом справа от картинки кошки и собаки выравнены по левому краю в блоке `About the shelter`.
-- В блоке `Our friends` текст, слайдер и кнопка снизу центрированы.
-- Все параграфы с текстом и ссылка с номером карты справа от картинки собаки выравнены по левому краю в блоке `In addition`.
-- Иконки и текст в обоих колонках выравнены по левому краю своих колонок в блоке `Footer`.
-
-Если условия нарушены, снимается **-5** за каждый пункт.  
-Если блоки или элементы выходят за рамки экрана, или накладываются друг на друга, снимается **-5** за каждую уникальную ошибку.
-
-Выполняется проверка соответствия макету main-1280, для чего:
-
-- выставляем ширину окна в 1280px
-- проверяем отсутствие нарушений отступов или нарушений размеров.
-  За каждую уникальную ошибку в нарушении отступов или нарушении размеров снимается **-3**, **но не более -10 суммарно, включая снижение баллов за нарушение условий резиновой верстки**.
-
-#### Pets Page
-
-Смотрим, выполняются ли следующие условия резиновой верстки:
-
-- `Header` всегда видимый, и находится сверху страницы, в том числе при скролле.
-- В блоке `Our friends` находится 8 карточек питомцев, 2 ряда по 4 элемента.
-- В блоке `Our friends` все элементы и блоки с элементами центрированы. Если в пагинации найден недочет или неточность верстки, прежде чем снижать балл, убедитесь, что после того, как вы выставили ширину и сделали **перезагрузку страницы**, проблема все еще существует.
-- При открытии страницы, в пагинации должно быть число "1", а кнопки слева неактивны.
-- Иконки и текст в обеих колонках выравнены по левому краю своих колонок в блоке `Footer`.
-
-Если условия нарушены, снимается **-5** за каждый пункт.  
-Если блоки или элементы выходят за рамки экрана, или накладываются друг на друга, снимается **-5** за каждую уникальную ошибку.
-
-Выполняется проверка соответствия макету our-pets-1280, для чего:
-
-- выставляем ширину окна в 1280px
-- проверяем отсутствие нарушений отступов или нарушений размеров.
-  За каждую уникальную ошибку в нарушении отступов или нарушении размеров снимается **-3**, **но не более -10 суммарно, включая снижение баллов за нарушение условий резиновой верстки**.
-
-### 768px <= width < 1280px (максимально -15 баллов за страницу)
+In this case, the following conditions are additionally checked:
 
 #### Main Page
 
-Смотрим, выполняются ли следующие условия резиновой верстки:
+Check if the following conditions for responsive layout are met:
 
-- Фон растянут на `Header` и блок `Not only`.
-- Картинка собаки снизу в блоке `Not only` не пересекается с текстом.
-- Все параграфы с текстом выравнены по левому краю в блоке `Not only`. Сами блоки центрированы.
-- Кнопка "Make a friend" центрирована.
-- Все параграфы с текстом выравнены по левому краю в блоке `About the shelter`. Сами блоки центрированы.
-- В блоке `Our friends` текст, слайдер и кнопка снизу центрированы.
-- В блоке `Our friends` в слайдере 2 карточки питомцев.
-- Все параграфы с текстом, а также ссылка с номером карты, выравнены по левому краю в блоке `In addition`. Сами блоки центрированы.
-- Иконки и текст в обеих колонках выравнены по левому краю своих колонок в блоке `Footer`.
-- Картинка собаки снизу в блоке `Footer` не пересекается с текстом.
+- `Header` and `Not only` section background is stretched.
+- The picture of the dog in the `Not only` section does not intersect with the text.
+- All paragraphs with text to the right of the cat and dog picture are left aligned in the `About the shelter` section.
+- In the `Our friends` section, the text, slider and bottom button are centered.
+- All paragraphs with text and a link with the card number to the right of the dog picture are left aligned in the `In addition` section.
+- Icons and text in both columns are aligned to the left of their columns in the `Footer` section.
 
-Если условия нарушены, снимается **-5** за каждый пункт.  
-Если блоки или элементы выходят за рамки экрана, или накладываются друг на друга, снимается **-5** за каждую уникальную ошибку.
+If the conditions are violated, **-5** is deducted for each item.
+If blocks or elements go beyond the screen, or overlap each other, **-5** is deducted for each unique error.
 
-Выполняется проверка соответствия макету main-768, для чего:
+Compliance with the main-1280 layout is checked, for which:
 
-- выставляем ширину окна в 768px
-- проверяем отсутствие нарушений отступов или нарушений размеров.
-  За каждую уникальную ошибку в нарушении отступов или нарушении размеров снимается **-3**, **но не более -15 суммарно, включая снижение баллов за нарушение условий резиновой верстки**.
+- set window width to 1280px
+- check for indentation violations or size violations.
+  For each unique mistake in violation of indents or violation of dimensions, **-3** is deducted, **but not more than -10 in total, including deduction of points for violating responsive layout conditions**.
 
 #### Pets Page
 
-Смотрим, выполняются ли условия резиновой верстки:
+Check if the following conditions for responsive layout are met:
 
-- `Header` всегда видимый, находится сверху страницы, в том числе при скролле.
-- В блоке `Our friends` находится 6 карточек питомцев, 3 ряда по 2 элемента.
-- В блоке `Our friends` все элементы и блоки с элементами центрированы. Если в пагинации найден недочет или неточность верстки, прежде чем снижать балл, убедитесь, что после того, как вы выставили ширину и сделали **перезагрузку страницы**, проблема все еще существует.
-- При открытии страницы в пагинации должно быть число "1", а кнопки слева неактивны.
-- Картинка собаки снизу в блоке `Footer` не пересекается с текстом.
+- `Header` is always visible and is at the top of the page, including when scrolling.
+- In the `Our friends` section there are 8 pet cards, 2 rows of 4 elements.
+- In the `Our friends` section, all elements and blocks with elements are centered. If a pagination is found to have a flaw or layout inaccuracy, make sure the problem still exists after you set the width and **reload the page** before lowering the score.
+- When opening the page, the number "1" should be in the pagination, and the buttons on the left are inactive.
+- Icons and text in both columns are aligned to the left of their columns in the `Footer` block.
 
-Если условия нарушены, снимается **-5** за каждый пункт.  
-Если блоки или элементы выходят за рамки экрана, или накладываются друг на друга, снимается **-5** за каждую уникальную ошибку.
+If the conditions are violated, **-5** is deducted for each item.
+If blocks or elements go beyond the screen, or overlap each other, **-5** is deducted for each unique error.
 
-Выполняется проверка соответствия макету our-pets-768, для чего:
+A check is made to match our-pets-1280 layout, for this:
 
-- выставляем ширину окна в 768px
-- проверяем отсутствие нарушений отступов или нарушений размеров.
-  За каждую уникальную ошибку в нарушении отступов или нарушении размеров снимается **-3**, **но не более -15 суммарно, включая снижение баллов за нарушение условий резиновой верстки**.
+- set window width to 1280px
+- check for indentation violations or size violations.
+  For each unique mistake in violation of indents or violation of dimensions, **-3** is deducted, **but not more than -10 in total, including deduction of points for violating responsive layout conditions**.
 
-### 320px <= width < 768px (максимально -15 баллов за страницу)
+### 768px <= width < 1280px (maximum -15 points per page)
 
 #### Main Page
 
-Смотрим, выполняются ли следующие условия резиновой верстки:
+Check if the following conditions for responsive layout are met:
 
-- Фон растянут на `Header` и блок `Not only`.
-- Меню в `Header` скрывается (становится бургер меню), в `Header` появляется бургер-иконка.
-- Все параграфы с текстом и кнопка центрированы в блоке `Not only`.
-- Картинка собаки снизу в блоке `Not only` не пересекается с текстом.
-- Все параграфы с текстом центрированы в блоке `About the shelter`. При этом текст в параграфах, но не заголовке, выравнен по ширине параграфа.
-- В блоке `Our friends` текст, карточка в слайдере, блок с кнопками слайдера и кнопка снизу центрированы.
-- В блоке `Our friends` в слайдере 1 карточка питомца.
-- Все параграфы с текстом, а также ссылка с номером карты, центрированы в блоке `In addition`. При этом текст в параграфах, но не заголовках и ссылке с номером карты, выравнен по ширине параграфа.
-- Заголовки с текстом, иконка и адрес email, иконка и номер телефона и картинка собаки в самом низу центрированы в блоке `Footer`.
-- Иконки локации и адреса выравнены по левому краю, а сам блок центрирован. Если локации и иконки целиком центрированы - это не ошибка, баллы не снимаем!
+- `Header` and `Not only` section background is stretched.
+- The picture of the dog below in the `Not only` section does not intersect with the text.
+- All paragraphs with text are aligned to the left in the `Not only` section. The blocks themselves are centered.
+- "Make a friend" button is centered.
+- All paragraphs with text are aligned to the left in the `About the shelter` section. The blocks themselves are centered.
+- In the `Our friends` section, the text, slider and bottom button are centered.
+- There are 2 pet cards in the `Our friends` section in the slider.
+- All paragraphs with text, as well as a link with a card number, are left-aligned in the `In addition` section. The blocks themselves are centered.
+- Icons and text in both columns are aligned to the left of their columns in the `Footer` section.
+- The picture of the dog below in the `Footer` section does not intersect with the text.
 
-Если условия нарушены, снимается **-5** за каждый пункт.  
-Если блоки или элементы выходят за рамки экрана, или накладываются друг на друга, снимается **-5** за каждую уникальную ошибку.
+If the conditions are violated, **-5** is deducted for each item.
+If blocks or elements go beyond the screen or overlap each other, **-5** is deducted for each unique mistake.
 
-Выполняется проверка соответствия макету main-320, для чего:
+Compliance with the main-768 layout is checked, for which:
 
-- выставляем ширину окна в 320px
-- проверяем отсутствие нарушений отступов или нарушений размеров.
-  За каждую уникальную ошибку в нарушении отступов или нарушении размеров снимается **-3**, **но не более -15 суммарно, включая снижение баллов за нарушение условий резиновой верстки**.
+- set window width to 768px
+- check for indentation violations or size violations.
+  For each unique mistake in violation of indents or violation of dimensions, **-3** is deducted, **but not more than -15 in total, including deduction of points for violating responsive layout conditions**.
 
 #### Pets Page
 
-Смотрим, выполняются ли условия резиновой верстки:
+Check if the conditions for responsive layout are met:
 
-- `Header` всегда видимый, и находится сверху страницы, в том числе при скролле.
-- Меню в `Header` скрывается (становится бургер меню), в `Header` появляется бургер-иконка.
-- В блоке `Our friends` находится 3 карточки питомцев, 1 колонка с 3 элементами.
-- В блоке `Our friends` все элементы и блоки с элементами центрированы. Если в пагинации найден недочет или неточность верстки, прежде чем снижать балл, убедитесь, что после того, как вы выставили ширину и сделали **перезагрузку страницы**, проблема все еще существует.
-- При открытии страницы, в пагинации должно быть число "1", а кнопки слева неактивны.
-- Заголовки с текстом, иконка и адрес email, иконка и номер телефона и картинка собаки в самом низу центрированы в блоке `Footer`.
-- Иконки локации и адреса выравнены по левому краю, а сам блок центрирован. Если локации и иконки целиком центрированы - это не ошибка, баллы не снимаем!
+- `Header` is always visible, located at the top of the page, including when scrolling.
+- In the `Our friends` section there are 6 pet cards, 3 rows of 2 elements.
+- In the `Our friends` section, all elements and blocks with elements are centered. If pagination is found to have a flaw or layout inaccuracy, make sure the problem still exists after you set the width and **reload the page** before lowering the score.
+- When opening the page, the pagination should have the number "1", and the buttons on the left are inactive.
+- The picture of the dog below in the `Footer` section does not intersect with the text.
 
-Выполняется проверка соответствия макету our-pets-320, для чего:
+If the conditions are violated, **-5** is deducted for each item.
+If blocks or elements go beyond the screen, or overlap each other, **-5** is deducted for each unique error.
 
-- выставляем ширину окна в 320px
-- проверяем отсутствие нарушений отступов или нарушений размеров.
-  За каждую уникальную ошибку в нарушении отступов или нарушении размеров снимается **-3**, **но не более -15 суммарно, включая снижение баллов за нарушение условий резиновой верстки**.
+The our-pets-768 layout check is performed, for this:
+
+- set window width to 768px
+- check for indentation violations or size violations.
+  **-3** is deducted for each unique mistake in indentation or size violation, **but not more than -15 in total, including a deduction for violation of responsive layout conditions**.
+
+### 320px <= width < 768px (maximum -15 points per page)
+
+#### Main Page
+
+Check if the following conditions for responsive layout are met:
+
+- `Header` and `Not only` section background is stretched.
+- Menu in `Header` is hidden (becomes burger menu), burger icon appears in `Header`.
+- All paragraphs with text and the button are centered in the `Not only` section.
+- The picture of the dog below in the `Not only` section does not intersect with the text.
+- All paragraphs with text are centered in the `About the shelter` section. In this case, the text in the paragraphs, but not the title, is aligned to the width of the paragraph.
+- In the `Our friends` section, the text, the card in the slider, the block with the slider buttons and the bottom button are centered.
+- There is 1 pet card in the `Our friends` section in the slider.
+- All paragraphs with text, as well as a link with a card number, are centered in the `In addition` section. At the same time, the text in paragraphs, but not headings and a link with a card number, is aligned to the width of the paragraph.
+- Headings with text, icon and email address, icon and phone number and dog picture at the very bottom are centered in the `Footer` section.
+- Location and address icons are left aligned and the block itself is centered. If locations and icons are completely centered - this is not a mistake, we do not deduct points!
+
+If the conditions are violated, **-5** is deducted for each point.
+If blocks or elements go beyond the screen or overlap each other, **-5** is deducted for each unique mistake.
+
+The main-320 layout check is performed, for this:
+
+- set window width to 320px
+- check for indentation violations or size violations.
+  For each unique mistake in violation of indents or violation of dimensions, **-3** is deducted, **but not more than -15 in total, including deduction of points for violating responsive layout conditions**.
+
+#### Pets Page
+
+Check if the conditions for responsive layout are met:
+
+- `Header` is always visible and is at the top of the page, including when scrolling.
+- Menu in `Header` is hidden (becomes burger menu), burger icon appears in `Header`.
+- In the `Our friends` section there are 3 pet cards, 1 column with 3 elements.
+- In the `Our friends` section, all elements and blocks with elements are centered. If a pagination is found to have a flaw or layout inaccuracy, make sure the problem still exists after you set the width and **reload the page** before lowering the score.
+- When opening the page, the number "1" should be in the pagination, and the buttons on the left are inactive.
+- Headings with text, icon and email address, icon and phone number and dog picture at the very bottom are centered in the `Footer` section.
+- Location and address icons are left aligned and the block itself is centered. If locations and icons are completely centered - this is not a mistake, we do not deduct points!
+
+The our-pets-320 layout check is performed, for this:
+
+- set window width to 320px
+- check for indentation violations or size violations.
+  For each unique mistake in violation of indents or violation of dimensions, **-3** is deducted, **but not more than -15 in total, including deduction of points for violating responsive layout conditions**.
