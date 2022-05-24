@@ -20,7 +20,7 @@ The books shop owner asked you to create the online shop to buy book with delive
 3. The HTML elements should be added to page by one step (it's a hint to read about document fragment) **+10**
 4. When the user adds the book to the bag (either by click on Add to bag button or by drag-and-drop), the book appears in the bag with shorten data (title, author, price) and remove (cross) button. Also, the total sum is updated **+20**
 5. When user click on Confirm order he appears in the Order form page  **+5**
-6. The order form contains fields with own validation rules and Complete button **+15**
+6. The order form contains fields with own validation rules and Complete button **+20**
    * Name (mandatory, the length not less than 4 symbols, strings only)
    * Surname (mandatory, the length not less than 5 symbols, strings only)
    * Delivery date(mandatory, not earlier than next day)
