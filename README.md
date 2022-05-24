@@ -59,7 +59,7 @@
 
 ( 26.04.2022 - 02.05.2022 )
 
-- Task: [Shelter.Week_1](tasks/shelter/README.md) (Deadline of submitting for cross-check - May, 02. 23.59 (GMT + 3))
+- Task: [Shelter.Week_1](tasks/shelter/README.md#week-1) (Deadline of submitting for cross-check - May, 02. 23.59 (GMT + 3))
 - [JS Basics. Part 3](modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
@@ -69,8 +69,8 @@
 
 ( 03.05.2022 - 09.05.2022 )
 
-- Task: [Shelter.Week_2](tasks/shelter/README.md) (Deadline of submitting for cross-check - May, 09. 23.59 (GMT + 3))
-- Cross-check: [Shelter.Week_1](tasks/shelter/README.md)
+- Task: [Shelter.Week_2](tasks/shelter/README.md#week-2) (Deadline of submitting for cross-check - May, 09. 23.59 (GMT + 3))
+- Cross-check: [Shelter.Week_1](tasks/shelter/README.md#cross-check-evaluation-criteria-week-1)
 - [JS Arrays](modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
@@ -83,7 +83,7 @@
 ( 10.05.2022 - 16.05.2022 )
 
 - Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
-- Cross-check: [Shelter.Week_2](tasks/shelter/README.md)
+- Cross-check: [Shelter.Week_2](tasks/shelter/README.md#cross-check-evaluation-criteria-week-2)
 - Complete task: Codewars: Array, Object
 - [DOM API](modules/dom-api/)
   - Test: "DOM API (EN)"
@@ -106,7 +106,7 @@
 - Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
 - [CSS Flex](modules/css-flex/)
   - Test: "Responsive & Flexbox (EN)"
-- Task: "Shelter.Week_3"
+- Task: [Shelter.Week_3](tasks/shelter/README.md#week-3)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #11
