@@ -17,7 +17,7 @@ Shelter is the project in which you will create a markup with two pages, make it
 
 **[Week 4](#week-4)**: Additional functionality.
 
-- at this stage, additional functionality is added to previously designed pages: slider, pagination, popup.
+- at this stage, additional functionality is going to be added to previously designed pages: slider, pagination, popup.
 
 ## Task verification
 
@@ -638,7 +638,7 @@ The our-pets-320 layout check is performed, for this:
 
 ## Week 4
 
-Each of the pets will be an object with a set of data, for example:
+Each of the pets will be represented as an object with a set of data, for example:
 
 ```javascript
 const pet = {
@@ -655,7 +655,7 @@ const pet = {
 };
 ```
 
-❗ Each DOM object (block) with a pet description (slider, pagination or popup) will be generated from the object data. There can be fields in the object that you come up with and name by yourself. There is just an example above.
+❗ Each DOM object (block) with a pet description (slider, pagination, or popup) will be generated from the object data. There can be fields in the object that you come up with and name by yourself. There is just an example above.
 
 **[Data of all 8 pets in `JSON` format!](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/shelter/pets.json)**
 
@@ -663,19 +663,19 @@ const pet = {
 
 #### Burger menu
 
-- The burger menu will only appear on the page if width < 768px.
+- The burger menu will only appear on the page if the width is < 768px.
 - When you click on the burger menu, there will be a 320px wide, full-height block on the right side of the browser window with vertically arranged and centered menu items. There should be a slide-in animation.
 - The elements have the same active and inactive rules as the menus on the larger screen width. For example, clicking on `Contacts` should take us to the _Footer_ block, and the menu should close.
 - The area beyond 320px should be dimmed. The dimming property is described in the Figma layout design.
-- When the menu is opened, the menu icon itself is rotated 90 degrees. A rotate animation must be present. The vertical scroll must become inactive.
-- If you click outside the menu boundaries, on a darkened area, or on the button with the burger menu icon, the menu must move back in. A slide-out animation must be present.
-- When closing the menu, the menu icon itself rotates back 90 degrees. There must be a rotate animation (rotate). Vertical scroll must become active again.
-- Logo in the burger menu is duplicated with the main. It is allowed to make the page logo disappear or be moved to its place in the burger menu when the burger menu is opened.
+- When the menu is opened, the menu icon is rotated 90 degrees. There should be an animation of icon rotation. The vertical scrollbar should become inactive.
+- If you click outside the menu boundaries, on a darkened area, or on the button with the burger menu icon, the menu should move back in. A slide-out animation must be present.
+- When closing the menu, the menu icon itself rotates back 90 degrees. There should be an animation of icon rotation. The vertical scroll must become active again.
+- Logo on the burger menu is duplicated from the main one. It is allowed to make the page logo disappear or be moved to its place in the burger menu when the burger menu is opened.
 
 #### Carousel
 
-- The slider should be implemented with arrow buttons. Slides will change on arrow buttons click.
-- The slider is infinite, has no boundaries, i.e. you can click left and right as many times as you want, and each time the content in the blocks will be new. In our case, each new slide will contain a **pseudorandom** set of pets, i.e. it will be generated from the original objects in random order, with two conditions. First, no pet cards will be repeated in the slide block itself. Second, in the next block, there will be no duplicate cards with the cards of the current block. For example, in a slider of 3 elements, the next departing slide will contain 3 new pet cards, such that there were none among the 3 cards on the previous departed slide.
+- The slider should be implemented with arrow buttons. Slides will change on the arrow buttons click.
+- The slider is infinite, and has no boundaries, i.e. you can click left and right as many times as you want, and each time the content in the blocks will be a new one. In our case, each new slide will contain a **pseudorandom** set of pets, i.e. it will be generated from the original objects in random order, with two conditions. First, no pet cards will be repeated in the slide block itself. Second, in the next block, there will be no duplicate cards with the cards of the current block. For example, in a slider of 3 elements, the next departing slide will contain 3 new pet cards, such that there were none among the 3 cards on the previous departed slide.
 - Either of the two scenarios is allowed:
   - When the left or right arrow button is pressed, regardless of the pressing sequence, new content is always generated.
   - One previous slide is allowed to remain, i.e. if you press "left", "right", "left" (or the reverse sequence), the content that was before the first press "left" (or "right" in the reverse sequence) is returned. All other slides generate new content.
@@ -687,11 +687,11 @@ const pet = {
 
 #### Popup
 
-- A popup is a modal window, a separate element that pops up on top of the page when you click anywhere on the card describing a particular pet, and is centered. The rest of the page is dimmed. The color of the shadow, the shape of the popup, and the button to close it are defined in the Figma layout design.
+- A popup is a modal window, a separate element that pops up on top of the page when you click anywhere on the card describing a particular pet and is centered. The rest of the page is dimmed. The color of the shadow, the shape of the popup, and the button to close it are defined in the Figma layout design.
 - The vertical scroll should become inactive when the popup is opened.
 - Nothing happens when you click on the popup window (block).
 - When you click outside the popup boundaries, on a darkened area, or on a button with a cross, the popup and the darkening should disappear.
-- When the mouse hovers over the darkened area or the button with the cross, i.e. when the `hover` event occurs, the button should get a hover effect. In other words: the button is interactive. In this case nothing happens when hovering over the popup window (block) itself.
+- When the mouse hovers over the darkened area or the button with the cross, i.e. when the `hover` event occurs, the button should get a hover effect. In other words: the button is interactive. In this case, nothing happens when hovering over the popup window (block) itself.
 - When you close the popup, the vertical scroll should become active again.
 - If you have 768px <= width the popup will have a picture of the pet.
 - If width < 768px there is no picture of the pet in the popup design.
@@ -705,14 +705,14 @@ const pet = {
 - The font color and background are the same as the menu in the _header_ block.
 - The area that protrudes beyond 320px must be dimmed. The dimming property is described in the Figma layout design.
 - The same rules for activity and inactivity apply to elements as they do to menus on a larger screen width. For example, clicking on `Contacts` should take us to the _Footer_ block, and the menu should close.
-- When you open the menu, the menu icon itself rotates 90 degrees. There should be a rotate animation. The vertical scroll must become inactive.
-- If you click outside the menu boundaries, on a darkened area, or on the button with the menu burger icon, the menu must move back in. A slide-out animation must be present.
-- When closing the menu, the menu icon itself rotates back 90 degrees. There must be a rotate animation (rotate). Vertical scroll must become active again.
-- Logo in the burger menu is duplicated with the main. It is allowed to make the page logo disappear or be moved to its place in the burger menu when the burger menu is opened.
+- When the menu is opened, the menu icon is rotated 90 degrees. There should be an animation of icon rotation. The vertical scrollbar should become inactive.
+- If you click outside the menu boundaries, on a darkened area, or on the button with the burger menu icon, the menu should move back in. A slide-out animation must be present.
+- When closing the menu, the menu icon itself rotates back 90 degrees. There should be an animation of icon rotation. The vertical scroll must become active again.
+- Logo on the burger menu is duplicated from the main one. It is allowed to make the page logo disappear or be moved to its place in the burger menu when the burger menu is opened.
 
 #### Popup
 
-- A popup is a modal window, a separate element that pops up on top of the page when you click anywhere on the card describing a particular pet, and is centered. The rest of the page is dimmed. The color of the shadow, the shape of the popup, and the button to close it are defined in the Figma layout design.
+- A popup is a modal window, a separate element that pops up on top of the page when you click anywhere on the card describing a particular pet and is centered. The rest of the page is dimmed. The color of the shadow, the shape of the popup, and the button to close it are defined in the Figma layout design.
 - The vertical scroll should become inactive when the popup is opened.
 - Nothing happens when you click on the popup window (block).
 - When you click outside the popup boundaries, on a darkened area, or on a button with a cross, the popup and the darkening should disappear.
@@ -723,9 +723,9 @@ const pet = {
 
 #### Pagination
 
-- Pagination is the switching of pages (tables or slides), by redrawing some data to other, the effects can be different: slide, fade. There is always the first page and the last.
-- The most important thing: _when the pagination area is the same size, going back to a page under a certain number, the content on it will always be the same_.
-- When you load `Our Pets', an array of 48 elements must be generated in a pseudo-random way. Each of the 8 pets given on the layout must occur exactly 6 times. At the same time, every 8, every 6, and every 3, pets on the page must not be repeated. I.e. there can't be two identical pets on one pagination page at the same time.
+- Pagination is the switching of pages (tables or slides), by redrawing some data to others, the effects can be different: slide, fade. There is always the first page and the last.
+- The most important thing: _when the pagination area is the same size, going back to a particular page number, the content on it will always be the same_.
+- When you load `Our Pets', an array of 48 elements must be generated in a pseudo-random way. Each of the 8 pets given on the layout must occur exactly 6 times. At the same time, every 8, every 6, and every 3 pets on the page must not be repeated. I.e. there can't be two identical pets on one pagination page at the same time.
 - When loading or reloading the browser window, the first page in `Our Pets` must always be active.
 - The `<<` button always opens the first page.
 - The `<` button opens the previous page before the current page.
@@ -734,9 +734,9 @@ const pet = {
 - The circle in the center shows the number of the current page.
 - If the first page is open, the `<<` and `<` buttons are inactive.
 - If the last page is open, buttons `>` and `>>` are inactive.
-- At 1280px <= width on the page at the same time showing 8 pets, and the pages themselves 6. That is, when you click `>>` opens the sixth page.
-- If 768px <= width < 1280px, the page shows 6 pets and 8 pages at the same time. So clicking on `>>` will open page eight.
-- If width < 768px, the page shows 3 pets and 16 pages at the same time. I.e. when you click `>>` the sixteenth page opens.
+- At 1280px <= width on the page, it shows 8 pets, and the amount of pages is 6. I.e. when you click `>>` opens the sixth page.
+- If 768px <= width < 1280px, the page shows 6 pets and 8 pages at the same time. So clicking on `>>` will open the eighth page.
+- If the width < 768px, the page shows 3 pets and 16 pages at the same time. I.e. when you click `>>` the sixteenth page opens.
 - Switching the behavior of pet cards when changing width is not necessary to do. Checking for different widths of the browser window will be done with a page reload.
 
 ## Cross-check evaluation criteria. Week 4
@@ -753,22 +753,22 @@ With page width < 768px the _burger menu_ is implemented on both pages: **+20**.
 The _Burger Menu_ on each page must meet the following requirements:
 
 - The _Burger Menu_ is present on the page only when width < 768px.
-- When you click on the _Burger-Menu_, a 320px wide and full-height block appears on the right side, with the menu items vertically arranged and centered. Pulling out from the top, not the right, is not considered an error, but in that case the menu should also pull up, not to the right.
-- When the _burger-menu_ is opened, it moves smoothly out from behind the right (or top) border of the screen (slide-in).
-- When the _burger-menu_ is opened, the menu icon rotates smoothly by 90 degrees (rotate).
-- After opening the _burger menu_, the vertical scroll of the main page becomes inactive. In the menu itself there can be an active scroll, if all menu items do not fit the height of the browser window.
+- When you click on the _Burger-Menu_, a 320px wide and full-height block appears on the right side, with the menu items vertically arranged and centered. Pulling out from the top, not the right, is not considered an error, but in that case, the menu should also pull up, not to the right.
+- When the _burger-menu_ is opened, it moves smoothly out from the right (or top) border of the screen (slide-in).
+- When the _burger-menu_ is opened, the menu icon rotates smoothly by 90 degrees.
+- After opening the _burger menu_, the vertical scroll of the main page becomes inactive. In the menu itself, there can be an active scroll, if all menu items do not fit the height of the browser window.
 - The menu items have the same active and inactive rules as the menus on the larger screen width.
-- The area that protrudes beyond 320px is darkened.
+- The area beyond 320px is darkened.
 - When you click outside the menu boundaries on the darkened area or on the button with the menu icon, the _burger menu_ moves back in.
 - When you close the _burger menu_, it moves smoothly beyond the right (or top) border of the screen (slide-out).
-- When the _burger-menu_ is closed, the menu icon smoothly rotates back 90 degrees (rotate).
+- When the _burger-menu_ is closed, the menu icon smoothly rotates back 90 degrees.
 - After closing the _burger menu_, the vertical scroll becomes active again.
 - If you click on "About the shelter" (on page `main`) or "Our pets" (on page `our pets`) the page is in the initial position, the menu is closed.
 - If you click on "About the shelter" (on the page `our pets`) or "Our pets" (on the page `main`), the page will be moved to the corresponding page.
 - If you click on "Help", the page scrolls to the _help_ block and then closes the menu (from the `main` page), or redirects us to the _help_ block of the `main` page (from the `our pets` page)
 - When you click on "Contacts" the page scrolls to the block _Footer_, the menu closes.
 
-For each violation of these requirements will be deducted **-3** points, but no more than -20.
+For each violation of these requirements **-3** points will be deducted, but no more than -20.
 
 ---
 
@@ -779,7 +779,7 @@ _Popup_ is implemented on both pages: **+15**.
 
 _Popup_ on each page must meet the following requirements:
 
-- When you click anywhere on a card (block) with a description of a particular pet, a _popup_ appears, its content without the cross in the upper right corner is centered on the width and height of the screen.
+- When you click anywhere on a card (block) with a description of a particular pet, a _popup_ appears, its content is centered on the width and height of the screen (without taking into account the cross icon on the top right corner).
 - The rest of the page outside the popup is darkened.
 - Once the popup is opened, the vertical scroll becomes inactive. However, the scroll can be in the popup itself if it is taller than the browser window.
 - Nothing happens when you click on the popup window (block).
@@ -798,7 +798,7 @@ For each violation of the above requirements, **-3** points will be deducted, bu
 
 #### Carousel
 
-When you press the _left_ or _right_ buttons, the slides will flip: **+25**.  
+When you press the _left_ or _right_ buttons, the switching of slides occurs: **+25**.  
  If pressing the buttons to the left or right does not change the slides - no points are awarded for this point, the requirements for carousel implementation are not checked\_.
 
 The carousel must meet the following requirements:
@@ -806,11 +806,11 @@ The carousel must meet the following requirements:
 - When you click on the arrows, you move to a new block of elements.
 - The blocks change with a carousel animation. The animation time and timing function does not matter.
 - The carousel is infinite and has no boundaries, i.e. you can click left and right as many times as you want, and each time the content in the blocks will be new. In this case, the following scenarios are not considered to be an error:
-  - when flipping left and right, the cards are generated anew each time, without retaining the previous state.
+  - when sliding left and right, the cards are generated anew each time, without retaining the previous state.
   - Cards retain any number of previous states. For example, pressing the _right_ button generates a new block. And after pressing the _left_ button, the block with the previous elements we returned to will be displayed.
 - Each new slide contains a **pseudorandom** set of animal cards, i.e. it is formed from the original objects in random order with the following conditions:
   - in the current block of the slide cards with pets are not repeated.
-  - there is no duplication of cards with the current block in the next block. For example, in a slider of 3 elements, the next departing slide will contain 3 (out of 8 available) new pet cards, such that there were none among the 3 cards on the previous departed slide.
+  - there is no duplication of cards with the current block in the next block. For example, in a slider of 3 elements, the next slide will contain 3 (out of 8 available) new pet cards that weren't present among the 3 cards on the previous departed slide.
   - If the cards retain their previous states, make sure that after reloading the page, other card sequences will be generated. The starting slide may be the same when the page loads, but a new set of cards should be generated when you flip to the right or left. If you see that the sequence is the same as it was before the reload, perform the reload a few more times. If after 4 reloads the result has not changed - consider it an error!
 - Three checks are performed on three different values of the browser window width, **with page reloading after setting the width**:
   - at 1280px <= width there are 3 pet cards in the slide block. When you click on the arrow, all 3 cards are replaced with new ones.
@@ -825,7 +825,7 @@ For each violation of the above requirements (both clauses and sub-clauses), **-
 
 #### Pagination
 
-When you press the _left_ or _right_ buttons, the pages with the animal cards turn: **+40**.  
+When you press the _left_ or _right_ buttons, the pet cards switching occurs: **+40**.  
  If pressing the buttons to the left or right does not change the pages - no points are awarded for this point, the requirements for pagination are not checked\_.
 
 The pagination must meet the following requirements:
@@ -840,7 +840,7 @@ The pagination must meet the following requirements:
 - When the first page opens, the `<<` and `<` buttons are inactive.
 - When opening the last page the `>` and `>>` buttons are inactive.
 - Each new pagination page contains a **pseudorandom** set of paginates, i.e. it is formed from the original objects in random order with the following conditions:
-  - If the size of the pagination area, including the size of the browser window, is unchanged, returning to a page under a certain number will always have the same content on it. That is, the pet cards will be in the same location as they were before going to the other pages.
+  - If the size of the pagination area, including the size of the browser window, is unchanged, returning to a page under a particular number will always have the same content on it. That is, the pet cards will be in the same location as they were before going to the other pages.
   - When `Our Pets` is loaded, an array of 48 pet objects is generated. Each of the 8 pets shown on the layout must occur exactly 6 times.
   - At each load, the set of items displayed on the pagination page must be generated randomly. To do this, reload the browser tab 4 or more times, and watch for the order of the pet cards in the pagination to change. At the same time, if there are questions when switching between media queries, you can do the reloading on the screen size that has already been changed.
   - Every 8, every 6, and every 3 pet cards on a page should not be repeated. I.e. there can't be two of the same pet on the same pagination page at the same time.
