@@ -362,7 +362,7 @@ The layout requirements of [week 1](#week-1) of the project are met: either the 
 
 ### Pets Page
 
-1. **Header** (`<header>` содержит только логотип и панель навигации)
+1. **Header** (`<header>` contains only the logo and navigation bar)
 
 - The logo is nailed closer to the top of the page.
 - Padding to the left of the logo and to the right of the navigation menu must be hardcoded, as in the `768px` layout.
