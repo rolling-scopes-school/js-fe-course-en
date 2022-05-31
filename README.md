@@ -115,7 +115,7 @@
 
 - [CSS Grid](modules/css-grid/)
   - Test: "CSS Grid (EN)"
-- Task: [Shelter.Week_3](tasks/shelter/README.md#week-3) 
+- Cross-check: [Shelter.Week_3](tasks/shelter/README.md#week-3) 
 - Task: "Shelter.Week_4"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
