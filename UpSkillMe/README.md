@@ -50,7 +50,6 @@
 ### Week #7
 
 - Task: [Shelter.Week_2](../tasks/shelter/README.md)
-- Cross-check: [Shelter.Week_1](../tasks/shelter/README.md)
 - [JS Arrays](../modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](../modules/js-objects/)
@@ -60,7 +59,6 @@
 ### Week #8
 
 - Task: [BookShop.Week_1](../tasks/books-shop/books-shop.md)
-- Cross-check: [Shelter.Week_2](../tasks/shelter/README.md)
 - [DOM API](../modules/dom-api/)
   - Test: "DOM API (EN)"
 
