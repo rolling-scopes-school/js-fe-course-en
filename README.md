@@ -140,9 +140,7 @@
 
 ( 14.06.2022 - 20.06.2022 )
 
-- [HTTP/HTTPS](modules/http/)
-- [WebSocket](modules/websocket/)
-- [RESTful API](modules/rest/)
+- [HTTP/HTTPS. REST. WebSocket](modules/http/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #14
