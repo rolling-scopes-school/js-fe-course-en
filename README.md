@@ -158,7 +158,6 @@
 
 - Continue task: [English for kids](tasks/english-for-kids/english-for-kids.md)
 - [JS Modules](modules/js-modules/)
-  - Test: ""
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #16
@@ -169,7 +168,7 @@
 - [NPM](modules/npm/)
   - Test: ""
 - [Webpack](modules/webpack/)
-  - Test: ""
+  - Test: "JS Modules & Webpack (TBD)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #17
