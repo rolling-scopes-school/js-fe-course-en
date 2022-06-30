@@ -34,7 +34,6 @@
 
 ### Week #5
 
-- Cross-check.[CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(cross-check).md)
 - [Figma](../modules/figma/)
 - [JS Basics. Part 2](../modules/js-basics-2/)
   - Test: "JS-basics. Part 2 (EN)"
@@ -71,16 +70,16 @@
 
 ### Week #10
 
-- Cross-check.[BookShop.Week_2](../tasks/books-shop/books-shop.md)
+- Mentor's check.[BookShop.Week_2](../tasks/books-shop/books-shop.md)
 - [CSS Flex](../modules/css-flex/)
   - Test: "Responsive & Flexbox (EN)"
-- Task: "Shelter.Week_3"
+- Task: [Shelter.Week_3](tasks/shelter/README.md#week-3)
 
 ### Week #11
 
 - [CSS Grid](../modules/css-grid/)
   - Test: "CSS Grid (EN)"
-- Task: "Shelter.Week_4"
+- Task: [Shelter.Week_4](tasks/shelter/README.md#week-4)
 
 </details>
 
@@ -91,28 +90,25 @@
 
 ### Week #12
 
-- Cross-check.Shelter
+- Mentor's check.Shelter
 - [JS Classes & Prototypes](../modules/js-classes-prototypes/)
   - Test: "Inheritance (EN)"
   - Task: [Inheritance](../tasks/classes-inheritance/classes-inheritance.md)
 
 ### Week #13
 
-- [HTTP/HTTPS](../modules/http/)
-- [WebSocket](../modules/websocket/)
-- [RESTful API](../modules/rest/)
+- [HTTP/HTTPS. REST. WebSocket](modules/http/)
 
 ### Week #14
 
 - [JS Async Programming](../modules/js-async/)
-  - Test: ""
+  - Test: "Async (EN)"
   - Task: [English for kids](../tasks/english-for-kids/english-for-kids.md)
 
 ### Week #15
 
 - Continue task: [English for kids](../tasks/english-for-kids/english-for-kids.md)
 - [JS Modules](../modules/js-modules/)
-  - Test: ""
 
 ### Week #16
 
@@ -120,7 +116,7 @@
 - [NPM](../modules/npm/)
   - Test: ""
 - [Webpack](../modules/webpack/)
-  - Test: ""
+  - Test: "JS Modules & Webpack (TBD)"
 
 ### Week #17
 
