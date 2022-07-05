@@ -166,7 +166,6 @@
 
 - Complete task: [English for kids](tasks/english-for-kids/english-for-kids.md)
 - [NPM](modules/npm/)
-  - Test: ""
 - [Webpack](modules/webpack/)
   - Test: "JS Modules & Webpack (TBD)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
