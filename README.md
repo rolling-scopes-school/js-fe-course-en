@@ -166,8 +166,9 @@
 
 - Complete task: [English for kids](tasks/english-for-kids/english-for-kids.md)
 - [NPM](modules/npm/)
+  - Test: "NPM basics"
 - [Webpack](modules/webpack/)
-  - Test: "JS Modules & Webpack (TBD)"
+  - Test: "Webpack Basics"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #17
