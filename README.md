@@ -115,7 +115,7 @@
 
 - [CSS Grid](modules/css-grid/)
   - Test: "CSS Grid (EN)"
-- Cross-check: [Shelter.Week_3](tasks/shelter/README.md#week-3) 
+- Cross-check: [Shelter.Week_3](tasks/shelter/README.md#week-3)
 - Task: [Shelter.Week_4](tasks/shelter/README.md#week-4)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
@@ -166,7 +166,7 @@
 
 - Complete task: [English for kids](tasks/english-for-kids/english-for-kids.md)
 - [NPM](modules/npm/)
-  - Test: "NPM basics"
+  - Test: "NPM basics (EN)"
 - [Webpack](modules/webpack/)
   - Test: "Webpack Basics"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
