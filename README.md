@@ -177,7 +177,7 @@
 
 - Task: [Core JS 101](tasks/core-js-101/core-js-101.md)
 - [Browser API](modules/browser-api/)
-  - Test: ""
+  - Test: "Browser API (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #18
