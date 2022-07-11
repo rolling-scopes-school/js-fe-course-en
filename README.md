@@ -168,7 +168,7 @@
 - [NPM](modules/npm/)
   - Test: "NPM basics (EN)"
 - [Webpack](modules/webpack/)
-  - Test: "JS Modules & Webpack (TBD)"
+  - Test: "Webpack Basics"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #17
