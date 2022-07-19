@@ -188,7 +188,7 @@
 - [Design Patterns](modules/design-patterns/)
   - Test: ""
 - [Software Design Principles](modules/design-principles/)
-  - Test: ""
+  - Test: "Software design principles (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #19
