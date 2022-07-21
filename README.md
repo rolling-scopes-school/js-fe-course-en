@@ -186,9 +186,9 @@
 
 - Complete task: [Core JS 101](tasks/core-js-101/core-js-101.md)
 - [Design Patterns](modules/design-patterns/)
-  - Test: ""
+  - Test: "Software Design Patterns (EN)"
 - [Software Design Principles](modules/design-principles/)
-  - Test: "Software design principles (EN)"
+  - Test: "Software Design Principles (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #19
