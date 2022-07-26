@@ -205,7 +205,7 @@
 ( 02.08.2022 - 08.08.2022 )
 
 - [Testing](modules/testing/)
-  - Test: ""
+  - Test: "Testing Quiz (EN)"
   - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
 - [Software Development Lifecycle](modules/sdlc/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
