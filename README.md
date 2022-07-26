@@ -196,7 +196,7 @@
 ( 26.07.2022 - 01.08.2022 )
 
 - [TypeScript](modules/typescript/)
-  - Test: ""
+  - Test: "TypeScript Test (EN)"
   - Task: [TypeScript](tasks/typescript/typescript.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
