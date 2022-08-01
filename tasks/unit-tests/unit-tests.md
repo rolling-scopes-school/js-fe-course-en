@@ -1,6 +1,6 @@
 # Unit tests
 
-##Task
+## Task
 Your task is to implement 'custom' version of the lodash library following next requirements:
 1. Usage of `Array.prototype.*` or `Object.prototype.*` methods is **strictly forbidden**. (!!! Do not mix up *methods* and *properties* )
 2. You can create your own additional service functions (if needed).
