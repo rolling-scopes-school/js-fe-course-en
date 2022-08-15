@@ -227,33 +227,37 @@
 
 ( 16.08.2022 - 22.08.2022 )
 
+- [Angular. Intro](modules/angular/intro)
+- [Angular. Components](modules/angular/components)
+- [Angular. Directives & Pipes](modules/angular/directives-and-pipes)
+
 ### Week #23
 
 ( 23.08.2022 - 29.08.2022 )
+
+- [Angular. Modules & Services](modules/angular/modules-and-services)
+- [Angular. HTTP](modules/angular/http)
+- [Angular. Routing](modules/angular/routing)
 
 ### Week #24
 
 ( 30.08.2022 - 05.09.2022 )
 
+- [Angular. RxJs & Observables](modules/angular/rxjs)
+- [Angular. NgRx & Redux](modules/angular/rxjs)
+
 ### Week #25
 
 ( 06.09.2022 - 12.09.2022 )
 
-### Week #26
+- [Angular. Forms](modules/angular/forms)
+- [Angular. Unit testing](modules/angular/unit-test)
 
-( 13.09.2022 - 19.09.2022 )
+### Week #26 - Week #29
 
-### Week #27
+( 13.09.2022 - 10.10.2022 )
 
-( 20.09.2022 - 26.09.2022 )
-
-### Week #28
-
-( 27.09.2022 - 03.10.2022 )
-
-### Week #30
-
-( 04.10.2022 - 10.10.2022 )
+- Task. Project management application (TBD)
 
 </details>
 
