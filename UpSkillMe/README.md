@@ -114,34 +114,34 @@
 
 - Complete task: [English for kids](../tasks/english-for-kids/english-for-kids.md)
 - [NPM](../modules/npm/)
-  - Test: ""
+  - Test: "NPM basics (EN)"
 - [Webpack](../modules/webpack/)
-  - Test: "JS Modules & Webpack (TBD)"
+  - Test: "Webpack Basics"
 
 ### Week #17
 
 - Task: [Core JS 101](../tasks/core-js-101/core-js-101.md)
 - [Browser API](../modules/browser-api/)
-  - Test: ""
+  - Test: "Browser API (EN)"
 
 ### Week #18
 
 - Complete task: [Core JS 101](../tasks/core-js-101/core-js-101.md)
 - [Design Patterns](../modules/design-patterns/)
-  - Test: ""
+  - Test: "Software Design Patterns (EN)"
 - [Software Design Principles](../modules/design-principles/)
-  - Test: ""
+  - Test: "Software Design Principles (EN)"
 
 ### Week #19
 
 - [TypeScript](../modules/typescript/)
-  - Test: ""
+  - Test: "TypeScript Test (EN)"
   - Task: [TypeScript](../tasks/typescript/typescript.md)
 
 ### Week #20
 
 - [Testing](../modules/testing/)
-  - Test: ""
+  - Test: "Testing Quiz (EN)"
   - Task: [Unit tests](../tasks/unit-tests/unit-tests.md)
 - [Software Development Lifecycle](../modules/sdlc/)
 
