@@ -10,10 +10,12 @@
 
 ## Learning materials
 
-- [Lecture](https://youtu.be/I_1fm5wx7_4)
+### Lecture
+- [Rolling Scopes School Georgia. Angular. Part 7](https://youtu.be/I_1fm5wx7_4)
 - [TODO list management app](https://github.com/pavelrazuvalau/todo-list-management/tree/8ffdd73876c299e02fe3a392ab2c0870da9b44ab)
 - [Slides](https://slides.com/pavelrazuvalau/angular-forms)
 
+### Useful links
 - [Using forms for user input](https://angular.io/start/forms)
 - [Reactive forms](https://angular.io/guide/reactive-forms)
 - [Building a template-driven form](https://angular.io/guide/forms)

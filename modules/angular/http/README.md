@@ -8,10 +8,12 @@
 
 ## Learning materials
 
-- [Lecture (starting from 1:16:05)](https://youtu.be/fVhS7-LsvI4?t=4565)
+### Lecture
+- [Rolling Scopes School Georgia. Angular. Part 3 (starting from 1:16:05)](https://youtu.be/fVhS7-LsvI4?t=4565)
 - [TODO list management app](https://github.com/pavelrazuvalau/todo-list-management/tree/c431689f6a2c0eedf93ff760b30ee237f2c2e012)
 - [Slides](https://slides.com/pavelrazuvalau/angular-modules-services-http#/5)
 
+### Useful links
 - [Get data from a server](https://angular.io/tutorial/toh-pt6)
 - [Communicating with backend services using HTTP](https://angular.io/guide/http)
 - [@angular/common/http](https://angular.io/api/common/http)

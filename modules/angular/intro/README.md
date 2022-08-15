@@ -8,10 +8,13 @@
 - Event handling.
 
 ## Learning materials
-- [Lecture (till 48:25)](https://youtu.be/8lt8Mvxyo5E)
+
+### Lecture
+- [Rolling Scopes School Georgia. Angular. Part 1 (till 48:25)](https://youtu.be/8lt8Mvxyo5E)
 - [TODO list management app](https://github.com/pavelrazuvalau/todo-list-management/tree/ce415c7a0746d8b4f70b8898a6e331d7856f50e9)
 - [Slides (till Components)](https://slides.com/pavelrazuvalau/angular-intro-components)
 
+### Useful links
 - [CLI Overview and Command Reference](https://cli.angular.io/)
 - [Understanding Angular](https://angular.io/guide/understanding-angular-overview)
 - [Getting started with Angular](https://angular.io/start)
