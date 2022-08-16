@@ -238,6 +238,7 @@
 - [Angular. Modules & Services](modules/angular/modules-and-services)
 - [Angular. HTTP](modules/angular/http)
 - [Angular. Routing](modules/angular/routing)
+- Begin task: Project management application
 
 ### Week #24
 
@@ -245,6 +246,7 @@
 
 - [Angular. RxJs & Observables](modules/angular/rxjs)
 - [Angular. NgRx & Redux](modules/angular/rxjs)
+- Continue task: Project management application
 
 ### Week #25
 
@@ -252,13 +254,24 @@
 
 - [Angular. Forms](modules/angular/forms)
 - [Angular. Unit testing](modules/angular/unit-test)
+- Continue task: Project management application
 
-### Week #26 - Week #29
+### Week #26
 
-( 13.09.2022 - 10.10.2022 )
+( 13.09.2022 - 19.09.2022 )
 
-- Task. Project management application (TBD)
+- Complete task: Project management application
+
+### Week #27
+
+( 20.09.2022 - 26.09.2022 )
+
+- Preparation for the Exit interview
+
+### Week #28 - Week #29
+
+( 27.09.2022 - 10.10.2022 )
+
+- Exit Interview
 
 </details>
-
-#### Exit Interview ( 15.09.2022 - 15.10.2022 )
