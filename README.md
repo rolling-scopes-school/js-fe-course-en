@@ -245,7 +245,7 @@
 ( 30.08.2022 - 05.09.2022 )
 
 - [Angular. RxJs & Observables](modules/angular/rxjs)
-- [Angular. NgRx & Redux](modules/angular/rxjs)
+- [Angular. NgRx & Redux](modules/angular/redux)
 - Continue task: Project management application
 
 ### Week #25
