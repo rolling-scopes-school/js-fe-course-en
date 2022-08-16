@@ -262,16 +262,8 @@
 
 - Complete task: Project management application
 
-### Week #27
-
-( 20.09.2022 - 26.09.2022 )
-
-- Preparation for the Exit interview
-
-### Week #28 - Week #29
-
-( 27.09.2022 - 10.10.2022 )
-
-- Exit Interview
-
 </details>
+
+#### Preparation for the Exit interview ( 20.09.2022 - 26.09.2022 )
+
+#### Exit interview ( 27.09.2022 - 10.10.2022 )
