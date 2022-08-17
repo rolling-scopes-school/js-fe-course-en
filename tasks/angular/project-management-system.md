@@ -41,29 +41,26 @@ Regardless of the application type, it should contain:
 - after completing the task, create a pull request **Merging a Pull Request is not required**
 - add a link to the backend folder to the description of the pull request if the backend has not been deployed.
 
-## Технические требования
+## Technical requirements
 
-- Локализация (минимум 2 языка). В приложении должна быть возможность смены языка по нажатию на ползунок в header
-- семантическая вёрстка
-- работа приложения проверяется в браузере Google Chrome последней версии
-- разрешается(но не очень рекомендуется) использовать jQuery только в качестве подключаемой зависимости для UI библиотек. Использование jQuery в основном коде приложения не допускается.
-- формы должны содержать валидацию на соответствие ожидаемому типу (email, password и тд)
-- можно использовать css фреймворки, любые js библиотеки, любые библиотеки компонент, html и css препроцессоры
-- необходимо использовать бэкенд для корректной работы приложения и осуществления взаимодействия между несколькими пользователями
-- ❗ запрещено копировать код других студентов, демо, примеров, которые приводятся в задании. Этот запрет касается html, css, js кода. Можно использовать небольшие фрагменты кода со Stack Overflow, других самостоятельно найденных источников в интернете, за исключением github-репозиториев студентов курса. ❗ Возле использованного чужого фрагмента кода в комментарии указывается ссылка на источник. ❗
+- localization (at least 2 languages). The application should be able to change the language by clicking on the slider in the header
+- semantic layout
+- the application should work in the latest version of the Google Chrome browser
+- forms should contain validation for compliance with the expected type (email, password, etc.)
+- you may use css frameworks, any component libraries, html and css preprocessors
+- it is necessary to use the backend for the correct operation of the application and the interaction between several users
+- ❗ it is forbidden to copy the code of other students, demos, examples that are given in the assignment. This ban applies to html, css, js code. You can use small code snippets from Stack Overflow, other self-found sources on the Internet, with the exception of github repositories of course students.
 
-## Требования к оформлению приложения
+## Application design requirements
 
-- Вы не ограничены в творчестве, но ограничены возможностями пользователя
-- качественное приложение характеризуется проработанностью деталей, вниманием к типографике (не больше трёх шрифтов на странице, размер шрифта не меньше 14 рх, оптимальная [контрастность шрифта и фона](https://snook.ca/technical/colour_contrast/colour.html)), тщательно подобранным контентом
-- вёрстка адаптивная. Минимальная ширина страницы, при которой проверяется корректность отображения приложения - 320рх
-- интерактивность элементов, с которыми пользователи могут взаимодействовать, изменение внешнего вида самого элемента и состояния курсора при наведении, использование разных стилей для активного и неактивного состояния элемента, плавные анимации
-- единство стилей всех страниц приложения - одинаковые шрифты, стили кнопок, отступы, одинаковые элементы на всех страницах приложения имеют одинаковый внешний вид и расположение. Цвет элементов и фоновые изображения могут отличаться. В этом случае цвета используются из одной палитры, а фоновые изображения из одной коллекции.
+- you are not limited in creativity, but limited by the user's capabilities
+- the application quality is characterized by elaboration of details, attention to typography (no more than three fonts per page, font size of at least 14 px, optimal [font and background contrast] (https://snook.ca/technical/colour_contrast/colour.html)) , carefully selected content
+- adaptive layout. The minimum page width of the application is 320px
+- interactivity of elements users can interact with, changing the appearance of the element itself and the type of the cursor on hover, using different styles for the active and inactive state of the element, smooth animations
+- the unity of styles of all pages of the application - the same fonts, button styles, indents, the same elements on all pages of the application have the same appearance and layout. Item colors and background images may vary. In this case, colors should be from the same palette, and background images from the same collection.
 
-## Описание функциональных блоков
-
-Перед описанием функционала приложения нужно определить некоторые понятия:
-- Пользователь(член команды) может ставить задачи, выполнять задачи, просматривать задачи, удалять собственные задачи, быть ответственным (виноватым) в чужих задачах.
+## Description of function blocks
+The user (team member) can set tasks, perform tasks, view tasks, delete their own tasks, be responsible (assigned) in other people's tasks.
 
 ### Welcome page(route)
 
