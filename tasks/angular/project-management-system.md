@@ -22,38 +22,24 @@ There is the description of the steps to get started, as well as a list of avail
 - You will need to deploy the backend yourself to demonstrate the working application.
 - During the implementation of an application, you may run the backend in any environment that is convenient for you, for example, a local machine.
 
-## Структура приложения
+## Application structure
 
-В не зависимости от типа приложения, в нём должно быть:
+Regardless of the application type, it should contain:
 
-- приветственная страница
-- пользовательский логин
-- страница управления проектами
-- страница управления проектом
-- дополнительный функционал(например, возможность посмотреть все таски выбранного пользователя), дополнительный функционал обсудите со своим тимлидом/ментором
+- welcome page
+- user login
+- projects management page
+- project management page
+- additional functionality (for example, the ability to view all the tasks of the selected user)
 
-## Требования к репозиторию
+## Repository requirements
 
-- для разработки приложения тимлид команды в своём аккаунте github создаёт приватный репозиторий, коллабораторами в который приглашает всех участников своей команды
-- особенности командной работы с репозиторием описаны в [Документации курса](https://github.com/rolling-scopes-school/tasks/blob/9f614d6d3e94975824153e652474b29653c958ff/stage2/modules/final-task/README.md)
-- название репозитория: **project-management-app**, название ветки, в которую мержится разработка - **develop**, ветка **main** пустая, содержит только README.md
-- история коммитов должна отображать процесс разработки приложения. [Требования к коммитам](https://docs.rs.school/#/git-convention)
-- демо-версия приложения размещается на `gh-pages`, `netlify`, `heroku` либо на другом подобном хостинге.
-- после окончания разработки или при наступлении дедлайна, создайте pull request из ветки разработки в ветку `main`. [Требования к pull request](https://docs.rs.school/#/pull-request-review-process?id=Требования-к-pull-request-pr). **Мержить Pull Request не нужно**
-- добавьте в описание pull request ссылку на папку с бекендом, если бэкенд не был задеплоен.
-- репозиторий, в котором велась работа над проектом, после наступления дедлайна нужно сделать публичным.
-
-### Gitflow, workflow
-
-Вы вольны выбирать самостоятельный путь развития проекта и репозитория. Здесь указаны ссылки на описание и разбор популярных практик.
-
-- [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
-    - [перевод](https://blog.noveogroup.ru/2020/05/podhody-k-upravleniju-vetkami-v-sistem/)
-- [Рабочий процесс Gitflow Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
-- [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
-- [Стратегия ветвления ThreeFlow](https://habr.com/ru/company/infopulse/blog/345826/)
-- [GitLab Flow VS Git flow VS GitHub flow](https://yapro.ru/article/6172)
-- [Секретная ссылка к знаниям](https://www.google.com/search?q=gitflow+%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D1%8B)
+- use private school repository for this task
+- branch name is **project-management-app**
+- the commit history should reflect the development process of the application. [Commit requirements](https://docs.rs.school/#/git-convention)
+- the demo version of the application is hosted on `gh-pages`, `netlify`, `heroku` or other similar hosting.
+- after completing the task, create a pull request **Merging a Pull Request is not required**
+- add a link to the backend folder to the description of the pull request if the backend has not been deployed.
 
 ## Технические требования
 
