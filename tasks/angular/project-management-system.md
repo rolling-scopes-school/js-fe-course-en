@@ -64,19 +64,17 @@ The user (team member) can set tasks, perform tasks, view tasks, delete their ow
 
 ### Welcome page(route)
 
-- На приветственной странице должны отображаться общие сведения о команде, проекте, курсе.
-- В верхнем правом углу должны быть доступны 2 кнопки log in и sign up.
-- При наличии неистёкшего токена пользователь автоматически должен быть перенаправлен на главный роут приложения.
-- При истечении срока жизни токена - пользователь автоматически должен быть перенаправлен на "Welcome page".
-- Нажатие на кнопку Login / Sign up автоматически перенаправляет нас на роут с формой для Login / Sign up.
+- The welcome page should display general information about the developer, project, course.
+- In the upper right corner should be present 2 buttons Log in and Sign up
+- If there is an unexpired token, the user should be redirected to the main route of the application automatically.
+- When the token expires - the user should be redirected to the "Welcome page" automatically.
+- Pressing the Log in / Sign up button redirects the user to the route with the Login / Sign up form automatically.
 
 ### Header
-
-- На всех роутах доступных при наличии токена должен присутствовать sticky header ( момент, когда он становится sticky (при наличии на странице скролла) должен быть анимирован (например его цвет может потемнеть или высота слегка уменьшится)).
-- В хэдере должны быть кнопки: edit profile, logout, create new board, тогглер локализации.
-  Edit profile должен отправлять нас на роут с формой для edit profile. Требования к форме такие же как и ко всем формам в приложении. Должна быть кнопка удаления юзера. В случае этого действия => "confirmation modal" => пользователя должно разлогинить и пользователь должен быть удалён из базы данных.
-- create new board - открывает модальное окно с формой для создания борды.
-- Требования к форме такие же как и ко всем формам в приложении.
+- All routes available with a token should have a sticky header (the moment when it becomes sticky (if there is a scroll on the page) should be animated (for example, its color become darken or its height will slightly decrease)).
+- There are buttons in the header: edit profile, logout, create new board, localization switcher.
+- Edit profile should redirect user to a route with a form for edit profile. The requirements for the form are the same as for all forms in the application. There should be a 'Delete User' button. In case of this action should be shown a  "confirmation modal" than the user should be logged out, and the user should be removed from the database.
+- Create new board - opens a modal window with a form for creating a board. Requirements for the form are the same as for all forms in the application.
 
 ### Footer
 
