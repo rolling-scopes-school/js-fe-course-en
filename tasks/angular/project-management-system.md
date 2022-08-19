@@ -120,21 +120,19 @@ The user (team member) can set tasks, perform tasks, view tasks, delete their ow
 
 ## Check criteria
 
-Для удобства проверки необходимо записать и разместить на YouTube небольшое (5-7 мин) видео для проверяющих с объяснением, как реализован каждый из перечисленных в критериях оценки пункт. Ссылку на видео добавить в pull-request.
-
 ### Welcome route - max 70 баллов
 
-- [ ] На приветственной странице должны отображаться общие сведения о команде, проекте, курсе. **10 баллов**
-- [ ] В верхнем правом углу должны быть доступны 2 кнопки log in и sign up. **10 баллов**
-- [ ] При наличии неистёкшего токена пользователь автоматически должен быть перенаправлен на главный роут приложения. **20 баллов**
-- [ ] При истечении срока жизни токена - пользователь автоматически должен быть перенаправлен на "Welcome page". **20 баллов**
-- [ ] Нажатие на кнопку Login / Sign up автоматически перенаправляет нас на роут с формой для Login / Sign up. **10 баллов**
+- [ ] The welcome page should contain general information about the developer, project, course. **10 points**
+- [ ] In the upper right corner, there are 2 buttons: log in and sign up. **10 points**
+- [ ] If there is an unexpired token, the user should be redirected to the main route of the application automatically. **20 points**
+- [ ] When the token expires - the user should be redirected to the "Welcome page" automatically. **20 points**
+- [ ] Pressing the Login / Sign up button redirects a user to the route with the Login / Sign up form automatically. **10 points**
 
 ### Login / Sign up  - max 80 баллов
 
-- [ ] Логин/log out есть на всех страницах **20 баллов**
-- [ ] Поля форм должны быть реализованы в соответствии с api backend приложения. Должна быть реализована валидация. **50 баллов**
-- [ ] При успешном логине пользователь должен быть перенаправлен на "Main route" **10 баллов**
+- [ ] Login/log out should be present on all pages **20 points**
+- [ ] Form fields should be implemented according to the backend API. Validation should be implemented. **50 points**
+- [ ] Upon successful login, the user should be redirected to "Main route" **10 points**
 
 ### Main route max 100 баллов
 
