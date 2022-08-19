@@ -89,30 +89,30 @@ The user (team member) can set tasks, perform tasks, view tasks, delete their ow
 
 ### Main route
 
-- Отображает борды списком.
-- Борды отображаются с маленьким превью из доступной информации (title). По клику на элемент переходим на board item (Board route). Также должна присутствовать кнопка для удаления борды.
-- При попытке удаления борды мы должны получить confirmation modal в котором должны подтвердить серёзность наших намерений. confirmation modal должен быть универсальным компонентом (одним на всё приложение).
-- глобальный поиск(опционально): поиск таска по номеру таска, названию, пользователям, которые в нём участвуют и по тексту описания задачи.
+- Displays the boards with lists.
+- Boards are displayed with a small preview of the available information (title). By clicking on the element, the user redirects to the board item (Board route). There should be a button to remove the board.
+- When a user trying to delete the board, he/she should receive a confirmation modal to verify the user really wants to delete the board (to avoid deleting the board by mistake). The confirmation modal should be a generic component (one for the application).
+- global search (optional): search for a task by task number, name, users assigned to it and by the text of the task description.
 
 ### Board route
 
-- Должны присутствовать кнопки для создания колонки.
-- Если к борде привязана хотябы одна колонка - отображаем также и кнопку создания таски.
-- Для создания колонки и таска используется форма отображаемая в модальном окне.
-- Требования к модальному окну и формам описаны ранее.
-- Таск не может быть НЕ привязан к колонке.
-- Мы можем создать несколько колонок. Мы можем создать неограниченное количество тасок. При переполнении количеством тасок колонки - скролл внутри колонки.
-- Если все колонки не помещаются на экран, страница может иметь горизонтальный скролл.
-- С помощью drag-n-drop мы можем менять колонки местами.
-- С помощью drag-n-drop мы можем менять очерёдность тасок в рамках колонки.
-- С помощью drag-n-drop мы можем менять принадлежность таски к колонке.
-- ❗ Рекомендуется использовать существующую библиотеку для реализации функционала drag-n-drop ❗.
-- По клику на таск открываем модальное окно с формой edit task. Требования к форме и окну как везде.
-- На таске должна присутствовать кнопка delete task. При нажатии: confirmation modal -> удаление.
-- Вверху колонки должен быть title. При нажатии на него он из текста должен превращаться в input, слева от которого будут кнопки cancel и submit. После ввода текста в input и нажатия submit - title колонки должен поменяться.
-- На колонке должна присутствовать кнопка delete. По нажатию - confirmation modal - при апруве - удаление.
-- Должна быть кнопка "вернуться" для возвращения к main route
-- ВНИМАНИЕ! Удаление колонки автоматически удаляет привязанные к ней таски из BD.
+- There should be button to create a column.
+- If there is at least one column in the board, you should display the task creation button.
+- To create a column and a task, you should display a form in the modal window.
+- Requirements for the modal window and forms are described before.
+- A task cannot be NOT bound to a column.
+- The user can create multiple columns. The user can create an unlimited number of tasks. When overflowing with the number of tasks of the column - display scroll inside the column.
+- If all columns do not fit on the screen, the page may have a horizontal scroll.
+- The user can swap columns using drag-n-drop.
+- The user can change the order of tasks columns using drag-n-drop.
+- The user change the belonging of the task to the column using drag-n-drop.
+- ❗ It is recommended to use the existing library to implement the drag-n-drop functionality ❗.
+- By clicking on the task, you should open a modal window with the edit task form. The requirements for the form and window are the same as everywhere.
+- There should be a 'delete task' button on the task. By clicking on 'delete task' should be open the confirmation modal, only after user confirm the deleting - delete the task.
+- At the top of the column should be displayed the title. When you click on it, it should convert text into input, there should be 'cancel' and 'submit' buttons to the left of input. After entering text in the input and clicking submit - the title of the column should be updated with entered text.
+- The column should have a 'delete column' button. By clicking on 'delete column' should be open the confirmation modal, only after user confirm the deleting - delete the column.
+- ATTENTION! Deleting a column removes the tasks associated with it from the BD automatically.
+- There should be a "back" button to return to the main route
 
 ## Критерии оценивания
 
