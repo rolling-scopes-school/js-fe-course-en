@@ -78,13 +78,14 @@ The user (team member) can set tasks, perform tasks, view tasks, delete their ow
 
 ### Footer
 
-- footer со ссылками на гитхабы авторов приложения, год создания приложения, [логотип курса](https://rs.school/images/rs_school_js.svg) со [ссылкой на курс](https://rs.school/angular/). footer отображается на всех страницах приложения.
-
+- footer should contain link to the author's  github, the year the application was created, [course logo](https://rs.school/images/rs_school_js.svg) with [link to the course](https://rs.school/angular/).
+- footer is displayed on all pages of the application.
+- 
 ### Login / Sign up
 
-- Поля форм должны быть реализованы в соответствии с api backend приложения. Должна быть реализована валидация.
-- Ошибки со стороны BE - (Not found, unhandled rejection, etc) должны отображаться пользователю в user-friendly формате (toast, pop-up или что-то подобное, на ваше усмотрение).
-- При успешном логине пользователь должен быть перенаправлен на "Main route"
+- Form fields should be implemented in consistency with the API backend of the application. Validation should be implemented.
+- Errors from the BE side - (Not found, unhandled rejection, etc) should be displayed in a user-friendly format (toast, pop-up or something like this - up to your decision).
+- Upon successful login, the user should be redirected to the "Main route"
 
 ### Main route
 
