@@ -16,7 +16,7 @@ Design, prototype, as well as the implementation of the application itself to yo
 
 ## Backend
 
-Use https://github.com/vitaly-sazonov/kanban-rest as a backend.
+Use https://github.com/vitaly-sazonov/kanban-rest as a backend. (❗ Will be updated with a new link)
 There is a description of the steps to get started, as well as a list of available requests in the repository.
 
 - You will need to deploy the backend yourself to demonstrate the working application.
