@@ -238,7 +238,7 @@
 - [Angular. Modules & Services](modules/angular/modules-and-services)
 - [Angular. HTTP](modules/angular/http)
 - [Angular. Routing](modules/angular/routing)
-- Begin task: Project management application
+- Begin task: [Project management application](tasks/angular/project-management-system.md)
 
 ### Week #24
 
@@ -246,7 +246,7 @@
 
 - [Angular. RxJs & Observables](modules/angular/rxjs)
 - [Angular. NgRx & Redux](modules/angular/redux)
-- Continue task: Project management application
+- Continue task: [Project management application](tasks/angular/project-management-system.md)
 
 ### Week #25
 
@@ -254,13 +254,13 @@
 
 - [Angular. Forms](modules/angular/forms)
 - [Angular. Unit testing](modules/angular/unit-test)
-- Continue task: Project management application
+- Continue task: [Project management application](tasks/angular/project-management-system.md)
 
 ### Week #26
 
 ( 13.09.2022 - 19.09.2022 )
 
-- Complete task: Project management application
+- Complete task: [Project management application](tasks/angular/project-management-system.md)
 
 </details>
 
