@@ -14,6 +14,18 @@ Pay attention that we leave the final set of tools and design up to you to not l
 
 Design, prototype, as well as the implementation of the application itself to your taste.
 
+Here's the list of examples of working prototypes:
+
+https://comfy-klepon-a13665.netlify.app/
+
+https://project-management-appl.herokuapp.com/
+
+https://pma-angular.netlify.app/
+
+https://project-management-app-group14.netlify.app/
+
+https://project-management-team7.netlify.app/
+
 ## Backend
 
 Use https://github.com/vitaly-sazonov/kanban-rest as a backend. (❗ Will be updated with a new link)
