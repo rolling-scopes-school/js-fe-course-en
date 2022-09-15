@@ -256,9 +256,9 @@
 - [Angular. Unit testing](modules/angular/unit-test)
 - Continue task: [Project management system](tasks/angular/project-management-system.md)
 
-### Week #26
+### Week #26 - 27
 
-( 13.09.2022 - 19.09.2022 )
+( 13.09.2022 - 26.09.2022 )
 
 - Complete task: [Project management system](tasks/angular/project-management-system.md)
 
