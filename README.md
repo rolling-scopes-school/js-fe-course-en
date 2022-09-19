@@ -259,7 +259,7 @@
 
 ### Week #26 - 27
 
-( 14.03.2023 - 27.030.2023 )
+( 14.03.2023 - 27.03.2023 )
 
 - Complete task: [Project management system](tasks/angular/project-management-system.md)
 
