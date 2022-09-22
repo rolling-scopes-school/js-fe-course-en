@@ -158,31 +158,31 @@
 
 ### Week #22
 
-- [Angular. Intro](modules/angular/intro)
-- [Angular. Components](modules/angular/components)
-- [Angular. Directives & Pipes](modules/angular/directives-and-pipes)
+- [Angular. Intro](../modules/angular/intro)
+- [Angular. Components](../modules/angular/components)
+- [Angular. Directives & Pipes](../modules/angular/directives-and-pipes)
 
 ### Week #23
 
-- [Angular. Modules & Services](modules/angular/modules-and-services)
-- [Angular. HTTP](modules/angular/http)
-- [Angular. Routing](modules/angular/routing)
-- Begin task: [Project management system](tasks/angular/project-management-system.md)
+- [Angular. Modules & Services](../modules/angular/modules-and-services)
+- [Angular. HTTP](../modules/angular/http)
+- [Angular. Routing](../modules/angular/routing)
+- Begin task: [Project management system](../tasks/angular/project-management-system.md)
 
 ### Week #24
 
-- [Angular. RxJs & Observables](modules/angular/rxjs)
-- [Angular. NgRx & Redux](modules/angular/redux)
-- Continue task: [Project management system](tasks/angular/project-management-system.md)
+- [Angular. RxJs & Observables](../modules/angular/rxjs)
+- [Angular. NgRx & Redux](../modules/angular/redux)
+- Continue task: [Project management system](../tasks/angular/project-management-system.md)
 
 ### Week #25
 
-- [Angular. Forms](modules/angular/forms)
-- [Angular. Unit testing](modules/angular/unit-test)
-- Continue task: [Project management system](tasks/angular/project-management-system.md)
+- [Angular. Forms](../modules/angular/forms)
+- [Angular. Unit testing](../modules/angular/unit-test)
+- Continue task: [Project management system](../tasks/angular/project-management-system.md)
 
 ### Week #26 - 28
-- Complete task: [Project management system](tasks/angular/project-management-system.md)
+- Complete task: [Project management system](../tasks/angular/project-management-system.md)
 
 </details>
 
