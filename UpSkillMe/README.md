@@ -97,7 +97,7 @@
 
 ### Week #13
 
-- [HTTP/HTTPS. REST. WebSocket](modules/http/)
+- [HTTP/HTTPS. REST. WebSocket](../modules/http/)
 
 ### Week #14
 
