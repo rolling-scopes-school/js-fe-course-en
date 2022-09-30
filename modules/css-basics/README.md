@@ -6,7 +6,10 @@ This module you will get knowledge about CSS properties, selectors, validation a
 * [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
 * [Video course. CSS Tutorial For Beginners](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
 * [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
-* [Recapping video. HTML / CSS Basics](https://youtu.be/YiLqgZY4xCU)
+* [RS School. Lithuania. HTML / CSS Basics](https://youtu.be/YiLqgZY4xCU)
+* [RS School. Lithuania. Semantics. CSS3](https://youtu.be/9T6Ho--eqGc)
+* [RS School. Georgia. Semantic. CSS3. Part 1](https://youtu.be/yLpUsbequS4)
+* [RS School. Georgia. Semantic. CSS3. Part 2](https://youtu.be/pgkUZFdcKSU)
 
 ### Test
 At the end of this module you should pass the **"CSS Basic (EN)"**

@@ -7,6 +7,7 @@ Discover the collaborative approach in software development by using a version c
 * [A step-by-step guide to Git](https://opensource.com/article/18/1/step-step-guide-git)
 * [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 * [Visualizing Git](http://git-school.github.io/visualizing-git/)
+* [Lecture RS School.Lithuania. Git](https://youtu.be/nZdrmhN90j8)
 
 ### Test
 At the end of this module you should pass the **"Git Quiz"**

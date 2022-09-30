@@ -3,8 +3,11 @@ This week you will get knowledge about HTML5, its main tags, semantic and so on.
 
 ### Education materials
 * [Basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+* [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * [Video course](https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&ab_channel=TheNetNinja)
+* [Lecture RS School.Lithuania. HTML/Css](https://youtu.be/YiLqgZY4xCU)
+* [Lecture RS School.Georgia. HTML/Css](https://youtu.be/_oSYrBCsf2Q)
 
 ### Test
 At the end of this module, you should pass the **"HTML Basic ( EN )"** test.
