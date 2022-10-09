@@ -31,14 +31,14 @@
 - [CSS Basics](../modules/css-basics/)
   - Test: "CSS Basics (EN)"
 - [Markdown](../modules/markdown/)
-  - Task: [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+  - Task: [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #4
 
 ( 24.10.2022 - 30.10.2022 )
 
-- Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
+- Task: [CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [JS Basics. Part 1](../modules/js-basics-1/)
   - Test: "JS-basics. Part 1 (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -47,7 +47,7 @@
 
 ( 31.10.2022 - 06.11.2022 )
 
-- Cross-check.[CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(cross-check).md>)
+- Cross-check.[CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(cross-check).md>)
 - [Figma](../modules/figma/)
 - [JS Basics. Part 2](../modules/js-basics-2/)
   - Test: "JS-basics. Part 2 (EN)"
@@ -61,7 +61,7 @@
 - Task: [TBD]
 - [JS Basics. Part 3](../modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
-  - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
+  - Task: [Codewars: Strings, Numbers](../tasks/codewars/codewars.strings.numbers.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #7
@@ -74,14 +74,14 @@
   - Test: "JS Array. Basics"
 - [JS Objects](../modules/js-objects/)
   - Test: "JS Object. Basics"
-  - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
+  - Task: [Codewars: Array, Object](../tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #8
 
 ( 21.11.2022 - 27.11.2022 )
 
-- Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
+- Task: [BookShop.Week_1](../tasks/books-shop/books-shop.md)
 - Cross-check: [TBD]
 - Complete task: Codewars: Array, Object
 - [DOM API](../modules/dom-api/)
@@ -92,7 +92,7 @@
 
 ( 28.11.2022 - 04.12.2022 )
 
-- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 21.11.2022. 23.59 (GMT + 3))
+- Task: [BookShop.Week_2](../tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 04.12.2022 23.59 (GMT + 3))
 - [DOM Events](../modules/dom-events/)
   - Test: "DOM Events (EN)"
 - [Forms & Validation](../modules/forms-validation/)
@@ -102,10 +102,10 @@
 
 ( 5.12.2022 - 11.12.2022 )
 
-- Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
+- Cross-check.[BookShop.Week_2](../tasks/books-shop/books-shop.md)
 - [CSS Flex](../modules/css-flex/)
   - Test: "Responsive & Flexbox (EN)"
-- Task: [Shelter.Week_3](tasks/shelter/README.md#week-3)
+- Task: [Shelter.Week_3](../tasks/shelter/README.md#week-3)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #11
@@ -133,7 +133,7 @@
 - Cross-check.Shelter
 - [JS Classes & Prototypes](../modules/js-classes-prototypes/)
   - Test: "Inheritance (EN)"
-  - Task: [Inheritance](tasks/classes-inheritance/classes-inheritance.md)
+  - Task: [Inheritance](../tasks/classes-inheritance/classes-inheritance.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #13
@@ -175,7 +175,7 @@
 
 ( 23.01.2023 - 29.01.2023 )
 
-- Task: [Core JS 101](tasks/core-js-101/core-js-101.md)
+- Task: [Core JS 101](../tasks/core-js-101/core-js-101.md)
 - [Browser API](../modules/browser-api/)
   - Test: "Browser API (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -184,7 +184,7 @@
 
 ( 30.01.2023 - 05.02.2023 )
 
-- Complete task: [Core JS 101](tasks/core-js-101/core-js-101.md)
+- Complete task: [Core JS 101](../tasks/core-js-101/core-js-101.md)
 - [Design Patterns](../modules/design-patterns/)
   - Test: "Software Design Patterns (EN)"
 - [Software Design Principles](../modules/design-principles/)
@@ -197,7 +197,7 @@
 
 - [TypeScript](../modules/typescript/)
   - Test: "TypeScript Test (EN)"
-  - Task: [TypeScript](tasks/typescript/typescript.md)
+  - Task: [TypeScript](../tasks/typescript/typescript.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #20
@@ -206,7 +206,7 @@
 
 - [Testing](../modules/testing/)
   - Test: "Testing Quiz (EN)"
-  - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
+  - Task: [Unit tests](../tasks/unit-tests/unit-tests.md)
 - [Software Development Lifecycle](../modules/sdlc/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
@@ -238,7 +238,7 @@
 - [Angular. Modules & Services](../modules/angular/modules-and-services)
 - [Angular. HTTP](../modules/angular/http)
 - [Angular. Routing](../modules/angular/routing)
-- Begin task: [Project management system](tasks/angular/project-management-system.md)
+- Begin task: [Project management system](../tasks/angular/project-management-system.md)
 
 ### Week #24
 
@@ -246,7 +246,7 @@
 
 - [Angular. RxJs & Observables](../modules/angular/rxjs)
 - [Angular. NgRx & Redux](../modules/angular/redux)
-- Continue task: [Project management system](tasks/angular/project-management-system.md)
+- Continue task: [Project management system](../tasks/angular/project-management-system.md)
 
 ### Week #25
 
@@ -254,13 +254,13 @@
 
 - [Angular. Forms](../modules/angular/forms)
 - [Angular. Unit testing](../modules/angular/unit-test)
-- Continue task: [Project management system](tasks/angular/project-management-system.md)
+- Continue task: [Project management system](../tasks/angular/project-management-system.md)
 
 ### Week #26 - 27
 
 ( 27.03.2023 - 02.04.2023 )
 
-- Complete task: [Project management system](tasks/angular/project-management-system.md)
+- Complete task: [Project management system](../tasks/angular/project-management-system.md)
 
 </details>
 
