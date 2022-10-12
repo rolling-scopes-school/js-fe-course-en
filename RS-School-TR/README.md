@@ -21,7 +21,7 @@
 - [Git](../modules/git/)
   - Test: "Git Quiz"
 - [HTML basics](../modules/html-basics/)
-  - Test: "HTML Basics (EN)"
+  - Test: "HTML basic [ENG](S1)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #3
