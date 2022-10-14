@@ -33,3 +33,7 @@ Your task is to create your own CV using HTML and CSS.
 ### Criteria
 - +50 points if the requirements for the task are met
 - +50 points if repository, commit and PR requirements are met
+
+
+### Prepare repository for "CV. HTML, CSS & Git Basics. Cross-check" task
+* After finishing this stage, go to ["CV. HTML, CSS & Git Basics. Cross-check" task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/CV(markdown)/CV(cross-check).md) to prepare and submit your repository for a cross-check task. 
