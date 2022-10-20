@@ -107,7 +107,7 @@
 - Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
 - [CSS Flex](modules/css-flex/)
   - Test: "Responsive & Flexbox (EN)"
-- Task: [Shelter.Week_3](tasks/shelter/README.md#week-3)
+- Task: [TBD]
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #11
