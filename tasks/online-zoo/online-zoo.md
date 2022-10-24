@@ -1,9 +1,7 @@
 # Online-zoo
 
-Online-zoo is a platform that collects information about animals from various zoos with webcams. 
-It is assumed that the user can open a page with zoo resources, watch one of the animals, or make a donation that will
-be used to purchase food. As part of the task, we should make an adaptive layout and interactivity of the main page, 
-and the page with donations.
+Online-zoo is a platform that contains information about animals from various zoos with webcams. 
+It is assumed that a user can open the page with zoo resources, observe one of the animals, or make a donation that will be used to purchase food. As part of the task, we should make an adaptive layout and interactivity of the main page, and the page with donations.
 
 **[PetStory-online](https://www.figma.com/file/ypzT9idgAILaSRVRmDAJxn/online-zoo-3-weeks)**  
 Link text: https://www.figma.com/file/ypzT9idgAILaSRVRmDAJxn/online-zoo-3-weeks
@@ -11,20 +9,17 @@ Link text: https://www.figma.com/file/ypzT9idgAILaSRVRmDAJxn/online-zoo-3-weeks
 ## Task completion steps
 
 **[Week 1](#week-1)**: Fixed page layout `desktop_petstory`.
-- At this stage, you should create a fixed layout of `desktop_petstory` page. With a fixed layout, the page looks the same with 
-a window width of 1600px. It is at this width that we conduct the test.
+- At this stage, you should create a fixed layout of `desktop_petstory` page. With a fixed layout, the page looks the same with a window width of 1600px. The task should be checked at the same window width.
 - 
 **[Week 2](#week-2)**: Fixed page layout `desktop_donate`.
-- At this stage, you should to create a fixed layout of `desktop_donate` page. With a fixed layout, the page looks the same with 
-a window width of 1600px. It is at this width that we conduct the test.
+- At this stage, you should create a fixed layout of the `desktop_donate` page. With a fixed layout, the page looks the same with a window width of 1600px. The task should be checked at the same window width.
 
 **[Week 3](#week-3)**: Adding adaptive layout.
-- At this stage, you should to adapt the previously created pages according to the layout for different window widths 
-from the maximum to 320px inclusive. In this case, it will be necessary to adapt and decorative elements.
+- At this stage, you should adapt the previously created pages according to the layout for different window widths from the maximum to 320px inclusive. In this case, it will be necessary to adapt decorative elements.
 
 
 **[Week 4](#week-4)**: Adding additional functionality.
-- at this stage, additional functionality is added to the previously made pages: menu, slider, pagination, popup.
+- at this stage, additional functionality is added to the previously made pages: menu, slider, pagination, and popup.
 
 ## Task verification
 
@@ -36,7 +31,7 @@ from the maximum to 320px inclusive. In this case, it will be necessary to adapt
 
 ## Creation of a copy of the layout
 
-The first thing to do is create your copy of the Figma designs. To do so:
+The first thing to do is the creation of your copy of the Figma designs. To do so:
 
 - authorize on [Figma](https://www.figma.com/);
 - navigate to the [layout](https://www.figma.com/file/ypzT9idgAILaSRVRmDAJxn/online-zoo-3-weeks);
@@ -89,11 +84,11 @@ Please pay attention to the following points:
 ### Additional requirements for the repository to complete the third and fourth parts of the task
 - a job can be run on the same branch `online-zoo` or on a new branch.
 - if the job is running on a new branch:
-  - a new branch is created from the `online-zoo` branch, for example online-zoo-part2`;
+  - a new branch is created from the `online-zoo` branch, for example, online-zoo-part2`;
   - in the new branch, work is being done on the task;
-  - when execution is completed , a Pull Request is made `online-zoo` from the branch to the `online-zoo-part2` branch, followed by a merge.
-  The title and content of this PR is irrelevant; online-zoo-part2
-- a new deployment of your work is created in a branch `gh-pages` from the `online-zoo`. [How to deploy tasks from the school's](!!!!!)
+  - when execution is completed, a Pull Request is made `online-zoo` from the branch to the `online-zoo-part2` branch, followed by a merge.
+  The title and content of this PR are irrelevant; online-zoo-part2
+- a new deployment of your work is created in a branch `gh-pages` from the `online-zoo`. (The instructions will be provided later)
 private repository ;
 - the open **Pull Request** is updated to the branch `main` from the branch `online-zoo`. This PR is not merged.
 
@@ -115,47 +110,40 @@ All pages are created for a screen width of **1600px**.
 Maximum score: **70** 
 
 #### General
-All layout background elements should stretch to the full available screen width if the width is greater 
-than 1600px. In this case, the guides must be kept in their original size, 1160px. The features of this project 
-are:
+All layout background elements should stretch to the full available screen width if the width is greater than 1600px. In this case, the guides must be kept in their original size, 1160px. The features of this project are:
 -	custom sizes,
 -	additional visual elements.
 
-To create vertical margins, it's best to use vertical margins on higher-order boxes as much as possible.
-Keep in mind that vertical margins can collapse.
+To create vertical margins, it's best to use vertical margins on higher-order boxes as much as possible. Keep in mind that vertical margins can collapse.
 
-To create multi-column structures, or elements that have a relative horizontal layout, one of the following 
-properties must be used:
+To create multi-column structures or elements that have a relative horizontal layout, one of the following properties should be used:
 - display: flex
-- display:grid
+- display: grid
 - display: inline-block
 
-❗Maintaining padding between elements is more important than the size of these elements. You can often see rough
-values (like 369px x 548px), but this only means that the dimensions were calculated taking into account the 
-distance between the guides and the padding between the elements.
-
+❗Maintaining padding between elements is more important than the size of these elements. You can often see rough values (like 369px x 548px), but this only means that the dimensions were calculated taking into account the distance between the guides and the padding between the elements.
 #### Landing (70 pints)
 1.	 **Header** (`<header>` contains only logo, navigation bar)
       - The logo is on the left. Clicking on the logo works like clicking on `About`, redirects us to the current page, 
-   to petstory (Landing) .
+   to petstory (Landing).
       - Interactive navigation bar. Clicking on menu items for which no page exists may do nothing.
-      - The element `About` should be highlighted by default. And it should stop being interactive when other menu items clicked.
-      - Clicking on `Donate` takes us to the donate page .
-      - Clicking on `Designed by ©` takes us to the original [Figma](https://www.figma.com/file/jfEFwkXVj1WRq7sUHDr8os/PetStory-online) .
-      - There should be one element per page `<h1>`. It should contain text `PetStory Online`.
+      - The element `About` should be highlighted by default. And it should stop being interactive when other menu items are clicked.
+      - Clicking on `Donate` takes us to the donate page.
+      - Clicking on `Designed by ©` takes us to the original [Figma](https://www.figma.com/file/jfEFwkXVj1WRq7sUHDr8os/PetStory-online).
+      - There should be one element per page `<h1>`. It should contain the text `PetStory Online`.
       - You don't need to make the header sticky. When scrolling, it remains in its position.
 
 
-2.	Block **Watch your favourite animal online**
+2.	**Watch your favorite animal online** block
       -	The background is a picture.
       -	The button `Watch online` should be interactive. When pressed, nothing happens.
 
 
-3.	Block **The Backstage**
+3.	**The Backstage** block
       -	Image and text - two-column layout.
 
 
-4.	Block **Pets**
+4.	**Pets** block
       - The left and right buttons should be clickable. When pressed, nothing happens.
       - Animal cards should be interactive.
       - ❗ When you hover over the cursor, there should be an animation of the exit of the text from the bottom of 
@@ -163,123 +151,105 @@ distance between the guides and the padding between the elements.
       The picture itself, but not the card, should grow 10px in each direction from the center.
       - The button `Choose your favorite` should be interactive. When pressed, nothing happens.
 
-5.	Block **Pick and feed a friend**
+5.	**Pick and feed a friend** block
       -	The text `Emergency support Fund` should be a link. Clicking redirects us to *donate*.
       -	The button `Feed a friend now` should be interactive. Clicking redirects us to *donate*.
 
 
-6. Block **Testimonials**
+6. 	**Testimonials** block
       - The progress bar should be interactive. We start in the extreme left position. When pressed, nothing happens.
       - The button `Leave feedback` should be interactive. When pressed, nothing happens.
       - 
-7. **Footer** ( `<footer>` contains menus, logos, donation and social media buttons):
-      -	Clicking on the logo works like clicking on About, takes us to the top of the current page, to *petstory
-(Landing)*.
+7. 	**Footer** ( `<footer>` contains menus, logos, donation and social media buttons):
+      -	Clicking on the logo works like clicking on About, which takes us to the top of the current page, to *petstory (Landing)*.
       -	The button `Donate for volunteers` should be interactive. Clicking redirects us to *donate*.
       -	Interactive social media panel. Clicks on social networks (icon + text) can simply lead to the main pages of the corresponding resources.
       -	Email - field `input` with type `email`.
-      -	The button `submit` should be in the *mistake* position . If the field `email` passes validation, it goes into the *default* state .
+      -	The button `submit` should be in the *mistake* position. If the field `email` passes validation, it goes into the *default* state.
       -	Interactive navigation bar. Clicking on menu items for which no page exists may do nothing.
       -	The element `About` should be highlighted. And it should stop being interactive.
       -	❗If it is not possible to select the required text thickness, use close [saturation values](https://developer.mozilla.org/ru/docs/Web/CSS/font-weight) , +-100.
 
 
 ## <a id="cross-check-evaluation-criteria-week-1"></a> Cross-check evaluation criteria. Week 1
-Open at **1600px** screen width. If the screen is smaller, you can zoom in, or you can set the page width to 1600px 
-and watch with horizontal flat scrolling enabled. If the screen is wider, you can make the area narrower or narrow the window.
-❗The score cannot drop below **0** per page. Also, there can be no more penalty points than for the absence of a block
-(For example, if there is a block header, and there are more penalty points than 20, then we remove 20). 
-Unless specified separately in the requirements, then for all non-repeating blocks or elements at rest (without hover) 
-the following is true:
+Open at **1600px** screen width. If the screen is smaller, you can zoom in, or you can set the page width to 1600px and watch with horizontal flat scrolling enabled. If the screen is wider, you can make the area narrower or narrow the window.
+❗The score cannot drop below **0** per page. Also, there can be no more penalty points than for the absence of a block (For example, if there is a block header, and there are more penalty points than 20, then we remove 20). Unless specified separately in the requirements, then for all non-repeating blocks or elements at rest (without hover) the following is true:
 -	The padding from the borders of elements (or sets of elements) to the edges of the block, horizontally or vertically,
 differs by more than 20px: **-5** once per block.
 -	The padding within a set or grid between elements, horizontally or vertically, differs by more than 10px: **-5** once per block.
 -	Missing element or picture, both background and element picture: **-5** once per block. If the image or element is 
 present on the page, has the correct size and padding, but the design is broken: **-2** once for each block.
--	The background color of a block or element is very different from the design (Difference in one of the rgb channels
+-	The background color of a block or element is very different from the design (Difference in one of the RGB channels
 by more than 34. For example, #bbb and #ddd is not an error, more is an error): **-2** once for each block.
--	Font or font-family is not included, or difference in font size is more than 4px: **-2** once per block.
-
+-	Font or font-family is not included, or the difference in font size is more than 4px: **-2** once per block.
 **Landing** page created : **+70** . Otherwise, if the page doesn't exist, set it to **0** and move on to the next page.
 1.	No **Header** block : **-20** .
-      -	No logo: **-5** . There is a logo, but it doesn't work as a link to petstory (Landing) : **-2** .
-      -	No navigation bar: **-10** . The navigation bar is there, but not interactive: **-5** .
+      -	No logo: **-5** . There is a logo, but it doesn't work as a link to petstory (Landing): **-2** .
+      -	No navigation bar: **-10** . The navigation bar is there, but not interactive: **-5**.
       -	There is no element `About`, or it is not highlighted: **-2**.
       -	There is no element `Map`, or it is not interactive: **-2**.
       -	There is no element `Zoos`, or it is not interactive: **-2**.
-      -	There is no element `Donate`, or it's not interactive, or it doesn't work as a link to donate : **-2** .
+      -	There is no element `Donate`, or it's not interactive, or it doesn't work as a link to donate : **-2**.
       -	There is no element `Contact Us`, or it is not interactive: **-2** .
-      -	There is no element `Designed by ©`, or it's not interactive, or it doesn't work as a link to the original Figma page : **-2** .
+      -	There is no element `Designed by ©`, or it's not interactive, or it doesn't work as a link to the original Figma page : **-2**.
       -	No element `<h1>`: **-5** . There is an element, but there is more than one: **-2**.
       -	It is recommended not to make the header "sticky". If it is "sticky", then we do not reduce points.
-
-2.	There is no block **Watch your favourite animal online** : **-10**.
+2.	There is no **Watch your favorite animal online** block: **-10**.
       -	No button `Watch online`: **-5**. The button is there, but not interactive: **-2**.
-      -	❗If the button `watch online` has the text "watch online" - we do not consider it an error, we do not remove points.
+      -	❗If the button `watch online` has the text "wath online" - we do not consider it an error, we do not remove points.
       -	No background image: **-5**.
-
-
-3.	No block **The Backstage** : **-10**.
+3.	There's no **The Backstage** block: **-10**.
       - No picture of the plant on the right: **-5**.
 
 
-4. No block **Pets** : **-30**.
+4. 	There's no **Pets** block: **-30**.
       - No right button: **-5** . No left button: **-5** . There are buttons, but they are not interactive: **-2** .
       - No animal card: **-5** each. The card is there, but not interactive, or there is no animation of the text on a
 darkened background (the background can be a gradient): **-2** for each. Below are examples of animations that we count as correct:
         - The picture is darkened (a translucent background is superimposed, or the picture itself becomes translucent) 
         and a hidden inscription pops up (light or dark does not matter, the main thing is that it is readable against 
-        the background of the picture). The inscription can be both on top of the picture, and in the center, or even at 
+        the background of the picture). The inscription can be on top of the picture, in the center, or even at 
         a slight distance from the bottom.
         - The picture is dimmed and the text under the picture floats up, while the original state of the text can either 
         be preserved or not.
         - The description text moves out along with the background.
         - On top of the picture without darkening, the text pops up from under the picture to the top, and the block 
-        with the text itself is darkened (in this case, the color of the text may turn white, for example).
+        with the text itself being darkened (in this case, the color of the text may turn white, for example).
       - It is recommended to use animation with 10px zoom in each direction. If the value of the increase is different,
    or there is no increase, we do not reduce the points.
-      - The speed of the animation does not matter, but it is important that there is a non-zero value for the animation
+      - The speed of the animation does not matter, but there must be a non-zero value for the animation
    time. We do not reduce points at any speed.
       - No button `Choose your favorite`: **-5**. The button is there, but not interactive: **-2**.
       - No plant picture on the left: **-5**. No picture of the plant on the right: **-5**.
-
-
-5. No block **Pick and feed a friend** : **-10**.
+5. No block **Pick and feed a friend**: **-10**.
       - No button `Feed a friend now`: **-5**. The button is there, but not interactive: **-2**.
-      - The text `Emergency support Fund` is not a link, or does not work as a link to donate : **-2**.
+      - The text `Emergency support Fund` is not a link, or does not work as a link to donate: **-2**.
       - It is recommended to make arrows of the same size. If the arrows are of different sizes, we do not reduce points.
-
 6. No **Testimonials** block : **-10**.
       -	No button `Leave feedback`: **-5**. The button is there, but not interactive: **-2**.
       -	No progress bar: **-5**. Broken strip design: **-2**.
       -	It is recommended to make the progress bar through input type range, and style accordingly. If the element is 
-not completed through input type range, then we do not remove points.
+not completed through the input type range, then we do not remove points.
       -	No picture of the plant on the right: **-5**.
-
 7.	No block **Footer** : **-20**.
-      - No logo: **-5**. There is a logo, but it doesn't work as a link to _petstory (Landing)_ : **-2** .
-      - No button `Donate for volunteers`: **-5**. The button is there, but not clickable, or doesn't work as a link to donate : **-2** .
+      - No logo: **-5**. There is a logo, but it doesn't work as a link to _petstory (Landing)_: **-2**.
+      - No button `Donate for volunteers`: **-5**. The button is there, but not clickable, or doesn't work as a link to donate: **-2**.
       - At least one social media icon is missing: **-5** for the entire set of elements.
       - All social network icons are there, but at least one is not interactive: **-2** for the entire set of elements.
-      - No field `<input>` "Input your email" : **-5** . The field exists, but the type is not specified email: **-2** .
+      - No field `<input>` "Input your email" : **-5** . The field exists, but the type is not specified email: **-2**.
       - It is recommended to mark `<input>` with the required attribute. No points are deducted for its absence.
       - It is recommended to wrap the entire field in an element `<form>`. No points are deducted for its absence.
-      - No button `Submit`: **-5** . The button is there, but not interactive: **-2** .
+      - No button `Submit`: **-5** . The button is there, but not interactive: **-2**.
       - It is recommended that the button `Submit` use the _default_  style until the input field is focused. If the default 
-      button style is active or mistake , no points are deducted.
+      button style is active or mistake, no points are deducted.
       - There is no element `About`, or it is not highlighted: **-2** .
       - There is no element `Map`, or it is not interactive: **-2** .
       - There is no element `Zoos`, or it is not interactive: **-2** .
       - There is no element `Contact Us`, or it is not interactive: **-2** .
-
 ##<a id="week-2"></a> Week 2
-
 All pages are created for a screen width of **1600px**.
-
 ### Technical requirements
-
 Maximum score: **30**
-
 #### General
 All layout background elements should stretch to the full available screen width if the width is greater
 than 1600px. In this case, the guides must be kept in their original size, 1160px. The features of this project
@@ -287,11 +257,9 @@ are:
 -	custom sizes,
 -	additional visual elements.
 
-To create vertical margins, it's best to use vertical margins on higher-order boxes as much as possible.
-Keep in mind that vertical margins can collapse.
+To create vertical margins, it's best to use vertical margins on higher-order boxes as much as possible. Keep in mind that vertical margins can collapse.
 
-To create multi-column structures, or elements that have a relative horizontal layout, one of the following
-properties must be used:
+To create multi-column structures or elements that have a relative horizontal layout, one of the following properties must be used:
 - display: flex
 - display:grid
 - display: inline-block
@@ -424,8 +392,6 @@ pictures of arrows with others in the Pick and feed a friend. Also, in some case
 2. Burger menu may not be active. If nothing happens when you click on it, then we will not deduct points.
 3. On the _Donate_ page , the field Another amount can be located in the center of the page, this is not an error, we do 
 not remove points.
-
-
 ❗Features of checking adaptability in DevTools
 1. Open developer tools
       - To do this, press the key `F12` or click the right mouse button and select the item `Inspect` from the menu that appears.
@@ -519,7 +485,7 @@ We perform the following steps step by step:
 3. Change the page width to sizes from 999px to 641px.
 4. Change the page width to sizes from 639px to 321px.
 5. Less than 320px - do not look!
-      
+
 And we evaluate:
 - At some point narrowing down to 338px, a horizontal scrollbar appears: **-30** once.
 - When checking boundary values, at least one element is missing, in addition to the **specified** or background elements,
@@ -692,7 +658,7 @@ put **0** for this item and move on to the next one. Points are deducted if:
    - We try to click on the button very quickly several times so that the clicks fit at the moment while the animation 
    is happening. If this starts a new animation in the middle of the current one, or the next animation starts without 
    pressing the button: **-5** .
-   
+
 2. Open at a screen width of 1000px or more so that 6 animal cards are visible and the arrows are between the top 
 and bottom row. We check the conditions from point 1, and remove points only for **new** errors that have appeared on 
 this window width. The conditions must be met for two rows as if it were one row.
@@ -741,7 +707,7 @@ and responds to pressing the buttons on the strip, set **+30** . If the panel do
 Points are deducted if:
       - When you click on the circle on top of the amount, it should become highlighted, and the previous active circle 
    should lose highlighting.
-      - Clicked circle is not highlighted: **-5** .
+      - The clicked circle is not highlighted: **-5** .
       - the previous active circle has not lost its highlight: **-5** .
       - The **specified** amount when clicking on the circle is not recorded in the field `Another` amount: **-5** .
       - The required field `Another` amount should be limited to 4 characters of type number. If not limited, or not 
