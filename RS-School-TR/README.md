@@ -21,7 +21,7 @@
 - [Git](../modules/git/)
   - Test: "Git Quiz"
 - [HTML basics](../modules/html-basics/)
-  - Test: "HTML basic [ENG](S1)"
+  - Test: "HTML basic ENG S1"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #3
@@ -38,7 +38,8 @@
 
 ( 24.10.2022 - 30.10.2022 )
 
-- Task: [CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
+- Task: [CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(HTML+CSS+Markdown).md)
+- Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](../tasks/CV(markdown)/CV(cross-check).md)
 - [JS Basics. Part 1](../modules/js-basics-1/)
   - Test: "JS-basics. Part 1 (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
