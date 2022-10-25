@@ -101,7 +101,7 @@ Fonts can be found here:
 
 You can connect fonts by either downloading local files or connecting fonts via URL to google fonts. If you can't find or download the font you need, just replace it with a font with the same serif type.
 
-##<a id="week-1"></a> Week 1
+## <a id="week-1"></a> Week 1
 
 All pages are created for a screen width of **1600px**.
 
@@ -246,7 +246,8 @@ not completed through the input type range, then we do not remove points.
       - There is no element `Map`, or it is not interactive: **-2** .
       - There is no element `Zoos`, or it is not interactive: **-2** .
       - There is no element `Contact Us`, or it is not interactive: **-2** .
-##<a id="week-2"></a> Week 2
+
+## <a id="week-2"></a> Week 2
 All pages are created for a screen width of **1600px**.
 ### Technical requirements
 Maximum score: **30**
@@ -341,7 +342,7 @@ If the default button style is active or mistake , no points are deducted.
       -	There is no element `Contact` Us, or it is not interactive: **-2** .
 
 
-##<a id="week-3"></a> Week 3
+## <a id="week-3"></a> Week 3
 The rendered pages adapt to the following device screen width:
 -	1600px (to be done)
 -	1000px
@@ -544,7 +545,7 @@ even though they fit within the borders in the design: **-5** once per gap.
 - At some point, elements other than the **specified** or background elements run over other elements, although all designs
 have a padding between them: **-5** once per gap.
 
-##<a id="week-4"></a> Week 4
+## <a id="week-4"></a> Week 4
 Adding JavaScript.
 Maximum score: **100**
 
