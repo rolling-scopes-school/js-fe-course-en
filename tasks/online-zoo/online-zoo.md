@@ -88,8 +88,7 @@ Please pay attention to the following points:
   - in the new branch, work is being done on the task;
   - when execution is completed, a Pull Request is made `online-zoo` from the branch to the `online-zoo-part2` branch, followed by a merge.
   The title and content of this PR are irrelevant; online-zoo-part2
-- a new deployment of your work is created in a branch `gh-pages` from the `online-zoo`. (The instructions will be provided later)
-private repository ;
+- a new deployment of your work is created in a branch `gh-pages` from the `online-zoo`.
 - the open **Pull Request** is updated to the branch `main` from the branch `online-zoo`. This PR is not merged.
 
 ## Useful links
