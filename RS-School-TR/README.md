@@ -48,7 +48,7 @@
 
 ( 31.10.2022 - 06.11.2022 )
 
-- Cross-check.[CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(cross-check).md>)
+- Cross-check.[CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(cross-check).md)
 - [Figma](../modules/figma/)
 - [JS Basics. Part 2](../modules/js-basics-2/)
   - Test: "JS-basics. Part 2 (EN)"
