@@ -86,8 +86,7 @@ Please pay attention to the following points:
 - if the job is running on a new branch:
   - a new branch is created from the `online-zoo` branch, for example, online-zoo-part2`;
   - in the new branch, work is being done on the task;
-  - when execution is completed, a Pull Request is made `online-zoo` from the branch to the `online-zoo-part2` branch, followed by a merge.
-  The title and content of this PR are irrelevant; online-zoo-part2
+  - when a part of the task is completed, a Pull Request is raised from the `online-zoo-part2`(`online-zoo-part3`, ...) to the `online-zoo` branch, followed by a merge. The title and content of this PR don't matter;
 - a new deployment of your work is created in a branch `gh-pages` from the `online-zoo`.
 - the open **Pull Request** is updated to the branch `main` from the branch `online-zoo`. This PR is not merged.
 
