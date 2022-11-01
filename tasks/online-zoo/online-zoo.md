@@ -173,7 +173,7 @@ To create multi-column structures or elements that have a relative horizontal la
 Open at **1600px** screen width. If the screen is smaller, you can zoom in, or you can set the page width to 1600px and watch with horizontal flat scrolling enabled. If the screen is wider, you can make the area narrower or narrow the window.
 ❗The score cannot drop below **0** per page. Also, there can be no more penalty points than for the absence of a block (For example, if there is a block header, and there are more penalty points than 20, then we remove 20). Unless specified separately in the requirements, then for all non-repeating blocks or elements at rest (without hover) the following is true:
 -	The padding from the borders of elements (or sets of elements) to the edges of the block, horizontally or vertically,
-differs by more than 20px: **-5** once per block.
+differs by more than 20px: **-5** once per global block (header, main, footer).
 -	The padding within a set or grid between elements, horizontally or vertically, differs by more than 10px: **-5** once per block.
 -	Missing element or picture, both background and element picture: **-5** once per block. If the image or element is 
 present on the page, has the correct size and padding, but the design is broken: **-2** once for each block.
