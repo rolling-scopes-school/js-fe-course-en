@@ -76,7 +76,7 @@
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
   - Test: "JS Object. Basics"
-  - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
+ - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #8
