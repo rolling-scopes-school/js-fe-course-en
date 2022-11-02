@@ -311,7 +311,7 @@ The `$` sign should always be present inside a field. There should be a 4 charac
       -	There is no element `Donate`, or it is not highlighted: **-2** .
       -	There is no element `Contact Us`, or it is not interactive: **-2** .
       -	There is no element `Designed by ©`, or it's not interactive, or it doesn't work as a link to the original Figma page : **-2** .
-      -	No element <h1>: -5 . There is an element, but there is more than one: -2 .
+      -	No element `<h1>`: -5 . There is an element, but there is more than one: -2 .
       -	It is recommended not to make the header «sticky".
 
 2. No block **Pick and feed a friend** : **-30** .
