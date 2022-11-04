@@ -46,7 +46,7 @@ Regardless of the application type, it should contain:
 
 ## Repository requirements
 
-- use your private school repository for this task
+- use your own private repository for this task
 - branch name is **project-management-app**
 - the commit history should reflect the development process of the application. [Commit requirements](https://docs.rs.school/#/git-convention)
 - the demo version of the application is hosted on `gh-pages`, `netlify`, `heroku`, or another similar hosting.

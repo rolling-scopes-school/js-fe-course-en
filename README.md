@@ -60,7 +60,7 @@
 
 ( 25.10.2022 - 31.10.2022 )
 
-- Task: [TBD]
+- Task: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md)
 - [JS Basics. Part 3](modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
@@ -70,13 +70,13 @@
 
 ( 01.11.2022 - 07.11.2022 )
 
-- Task: [TBD]
-- Cross-check: [TBD]
+- Task: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md)
+- Cross-check: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-1)
 - [JS Arrays](modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
   - Test: "JS Object. Basics"
-  - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
+ - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #8
@@ -84,7 +84,7 @@
 ( 08.11.2022 - 14.11.2022 )
 
 - Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
-- Cross-check: [TBD]
+- Cross-check: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
 - Complete task: Codewars: Array, Object
 - [DOM API](modules/dom-api/)
   - Test: "DOM API (EN)"
