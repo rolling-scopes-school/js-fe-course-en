@@ -58,8 +58,7 @@
 ### Week #6
 
 ( 07.11.2022 - 13.11.2022 )
-
-- Task: [TBD]
+- Task: [Online Zoo. Week 1](../tasks/online-zoo/online-zoo.md)
 - [JS Basics. Part 3](../modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
   - Task: [Codewars: Strings, Numbers](../tasks/codewars/codewars.strings.numbers.md)
@@ -69,8 +68,8 @@
 
 ( 14.11.2022 - 20.11.2022 )
 
-- Task: [TBD]
-- Cross-check: [TBD]
+- Task: [Online Zoo. Week 2](../tasks/online-zoo/online-zoo.md)
+- Cross-check: [Online Zoo. Week 1](../tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-1)
 - [JS Arrays](../modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](../modules/js-objects/)
