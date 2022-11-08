@@ -75,7 +75,7 @@ Please pay attention to the following points:
 ## Repository requirements
 
 
-- Create a public repository named online-zoo on your GitHub account.
+- Create a public repository named "online-zoo" on your GitHub account.
 - You may use the example of project structure below. Since the project will contain several pages (2), at the same level as `assets` there will be the `pages` directory. Inside `pages`, in the `main` folder (same as the page name), the `.html`, `.css` and `.js` files related to this page will be stored. The `assets` directory will still contain images, icons, and font files if any. The folders inside `assets` will be named depending on the content: `images`, `icons`, `fonts`. Example below:
 - ![online-zoo folder structure](online-zoo-folder-structure.jpg)
 - You should deploy your task using gh-pages or by any other means.
