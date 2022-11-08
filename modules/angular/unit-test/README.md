@@ -9,6 +9,12 @@
 
 ## Learning materials
 
+### Lecture
+- [Lecture](https://youtu.be/DCw-JBll2u0?t=2201)
+- [Examples from video](https://github.com/pavelrazuvalau/angular-lectures/tree/master/angular-unit-testing)
+- [TODO List app](https://github.com/pavelrazuvalau/todo-list-management)
+- [Slides](https://slides.com/pavelrazuvalau/angular-unit-testing)
+
 ### Useful links
 - [Angular testing guide](https://angular.io/guide/testing)
 - [Why do we need unit tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
