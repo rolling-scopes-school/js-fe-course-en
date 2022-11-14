@@ -57,7 +57,7 @@
 
 ### Week #6
 
-( 07.11.2022 - 13.11.2022 )
+( 07.11.2022 - 14.11.2022 )
 - Task: [Online Zoo. Week 1](../tasks/online-zoo/online-zoo.md)
 - [JS Basics. Part 3](../modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
@@ -66,7 +66,7 @@
 
 ### Week #7
 
-( 14.11.2022 - 20.11.2022 )
+( 14.11.2022 - 21.11.2022 )
 
 - Task: [Online Zoo. Week 2](../tasks/online-zoo/online-zoo.md)
 - Cross-check: [Online Zoo. Week 1](../tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-1)
@@ -82,7 +82,7 @@
 ( 21.11.2022 - 27.11.2022 )
 
 - Task: [BookShop.Week_1](../tasks/books-shop/books-shop.md)
-- Cross-check: [TBD]
+- Cross-check: [Online Zoo. Week 2](../tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
 - Complete task: Codewars: Array, Object
 - [DOM API](../modules/dom-api/)
   - Test: "DOM API (EN)"
