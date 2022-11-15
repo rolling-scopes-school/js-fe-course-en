@@ -34,6 +34,8 @@ It's **recommended** to use [normalize.css](https://necolas.github.io/normalize.
  * remove book from the bag by the appropriate button, 
  * validation of form fields should run after user left the field (blur), 
  * summarize the personal information when user clicks on Complete button
+ 
+ * ❗ do not forget to submit link to deployed application for cross-check till the end of the deadline
 
 ### Scoring criteria (maximum 100 points)
 1. The content of catalog page created thru the JavaScript. User sees the book image, title, author, price, show more and add to bag buttons **+10**
