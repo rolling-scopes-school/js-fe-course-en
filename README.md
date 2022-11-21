@@ -107,7 +107,7 @@
 - Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
 - [CSS Flex](modules/css-flex/)
   - Test: "Responsive & Flexbox (EN)"
-- Task: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#a-idweek-3a-week-3)
+- Task: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #11
@@ -116,8 +116,8 @@
 
 - [CSS Grid](modules/css-grid/)
   - Test: "CSS Grid (EN)"
-- Cross-check: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#a-idcross-check-evaluation-criteria-week-3a-cross-check-evaluation-criteria-week-3)
-- Task: [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#a-idweek-4a-week-4)
+- Cross-check: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-3)
+- Task: [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#week-4)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 </details>
@@ -131,7 +131,7 @@
 
 ( 06.12.2022 - 12.12.2022 )
 
-- Cross-check.[Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#a-idcross-check-evaluation-criteria-week-4a-cross-check-evaluation-criteria-week-4)
+- Cross-check.[Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
 - [JS Classes & Prototypes](modules/js-classes-prototypes/)
   - Test: "Inheritance (EN)"
 - Task: [Inheritance](tasks/classes-inheritance/classes-inheritance.md)
