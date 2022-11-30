@@ -23,18 +23,12 @@ During this course, you will use several online resources: Rolling Scopes applic
 ![RSApp](../images/img_1.png)
 ![Profile](../images/img_2.png)
 
-### Communication
-The main channel for communication is [Discord](https://discord.gg/KGDNASy6x8). Following the [code of conduct](https://docs.app.rs.school/#/code-of-conduct) is mandatory!
-Do not forget to introduce yourself in the appropriate [channel](https://discord.gg/zQNhp7EVBw) - it helps us to know about new students. In case of any questions, you may contact Hanna_Pratasevich#3238.
-
-See you there!
 
 
 
 ### Useful links
 1. [Schedule](../../UpSkillMe/README.md)
-2. [Discord](https://discord.gg/KGDNASy6x8)
-3. [RS application](https://app.rs.school/)
-4. [Registration to RS app](https://app.rs.school/registry/student?course=upskill-me)
-5. [Code of Conduct](https://docs.app.rs.school/#/code-of-conduct)
-6. [Booking](https://booking.lab.epam.com/)
+2. [RS application](https://app.rs.school/)
+3. [Registration to RS app](https://app.rs.school/registry/student?course=upskill-me)
+4. [Code of Conduct](https://docs.app.rs.school/#/code-of-conduct)
+5. [Booking](https://booking.lab.epam.com/)
