@@ -90,9 +90,9 @@
 
 ### Week #9
 
-( 28.11.2022 - 04.12.2022 )
+( 28.11.2022 - 05.12.2022 )
 
-- Task: [BookShop.Week_2](../tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 04.12.2022 23.59 (GMT + 3))
+- Task: [BookShop.Week_2](../tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 05.12.2022 23.59 (GMT + 3))
 - [DOM Events](../modules/dom-events/)
   - Test: "DOM Events (EN)"
 - [Forms & Validation](../modules/forms-validation/)
@@ -100,28 +100,27 @@
 
 ### Week #10
 
-( 5.12.2022 - 11.12.2022 )
+( 05.12.2022 - 12.12.2022 )
 
 - Cross-check.[BookShop.Week_2](../tasks/books-shop/books-shop.md)
 - [CSS Flex](../modules/css-flex/)
   - Test: "Responsive & Flexbox (EN)"
-- Task: [Shelter.Week_3](../tasks/shelter/README.md#week-3)
+- Task: [Online Zoo. Week 3](../tasks/online-zoo/online-zoo.md#week-3)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #11
 
-( 12.12.2022 - 18.12.2022 )
+( 12.12.2022 - 19.12.2022 )
 
 - [CSS Grid](../modules/css-grid/)
   - Test: "CSS Grid (EN)"
-- Cross-check: [TBD]
-- Task: [TBD]
-- Task: [Self Presentation]
+- Cross-check: [Online Zoo. Week 3](../tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-3)
+- Task: [Online Zoo. Week 4](../tasks/online-zoo/online-zoo.md#week-4)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 </details>
 
-#### Interview with mentors ( 12.12.2022 - 25.12.2022 )
+#### Interview with mentors ( 12.12.2022 - 26.12.2022 )
 
 <details>
 <summary>Stage 2</summary>
