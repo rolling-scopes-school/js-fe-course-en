@@ -76,7 +76,7 @@
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
   - Test: "JS Object. Basics"
- - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
+- Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #8
@@ -141,6 +141,7 @@
 
 ( 13.12.2022 - 19.12.2022 )
 
+- Task: [Async-Race](tasks/async-race/async-race.md)
 - [HTTP/HTTPS. REST. WebSocket](modules/http/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
@@ -208,7 +209,7 @@
 - [Testing](modules/testing/)
   - Test: "Testing Quiz (EN)"
   - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
-- Task: [Self Presentation]  
+- Task: [Self Presentation]
 - [Software Development Lifecycle](modules/sdlc/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
