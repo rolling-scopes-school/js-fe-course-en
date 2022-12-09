@@ -76,7 +76,7 @@
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
   - Test: "JS Object. Basics"
- - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
+- Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #8
@@ -150,14 +150,14 @@
 
 - [JS Async Programming](modules/js-async/)
   - Test: "Async (EN)"
-  - Task: [TBD]
+  - Task: [Async-Race](tasks/async-race/async-race.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #15
 
 ( 27.12.2022 - 02.01.2023 )
 
-- Continue task: [TBD]
+- Continue task: [Async-Race](tasks/async-race/async-race.md)
 - [JS Modules](modules/js-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
@@ -165,7 +165,7 @@
 
 ( 03.01.2023 - 09.01.2023 )
 
-- Complete task: [TBD]
+- Complete task: [Async-Race](tasks/async-race/async-race.md)
 - [NPM](modules/npm/)
   - Test: "NPM basics (EN)"
 - [Webpack](modules/webpack/)
@@ -208,7 +208,7 @@
 - [Testing](modules/testing/)
   - Test: "Testing Quiz (EN)"
   - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
-- Task: [Self Presentation]  
+- Task: [Self Presentation]
 - [Software Development Lifecycle](modules/sdlc/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
