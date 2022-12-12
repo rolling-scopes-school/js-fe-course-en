@@ -120,14 +120,16 @@
 
 </details>
 
-#### Interview with mentors ( 12.12.2022 - 26.12.2022 )
+#### Registration for an interview until 16/12/2022
+
+#### Interview with mentors ( 16.12.2022 - 30.12.2022 )
 
 <details>
 <summary>Stage 2</summary>
 
 ### Week #12
 
-( 19.12.2022 - 25.12.2022 )
+( 26.12.2022 - 02.01.2022 )
 
 - Cross-check.Shelter
 - [JS Classes & Prototypes](../modules/js-classes-prototypes/)
