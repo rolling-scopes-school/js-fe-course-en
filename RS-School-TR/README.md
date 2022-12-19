@@ -131,22 +131,22 @@
 
 ( 26.12.2022 - 02.01.2022 )
 
-- Cross-check.Shelter
+- Cross-check.[Online Zoo. Week 4](../tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
 - [JS Classes & Prototypes](../modules/js-classes-prototypes/)
   - Test: "Inheritance (EN)"
-  - Task: [Inheritance](../tasks/classes-inheritance/classes-inheritance.md)
+- Task: [Inheritance](../tasks/classes-inheritance/classes-inheritance.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #13
 
-( 26.12.2022 - 01.01.2023 )
+( 02.01.2022 - 09.01.2023 )
 
 - [HTTP/HTTPS. REST. WebSocket](../modules/http/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #14
 
-( 02.01.2023 - 08.01.2023 )
+( 09.01.2023 - 16.01.2023 )
 
 - [JS Async Programming](../modules/js-async/)
   - Test: "Async (EN)"
@@ -155,7 +155,7 @@
 
 ### Week #15
 
-( 09.01.2023 - 15.01.2023 )
+( 16.01.2023 - 23.01.2023 )
 
 - Continue task: [TBD]
 - [JS Modules](../modules/js-../modules/)
@@ -163,7 +163,7 @@
 
 ### Week #16
 
-( 16.01.2023 - 22.01.2023 )
+( 23.01.2023 - 30.01.2023 )
 
 - Complete task: [TBD]
 - [NPM](../modules/npm/)
@@ -174,7 +174,7 @@
 
 ### Week #17
 
-( 23.01.2023 - 29.01.2023 )
+( 30.01.2023 - 06.01.2023 )
 
 - Task: [Core JS 101](../tasks/core-js-101/core-js-101.md)
 - [Browser API](../modules/browser-api/)
@@ -183,7 +183,7 @@
 
 ### Week #18
 
-( 30.01.2023 - 05.02.2023 )
+( 06.01.2023 - 13.02.2023 )
 
 - Complete task: [Core JS 101](../tasks/core-js-101/core-js-101.md)
 - [Design Patterns](../modules/design-patterns/)
@@ -194,7 +194,7 @@
 
 ### Week #19
 
-( 06.02.2023 - 12.02.2023 )
+( 13.02.2023 - 20.02.2023 )
 
 - [TypeScript](../modules/typescript/)
   - Test: "TypeScript Test (EN)"
@@ -203,7 +203,7 @@
 
 ### Week #20
 
-( 13.02.2023 - 19.02.2023 )
+( 20.02.2023 - 27.02.2023 )
 
 - [Testing](../modules/testing/)
   - Test: "Testing Quiz (EN)"
@@ -213,13 +213,13 @@
 
 ### Week #21
 
-( 20.02.2023 - 26.02.2023 )
+( 27.02.2023 - 06.03.2023 )
 
 - [Preparing to interview](../modules/interview-core-js/interview.md)
 
 </details>
 
-#### Interview with mentors ( 20.02.2023 - 12.03.2023 )
+#### Interview with mentors ( 27.02.2023 - 18.03.2023 )
 
 <details>
 <summary>Stage 3 ( Angular )</summary>
