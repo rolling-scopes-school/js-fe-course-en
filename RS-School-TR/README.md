@@ -158,7 +158,7 @@
 ( 16.01.2023 - 23.01.2023 )
 
 - Continue task: [Async-Race](../tasks/async-race/async-race.md)
-- [JS Modules](../modules/js-../modules/)
+- [JS Modules](../modules/js-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #16
