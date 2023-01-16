@@ -13,5 +13,3 @@ In this module, you will learn concepts of working with JS modules, their types,
 * [Video. JavaScript Modules Past & Present](https://youtube.com/watch?v=GQ96b_u7rGc)
 * [4 Best Practices to Write Quality JavaScript Modules](https://dmitripavlutin.com/javascript-modules-best-practices/)
 * [Exploring JS. Modules](https://exploringjs.com/es6/ch_modules.html)
-
-### At the end of this module you should pass the [test](add link to the test)
