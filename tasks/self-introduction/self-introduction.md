@@ -1,37 +1,37 @@
 # Self-introduction
 
-The goal is to record a short (**3-5 minutes**) self-presentation video. Tell us about yourself, why you got interested in programming, how and for what purpose you came to RS School. As a reference, you can use the task you completed [Markdown & Git](https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/git-markdown).
+The goal is to record a short (**3-5 minutes**) self-presentation video. Tell us about yourself, why you got interested in programming, how and for what purpose you came to RS School. As a reference, you can use the task you completed [Markdown & Git](<https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>).
 
 > ## What to tell about
 >
 > - Tell us about who you are. Name, primary skill and role. For example, "My name is ... and I'm a junior frontend developer".
 > - Tell us briefly about your education. For example, "I am a recent computer science graduate from Belarusian State University of Informatics and Radioelectronics and I am currently attending the RSSchool frontend course".
-> - Tell us about what you are interested in studying, about your professional plans and about your motivation to do programming. This will help mentors in choosing the most motivated students from the wait list.
-> - Tesll us about a project you've been working on recently. Describe its purpose, core technologies, challenges encountered, and results.
+> - Tell us about what you are interested in studying, about your professional plans and about your motivation to do programming.
+> - Tell us about projects you've been working on during the course. Describe its purpose, core technologies, challenges encountered, and results.
 
 However, there are no restrictions - you decide what information about yourself to tell.
 
-The presentation must be **in English**. In addition to recording a video, you need to make a text transcript of the speech (also **in English**). Place a link to the video and transcript in [private school repository](https://docs.rs.school/#/private-repository?id=Как-работать-с-приватным-репозиторием) and [deploy using gh-pages](Как-сделать-деплой-задания-из-приватного-репозитория-школы).
+The presentation must be **in English**. In addition to recording a video, you need to make a text transcript of the speech (also **in English**). Place a link to the video and transcript in private school repository and deploy using gh-pages.
 
 ## Task implementation
 
-1. Record your presentation in English. It is desirable that your face is in the frame (for recording, you can use a webcam, phone camera, video camera, laptop camera, etc.).
-2. Upload the video to your personal [YouTube](https://www.youtube.com/) account. You can make a video available only via a link - to do this, in the video settings, set [Параметры доступа > Доступ по ссылке (Visibility > Unlisted)](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en).
+1. Record your presentation in English. It is highly recommended that your face is in the frame (for recording, you can use a webcam, phone camera, video camera, laptop camera, etc.).
+2. Upload the video to your personal [YouTube](https://www.youtube.com/) account. It's allowed to make a video available only via a link. [Video details -> Visibility -> Unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en). [Watch the video](https://www.youtube.com/watch?v=JOr7JluzEOM&ab_channel=MN).
 3. In your **private** repository (using a link like `https://github.com/rolling-scopes-school/your-github-account-JSFE2022Q3`) create a `self-introduction` branch from the `main` branch.
 4. In the created branch `self-introduction` create a folder `self-introduction` with a file `index.md` inside.
 5. Add a link to your YouTube video to the `index.md` file
-6. Add a text transcript of your presentation below the link. The text should repeat what was said in your presentation, but may not be verbatim - you can edit the text by removing unnecessary interjections, parasitic words, etc. from it.
-7. Use gh-pages for deployment [Как сделать деплой задания из приватного репозитория школы](https://docs.rs.school/#/private-repository?id=Как-сделать-деплой-задания-из-приватного-репозитория-школы)
-8. Make a Pull Request from the `self-introduction` branch to the `main` branch. The Pull Request must be named the same as the task, **Self-Introduction**, and conform to the [Requirements for Pull Requests](https://docs.rs.school/#/pull-request-review-process?id=Требования-к-pull-request-pr). As a screenshot of the result, you can attach a screenshot of the video, and as a link to the deployment use a link like `https://rolling-scopes-school.github.io/your-github-account-JSFE2022Q3/self-introduction/`. **Don't merge the Pull Request**.
+6. Add a text transcript of your presentation below the link. The text should repeat what you said in your presentation, but may not be verbatim - you can edit the text by removing unnecessary interjections, parasitic words, etc. from it.
+7. Use gh-pages for deployment.
+8. Create a Pull Request from the `self-introduction` branch to the `main` branch. The Pull Request should be named the same as the task, **Self-Introduction**, and conform to the [Requirements for Pull Requests](https://docs.app.rs.school/#/platform/pull-request-review-process?id=pull-request-requirements-pr). As a screenshot of the result, you can attach a screenshot of the video, and as a link to the deployment use a link like `https://rolling-scopes-school.github.io/your-github-account-JSFE2022Q3/self-introduction/`. **Don't merge the Pull Request**.
 
 > ### Improtant
 >
-> - Check that the video and text are available via links and that no additional permissions are required to view. The easiest way to check this is by opening both links in incognito mode in a browser.
-> - You can [enable access to the video only by link](#work-from-youtube). Only users who have the desired URL will be able to view such a video.
+> - Check that the video and text are available via links and that there are no additional permissions required to view. The easiest way to check this is by opening both links in incognito mode in a browser.
+> - You can enable access to the video only by link. Only users who have the desired URL will be able to view such a video.
 
 ## Checking the task
 
-The fact of recording a video will be checked using [cross-check](https://docs.rs.school/#/cross-check-flow), and its content will be evaluated by mentors.
+The fact of recording a video will be checked using [cross-check](https://docs.app.rs.school/#/platform/cross-check-flow), and its content will be evaluated by mentors.
 
 To submit a completed assignment for review, go to [rs app](https://app.rs.school/), go to the Cross-Check: Submit tab, select the **Self-Introduction** assignment and add **link to deploy**.
 
