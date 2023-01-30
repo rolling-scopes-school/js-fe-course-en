@@ -208,7 +208,7 @@
 - [Testing](modules/testing/)
   - Test: "Testing Quiz (EN)"
   - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
-- Task: [Self Presentation]
+- Task: [Self Presentation](tasks/self-introduction/self-introduction.md)
 - [Software Development Lifecycle](modules/sdlc/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
