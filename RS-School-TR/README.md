@@ -18,6 +18,7 @@
 ### Week #2
 
 ( 10.10.2022 - 16.10.2022 )
+
 - [Git](../modules/git/)
   - Test: "Git Quiz"
 - [HTML basics](../modules/html-basics/)
@@ -31,15 +32,15 @@
 - [CSS Basics](../modules/css-basics/)
   - Test: "CSS Basics (EN)"
 - [Markdown](../modules/markdown/)
-  - Task: [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Task: [CV.Markdown](<../tasks/CV(markdown)/CV(markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #4
 
 ( 24.10.2022 - 30.10.2022 )
 
-- Task: [CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(HTML+CSS+Markdown).md)
-- Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](../tasks/CV(markdown)/CV(cross-check).md)
+- Task: [CV. HTML, CSS & Git Basics](<../tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
+- Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](<../tasks/CV(markdown)/CV(cross-check).md>)
 - [JS Basics. Part 1](../modules/js-basics-1/)
   - Test: "JS-basics. Part 1 (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -48,7 +49,7 @@
 
 ( 31.10.2022 - 06.11.2022 )
 
-- Cross-check.[CV. HTML, CSS & Git Basics](../tasks/CV(markdown)/CV(cross-check).md)
+- Cross-check.[CV. HTML, CSS & Git Basics](<../tasks/CV(markdown)/CV(cross-check).md>)
 - [Figma](../modules/figma/)
 - [JS Basics. Part 2](../modules/js-basics-2/)
   - Test: "JS-basics. Part 2 (EN)"
@@ -58,6 +59,7 @@
 ### Week #6
 
 ( 07.11.2022 - 14.11.2022 )
+
 - Task: [Online Zoo. Week 1](../tasks/online-zoo/online-zoo.md)
 - [JS Basics. Part 3](../modules/js-basics-3/)
   - Test: "JS-basics. Part 3 (EN)"
@@ -208,6 +210,7 @@
 - [Testing](../modules/testing/)
   - Test: "Testing Quiz (EN)"
   - Task: [Unit tests](../tasks/unit-tests/unit-tests.md)
+  - Task: [Self Presentation](../tasks/self-introduction/self-introduction.md)
 - [Software Development Lifecycle](../modules/sdlc/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
@@ -226,7 +229,7 @@
 
 ### Week #22
 
-( 27.02.2023 - 05.03.2023 )
+( 27.02.2023 - 06.03.2023 )
 
 - [Angular. Intro](../modules/angular/intro)
 - [Angular. Components](../modules/angular/components)
@@ -234,7 +237,7 @@
 
 ### Week #23
 
-( 06.03.2023 - 12.03.2023 )
+( 06.03.2023 - 13.03.2023 )
 
 - [Angular. Modules & Services](../modules/angular/modules-and-services)
 - [Angular. HTTP](../modules/angular/http)
@@ -243,7 +246,7 @@
 
 ### Week #24
 
-( 13.03.2023 - 19.03.2023 )
+( 13.03.2023 - 20.03.2023 )
 
 - [Angular. RxJs & Observables](../modules/angular/rxjs)
 - [Angular. NgRx & Redux](../modules/angular/redux)
@@ -251,7 +254,7 @@
 
 ### Week #25
 
-( 20.03.2023 - 26.03.2023 )
+( 20.03.2023 - 27.03.2023 )
 
 - [Angular. Forms](../modules/angular/forms)
 - [Angular. Unit testing](../modules/angular/unit-test)
