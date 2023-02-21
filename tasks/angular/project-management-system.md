@@ -28,7 +28,7 @@ https://project-management-team7.netlify.app/
 
 ## Backend
 
-Use https://github.com/vitaly-sazonov/kanban-rest or https://github.com/rolling-scopes-school/final-task-backend/pull/1 as a backend.
+Use https://github.com/rolling-scopes-school/final-task-backend as a backend.
 There is a description of the steps to get started, as well as a list of available requests in the repository.
 
 - You will need to deploy the backend yourself to demonstrate the working application.
