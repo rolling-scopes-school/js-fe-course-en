@@ -121,7 +121,7 @@ Deadline: 11.04.2023
 
 ### Week #13
 
-eadline: 18.04.2023
+Deadline: 18.04.2023
 
 - [HTTP/HTTPS. REST. WebSocket](../modules/http/)
 
