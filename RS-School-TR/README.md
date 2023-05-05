@@ -246,7 +246,7 @@
 
 ### Week #24
 
-( 11.04.2023 - 18.04.2023 )
+( 04.04.2023 - 11.04.2023 )
 
 - [Angular. RxJs & Observables](../modules/angular/rxjs)
 - [Angular. NgRx & Redux](../modules/angular/redux)
@@ -254,7 +254,7 @@
 
 ### Week #25
 
-( 25.04.2023 - 02.05.2023 )
+( 11.04.2023 - 18.04.2023 )
 
 - [Angular. Forms](../modules/angular/forms)
 - [Angular. Unit testing](../modules/angular/unit-test)
@@ -262,12 +262,12 @@
 
 ### Week #26 - 27
 
-( 02.05.2023 - 09.05.2023 )
+( 18.04.2023 - 25.04.2023 )
 
 - Complete task: [Project management system](../tasks/angular/project-management-system.md)
 
 </details>
 
-#### Preparation for the Exit interview ( 02.05.2023 - 09.05.2023 )
+#### Preparation for the Exit interview ( 25.04.2023 - 09.05.2023 )
 
 #### Exit interview ( 09.05.2023 - 16.05.2023 )
