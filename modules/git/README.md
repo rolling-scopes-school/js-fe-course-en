@@ -1,21 +1,35 @@
-### Module description
-Discover the collaborative approach in software development by using a version control system and how to cooperate with other people or teams in a proper way. Within the module, you’ll learn Git fundamentals, its core concepts, how it enables you to efficiently manage source code and development history. In addition, you’ll get acquainted with GitHub as one of the most popular collaboration platforms, learn how to make a contribution to a project which is maintained by several teammates by using branching strategy and pull request workflow.
+# Introduction to the Git version control system and the GitHub web service
+## What should be done:
+1. Get basic understanding of the Git version control system
+2. Get started to work with Git using a web-service GitHub
+3. Get to know the following terminology:
+    - Repository: Local, Remote/Origin
+    - Working Directory
+    - Staging Area
+3. Learn the main commands (clone, add, commit, push, pull)
+4. Get to know a concept of 'branch' in the Git: create, merge, rebase
+5. Get to know a Markdown basics, create a page using it
+6. Create personal web page with the GitHub Pages
 
-### Education materials
-* [Learn Git Branching](https://learngitbranching.js.org/)
-* [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-* [A step-by-step guide to Git](https://opensource.com/article/18/1/step-step-guide-git)
-* [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
-* [Visualizing Git](http://git-school.github.io/visualizing-git/)
-* [Lecture RS School.Lithuania. Git](https://youtu.be/nZdrmhN90j8)
+## Approximate learning time
+Theory: 3 hours  
+Practice: 4 hours
 
-### Test
-At the end of this module you should pass the **"Git Quiz"**
+## Theory
+1. You should read and remember [commits requirements](https://docs.rs.school/#/en/git-convention) in RS School
+2. Watch video materials [Git/GitHub theory](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (~0.5 hour)
+3. Learn [Markdown's documentation](https://guides.github.com/features/mastering-markdown/) - you can start with basics and syntax and dive in other concepts when practice (0.5 hour)
+4. Short and valuable instruction for setting up the GitHub Pages in your repository [provided by MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Using_GitHub_pages), [official documentation](https://pages.github.com/)
+5. Video instructions [how to deploy page using the GitHub Pages](https://www.youtube.com/watch?v=OltY8JIaP-4) (7 min)
 
-#### Preconditions for test:
-* Tests submitted in RS School App could be solved after authorization in the application.
-* The minimum passing score is **75%** of the maximum possible number of points.
-* You can take the test **5 times**, the last result is counted.
-* You can try the test even more times, but the score for the test will be reduced by half (from the original score).
-* The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
+## Practice
+1. Pass the test "	Git test (EN)" in the RS APP > Auto Test
+2. Use [an interactive tool](https://learngitbranching.js.org) to practice Git
+
+## Additional sources
+1. [Git Basics. Handbook](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+2. Instructions [how to generate SSH key](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key) and [how add it to your GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account)
+5. Git summary
+    - [[RU]](https://www.evernote.com/shard/s368/client/snv?noteGuid=b1359883-2b9e-419a-b9de-dd959fc05f05&noteKey=97c0f19486d851b3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2Fb1359883-2b9e-419a-b9de-dd959fc05f05%2F97c0f19486d851b3&title=Git)
+    - [[ENG]](https://cs.fyi/guide/git-cheatsheet)
 

@@ -1,23 +1,14 @@
-### Module description
-This module you will get knowledge about markdown, what is it and how to create pages using markdown. Also, you will implement your own CV applying knowledge on markdown.
+# Introduction to the Markdown
 
-### Education materials
-* [Overview of Markdown](https://www.markdownguide.org/getting-started/)
-* [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+## What should be done:
+1. Get to know a Markdown basics, create a page using it
+2. Create personal web page with the GitHub Pages
 
-### Task [CV.Markdown](../../tasks/CV(markdown)/CV(markdown).md)
 
-### Examples
-* [Hanna Voloshyna](https://annavoloshina.github.io/rsschool-cv/cv)
-* [Elvin Yekayev](https://elvinyeka.github.io/rsschool-cv/cv)
-* [Artur Markasian](https://mrks77.github.io/rsschool-cv/cv)
+## Theory
+1. Learn [Markdown's documentation](https://guides.github.com/features/mastering-markdown/) - you can start with basics and syntax and dive in other concepts when practice (0.5 hour)
 
-### How to submit the task
-* After completing implementation of the task
-  * go to the [rs app](https://app.rs.school/)
-  * select Auto-Test
-  * select the name of the task in the drop-down list
-  * click the Submit button
-* The test's result will be displayed on the right
-* Till the deadline, you may submit the task as many times as you want, each submission result overwrites the previous one.
 
+## Practice
+- Task: [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+- Submit task for cross-check: [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)

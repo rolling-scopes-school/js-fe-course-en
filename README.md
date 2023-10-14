@@ -1,56 +1,73 @@
-# RS School. JS/Frontend development course.
+# 🎓 RS School. JS/Frontend Development Course. 
 
-## Course roadmap
+## 🚀 Overview
+
+- 📣 **Open to all who wish to join**
+- 📅 **Study time:** 11 weeks
+- 📚 **Format:** self-study + webinars + Discord communication + assignments (cross-checks/auto-checks)
+
+### 📝 Topics Covered:
+
+1. Introduction of students to The Rolling Scopes and RS School.
+2. Git, GitHub, commit and pull request formatting.
+3. Adaptive layout markup.
+4. Core JS.
+5. Algorithmic tasks.
+6. DOM, DOM Events, Browser API.
+7. Virtual keyboard project.
+8. Clean Code project.
+9. Preparation for HTML/CSS/JS/Algorithms interviews.
+
+## Training Program
 
 <details>
-<summary>Stage 1</summary>
+<summary>Stage #1</summary>
 
 ### Week #1
 
-( 20.09.2022 - 26.09.2022 )
+#### <i>November 6, 2023</i>
 
 - [RS School introduction](modules/rs-school-intro/)
   - Test: "RS app intro"
-- [JS/FE developer](modules/js-fe-developer/)
-- [IDE](modules/ide/)
+- [Introduction to the profession of "JS/Front-end developer](modules/js-fe-developer/)
+- [Fundamentals of Chrome Dev Tools, VS Code and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #2
 
-( 27.09.2022 - 03.10.2022 )
+#### <i>November 13, 2023</i>
 
+- [Introduction to the Git version control system and the GitHub web service](modules/git/)
+- [Introduction to the Markdown](modules/markdown/)
 - [HTML basics](modules/html-basics/)
-  - Test: "HTML Basics (EN)"
-- [Git](modules/git/)
-  - Test: "Git Quiz"
+- Review students tasks [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+- Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #3
 
-( 04.10.2022 - 10.10.2022 )
+#### <i>November 20, 2023</i>
 
 - [CSS Basics](modules/css-basics/)
-  - Test: "CSS Basics (EN)"
-- [Markdown](modules/markdown/)
-  - Task: [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+- [Figma](modules/figma/)
+- Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #4
 
-( 11.10.2022 - 17.10.2022 )
-
-- Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
-- Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
-- [JS Basics. Part 1](modules/js-basics-1/)
-  - Test: "JS-basics. Part 1 (EN)"
+#### <i>November 27, 2023</i>
+- [CSS Flex. Media Queries](modules/css-flex/)
+- [CSS grid layout](modules/css-grid/)
+- Task [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
+- Review students tasks [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #5
 
-( 18.10.2022 - 24.10.2022 )
-
-- Cross-check.[CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(cross-check).md>)
-- [Figma](modules/figma/)
+#### <i>December 4, 2023</i>
+- Review students tasks [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
+- 
+- 
 - [JS Basics. Part 2](modules/js-basics-2/)
   - Test: "JS-basics. Part 2 (EN)"
 - [DevTools](modules/devtools/)
@@ -58,7 +75,7 @@
 
 ### Week #6
 
-( 25.10.2022 - 31.10.2022 )
+#### <i>December 11, 2023</i>
 
 - Task: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md)
 - [JS Basics. Part 3](modules/js-basics-3/)
@@ -68,7 +85,7 @@
 
 ### Week #7
 
-( 01.11.2022 - 07.11.2022 )
+#### <i>December 18, 2023</i>
 
 - Task: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md)
 - Cross-check: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-1)
@@ -81,7 +98,7 @@
 
 ### Week #8
 
-( 08.11.2022 - 14.11.2022 )
+#### <i>December 25, 2023</i>
 
 - Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
 - Cross-check: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
@@ -90,9 +107,11 @@
   - Test: "DOM API (EN)"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
+## Holiday weeks !!! 
+
 ### Week #9
 
-( 15.11.2022 - 21.11.2022 )
+#### <i>January 8, 2024</i>
 
 - Task: [BookShop.Week_2](tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 21.11.2022. 23.59 (GMT + 3))
 - [DOM Events](modules/dom-events/)
@@ -102,7 +121,7 @@
 
 ### Week #10
 
-( 22.11.2022 - 28.11.2022 )
+#### <i>January 15, 2024</i>
 
 - Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
 - [CSS Flex](modules/css-flex/)
@@ -112,17 +131,35 @@
 
 ### Week #11
 
-( 29.11.2022 - 05.12.2022 )
+#### <i>January 22, 2024</i>
 
-- [CSS Grid](modules/css-grid/)
+
   - Test: "CSS Grid (EN)"
 - Cross-check: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-3)
 - Task: [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#week-4)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
+### Week #12
+
+#### <i>January 29, 2024</i>
+
+### Week #13
+
+#### <i>February 5, 2024</i>
+
+### Week #14
+#### <i>February 12, 2024</i>
+
+
+
+### Week #15
+#### <i>February 19, 2023</i>
+
+
+
 </details>
 
-#### Interview with mentors ( 29.11.2022 - 12.12.2022 )
+##Interview with mentors ( February 5, 2023 - February 25, 2024 )
 
 <details>
 <summary>Stage 2</summary>

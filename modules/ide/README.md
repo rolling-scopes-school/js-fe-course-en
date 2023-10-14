@@ -1,9 +1,36 @@
-### Module description
-The overview on most popular IDE for web development. The module demonstrates how to get started with a particular IDE and describes most common features that simplify development process
+# Fundamentals of Chrome Dev Tools, VS Code and Internet
 
-### Education materials
-* [IDE overview](https://youtu.be/khRmv3XSk0I)
-* Getting started with Visual Studio Code.[Basics](https://code.visualstudio.com/docs/introvideos/basics) and [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
-* [JavaScript extensions for VS Code](https://code.visualstudio.com/docs/nodejs/extensions)
-* [Getting started with Atom](https://flight-manual.atom.io/getting-started/)
-* [Getting started with WebStorm (requires paid license)](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)
+## Objectives for this module:
+
+Students are required to get acquainted with:
+
+- The functioning and nuances of browsers
+- Features of Chrome Dev Tools (Styles and Element Inspector)
+- The VSCode Editor
+    - Setting up the environment
+    - Extensions
+    - Console
+- Basic terminal commands
+
+## Estimated time for completing the module:
+
+4 hours
+
+## Theory
+
+1. [Internet and Browsers](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+2. [Webinar: Browsers and VS Code – Installation and Setup](https://www.youtube.com/watch?v=VqCgcpAypFQ)
+3. Terminal:
+    - [Basic Windows Commands](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+    - [Basic Mac Commands](https://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start)
+
+## Additional resources
+
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [Getting Started with Chrome Dev Tools ](https://developer.chrome.com/docs/devtools/) - 2h read
+- [VSCode Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) - 1h read
+- [Vscode Extensions](https://hackr.io/blog/best-vscode-extensions)
+
+## Practice
+
+- Complete the auto-test on "Fundamentals of the Internet".

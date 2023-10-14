@@ -1,20 +1,22 @@
-### Module description
+# CSS grid layout
+## In this module, students need to:
+Learn basics of CSS Grid layout:
+- responsive grid
+- nesting grids
+- aligning
+- shapes
+- layering items
+- positioning
 
-In this module you will learn what is CSS Grid and how to apply it for building layout.
+## Approximate time to complete this module:
+4 hours
 
-### Education materials
+## Theory
+- [Basic concepts of grid layout](https://developer.mozilla.org/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout) - 2h
+- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - 2h
 
-- [Video - CSS Grid Course](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG)
-- [CSS Grid Layout Module (w3schools)](https://www.w3schools.com/css/css_grid.asp)
-- [CSS Grid Container (w3schools)](https://www.w3schools.com/css/css_grid_container.asp)
-- [CSS Grid Item (w3schools)](https://www.w3schools.com/css/css_grid_item.asp)
+## Practice
+1. You need to take the test "CSS Grid" in RS APP > Auto Test
 
-### At the end of this module you should pass the **CSS Grid (EN)** test
-
-#### Preconditions for test:
-
-- Tests submitted in RS School App could be solved after authorization in the application.
-- The minimum passing score is **75%** of the maximum possible number of points.
-- You can take the test **3 times**, the last result is counted.
-- You can try the test even more times, but the score for the test will be reduced by half (from the original score).
-- The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
+## Additional sources
+1. [A game for learning CSS grid](https://cssgridgarden.com/) - 1h
