@@ -3,7 +3,7 @@
 ## 🚀 Overview
 
 - 📣 **Open to all who wish to join**
-- 📅 **Study time:** 11 weeks
+- 📅 **Study time:** 15 weeks
 - 📚 **Format:** self-study + webinars + Discord communication + assignments (cross-checks/auto-checks)
 
 ### 📝 Topics Covered:
@@ -159,7 +159,7 @@
 
 </details>
 
-##Interview with mentors ( February 5, 2023 - February 25, 2024 )
+## Interview with mentors ( February 5, 2023 - February 25, 2024 )
 
 <details>
 <summary>Stage 2</summary>
