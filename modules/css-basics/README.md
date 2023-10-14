@@ -2,10 +2,9 @@
 This module you will get knowledge about CSS properties, selectors, validation and very base accessibility.
 
 ### Education materials
-* [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
-* [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+* [CSS Tutorial](https://www.w3schools.com/css/)
+* [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 * [Video course. CSS Tutorial For Beginners](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
-* [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
 * [RS School. Lithuania. HTML / CSS Basics](https://youtu.be/YiLqgZY4xCU)
 * [RS School. Lithuania. Semantics. CSS3](https://youtu.be/9T6Ho--eqGc)
 * [RS School. Georgia. Semantic. CSS3. Part 1](https://youtu.be/yLpUsbequS4)
