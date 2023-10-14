@@ -9,22 +9,20 @@ After all the interviews have been completed, the mentor may drop part of the gr
 
 - Checking the level of students' preparation.
 - Students get the experience of going through the interview.
+- 
 ## Attention! RS School doesn’t check in advance:
 - Mentors’ adequacy.
 - Students’ adequacy.
-## Number of students and invitation order
-The number of students invited for interviews depends on the number of mentors enrolled in the course.
-Students are invited in the following order:
-1. By mentor’s recommendation, if the mentor is ready to mentor these students.
-2. According to the results of training on the Stage 1 of the course.
+
 ## Interview process
-Interviews take place during the first two weeks of RSSchool stage#2.
+Interviews take place during the last week of the stage#1 and the first week of stage#2.
 You can track up-to-date information on the interview in [app.rs.school](https://app.rs.school) in the `Interviews` section. It will contain a link to the interview’s description, the deadline, and a registration button.
+
 ### Phases
-1. **Registration**. In order to take part in the selection for an interview, the student must press the `Register` button. If the student already has an Interviewe, there is no need to press the button, you should contact the interviewer.
+1. **Registration**. In order to take part in the selection for an interview, the student should press the `Register` button. If the student already has an Interview, there is no need to press the button, you should contact the interviewer.
 2. **Pairs formation**. After distribution, students will see “Interviewer” - there will be a link to his account in [app.rs.school](https://app.rs.school) with the contacts for communication. The student needs to contact the interviewer within the first week and agree on the date of the interview.
 If a student does not have an Interviewer, he is not invited to an interview and is automatically moved to the wait-list.
-3. **Interviewing**. The interview can be conducted online. The average length of an interview is ~60 minutes.
+3. **Interviewing**. The interview will be conducted online. The average length of an interview is ~60 minutes.
 4. **Results of the interview**. After the student has passed the interview, the `Result` column will contain information about the mentor's decision: Yes - the mentor takes the student, otherwise the student is moved to the wait-list.
 
 **Wait-list** - a list of students who were either not invited for an interview or were rejected by the mentor after the interview. Mentors can select students from this list.
@@ -43,7 +41,7 @@ If a student does not have an Interviewer, he is not invited to an interview and
     - Pseudo-classes, pseudo-elements.
     - Box model.
     - em vs rem.
-    - Positioning: поток документа, position attributes' values, overflow, z-index.
+    - Positioning: document flow, position attributes' values, overflow, z-index.
     - Flexbox.
     - Grid.
 - JS basics:
@@ -57,11 +55,12 @@ If a student does not have an Interviewer, he is not invited to an interview and
 
 
 ## What should a student do in case of an unsuccessful interview
-The student can continue their studies on their own or sign up for the next course. Lectures, assignments and chats are in the public domain. Assignments will not be checked by the mentor. Test grades, cross-checks will be graded and visible in the RSS App. If possible, mentors can recruit students along the way.
+The student can continue their studies sign up for the next course. Lectures, assignments and chats are in the public domain.
 
 
 ## What to do if a student is dissatisfied with an interview with a mentor
 In this case, the student needs to describe the situation and their claim [here](https://github.com/rolling-scopes-school/support/issues/51).
+
 ## FAQ
 ### Typical student problems
 1) I can’t contact the mentor because there are no contacts in his profile.
