@@ -99,53 +99,59 @@
 ### Week #8
 
 #### <i>December 25, 2023</i>
-
-- Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
-- Cross-check: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
-- Complete task: Codewars: Array, Object
-- [DOM API](modules/dom-api/)
-  - Test: "DOM API (EN)"
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
+#
+- 
 ## Holiday weeks !!! 
 
 ### Week #9
 
 #### <i>January 8, 2024</i>
-
-- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 21.11.2022. 23.59 (GMT + 3))
-- [DOM Events](modules/dom-events/)
-  - Test: "DOM Events (EN)"
-- [Forms & Validation](modules/forms-validation/)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+##### ***Tasks will be changed***
+  ___
+- Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
+- Cross-check: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
+  ___
+  - [DOM API](modules/dom-api/)
+  - Test: "DOM API (EN)"
+  - Complete task: Codewars: Array, Object
+  - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #10
 
 #### <i>January 15, 2024</i>
-
-- Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
-- [CSS Flex](modules/css-flex/)
-  - Test: "Responsive & Flexbox (EN)"
-- Task: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+##### ***Tasks will be changed*** 
+  ___
+- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 21.11.2022. 23.59 (GMT + 3))
+  ___
+- [DOM Events](modules/dom-events/)
+- Complete task: Codewars: Array, Object
+- Test: "DOM Events (EN)"
 
 ### Week #11
 
 #### <i>January 22, 2024</i>
-
-
-  - Test: "CSS Grid (EN)"
-- Cross-check: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-3)
-- Task: [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#week-4)
+##### ***Tasks will be changed*** 
+  ___
+- Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
+  ___
+- Complete task: Codewars: Array, Object
+- [Forms & Validation](modules/forms-validation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
 ### Week #12
 
 #### <i>January 29, 2024</i>
+  ___
+- Task: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
+  ___
+- Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+- Complete task: Codewars: Array, Object
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #13
-
 #### <i>February 5, 2024</i>
+
+- Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #14
 #### <i>February 12, 2024</i>
