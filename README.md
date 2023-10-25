@@ -56,8 +56,8 @@
 ### Week #4
 
 #### <i>November 27, 2023</i>
-- [CSS Flex. Media Queries](modules/css-flex/)
-- [CSS grid layout](modules/css-grid/)
+- [CSS Flex](modules/css-flex/)
+- [CSS Grid](modules/css-grid/)
 - Task [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
 - Review students tasks [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -65,30 +65,39 @@
 ### Week #5
 
 #### <i>December 4, 2023</i>
+- [Media Queries & Responsive Design](modules/media-query/)
+  - Test: "Media Queries & Responsive (EN)"
+
 - Review students tasks [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
-- 
-- 
-- [JS Basics. Part 2](modules/js-basics-2/)
-  - Test: "JS-basics. Part 2 (EN)"
-- [DevTools](modules/devtools/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #6
 
 #### <i>December 11, 2023</i>
 
+- [JS Basics. Part 1](modules/js-basics-1/)
+  - Test: "JS-basics. Part 1 (EN)"
+- [DevTools](modules/devtools/)
 - Task: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md)
-- [JS Basics. Part 3](modules/js-basics-3/)
-  - Test: "JS-basics. Part 3 (EN)"
-  - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #7
 
 #### <i>December 18, 2023</i>
 
+- [JS Basics. Part 2](modules/js-basics-2/)
+  - Test: "JS-basics. Part 2 (EN)"
+- [JS Basics. Part 3](modules/js-basics-3/)
+  - Test: "JS-basics. Part 3 (EN)"
+  - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
 - Task: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md)
 - Cross-check: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-1)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+
+### Week #8
+
+#### <i>December 25, 2023</i>
+
 - [JS Arrays](modules/js-arrays/)
   - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
@@ -96,9 +105,6 @@
 - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
-### Week #8
-
-#### <i>December 25, 2023</i>
 #
 - 
 ## Holiday weeks !!! 
