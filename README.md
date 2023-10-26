@@ -28,10 +28,12 @@
 #### <i>November 6, 2023</i>
 
 - [RS School introduction](modules/rs-school-intro/)
-  - Test: "RS app intro"
 - [Introduction to the profession of "JS/Front-end developer](modules/js-fe-developer/)
 - [Fundamentals of Chrome Dev Tools, VS Code and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Test: "RS app intro" 
+
 
 ### Week #2
 
@@ -40,9 +42,12 @@
 - [Introduction to the Git version control system and the GitHub web service](modules/git/)
 - [Introduction to the Markdown](modules/markdown/)
 - [HTML basics](modules/html-basics/)
-- Review students tasks [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
-- Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+  - Test "HTML Basic ( EN )"
+  - Task: [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Submit task for cross-check: [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
 
 ### Week #3
 
@@ -50,114 +55,129 @@
 
 - [CSS Basics](modules/css-basics/)
 - [Figma](modules/figma/)
-- Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
+  - Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
+  - Review students tasks [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
 
 ### Week #4
 
 #### <i>November 27, 2023</i>
 - [CSS Flex](modules/css-flex/)
 - [CSS Grid](modules/css-grid/)
-- Task [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
-- Review students tasks [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
+  - Task: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
+  - Test "CSS Positioning & Flexbox"
+  - Test "CSS Grid"
 
 ### Week #5
 
 #### <i>December 4, 2023</i>
 - [Media Queries & Responsive Design](modules/media-query/)
-  - Test: "Media Queries & Responsive (EN)"
-
 - Review students tasks [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Task [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
+  - Submit task for cross-check [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
+  - Test: "Media Queries & Responsive (EN)"
 
 ### Week #6
 
 #### <i>December 11, 2023</i>
 
 - [JS Basics. Part 1](modules/js-basics-1/)
-  - Test: "JS-basics. Part 1 (EN)"
 - [DevTools](modules/devtools/)
 - Task: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
+  - Task [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
+  - Submit task for cross-check [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
+  - Test: "JS-basics. Part 1 (EN)"
 
 ### Week #7
 
 #### <i>December 18, 2023</i>
 
 - [JS Basics. Part 2](modules/js-basics-2/)
-  - Test: "JS-basics. Part 2 (EN)"
 - [JS Basics. Part 3](modules/js-basics-3/)
-  - Test: "JS-basics. Part 3 (EN)"
-  - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
-- Task: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md)
+- 
 - Cross-check: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-1)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
+  - Test: "JS-basics. Part 2 (EN)"
+  - Test: "JS-basics. Part 3 (EN)"
+  - Task [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
+  - Task [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
+  - Submit task for cross-check [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
 
 ### Week #8
 
 #### <i>December 25, 2023</i>
 
 - [JS Arrays](modules/js-arrays/)
-  - Test: "JS Array. Basics"
 - [JS Objects](modules/js-objects/)
-  - Test: "JS Object. Basics"
-- Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
+  - Test: "JS Array. Basics"
+  - Test: "JS Object. Basics"
+  - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
+  - Task [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
 
-#
-- 
-## Holiday weeks !!! 
+### Holiday weeks !!! 
 
 ### Week #9
 
 #### <i>January 8, 2024</i>
 ##### ***Tasks will be changed***
-  ___
-- Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
-- Cross-check: [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
-  ___
-  - [DOM API](modules/dom-api/)
+- [DOM API](modules/dom-api/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit task for cross-check [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
   - Test: "DOM API (EN)"
-  - Complete task: Codewars: Array, Object
-  - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 
 ### Week #10
 
 #### <i>January 15, 2024</i>
 ##### ***Tasks will be changed*** 
-  ___
-- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md) (Deadline of submitting for cross-check - 21.11.2022. 23.59 (GMT + 3))
-  ___
 - [DOM Events](modules/dom-events/)
-- Complete task: Codewars: Array, Object
-- Test: "DOM Events (EN)"
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
+  - Task [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
+  - Test: "DOM Events (EN)"
 
 ### Week #11
 
 #### <i>January 22, 2024</i>
 ##### ***Tasks will be changed*** 
-  ___
-- Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
-  ___
-- Complete task: Codewars: Array, Object
 - [Forms & Validation](modules/forms-validation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit task for cross-check [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
+
+
 ### Week #12
 
 #### <i>January 29, 2024</i>
-  ___
-- Task: [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
-  ___
-- Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
-- Complete task: Codewars: Array, Object
+
+- !!!! TODO add education modules && translate task (https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/clean-code)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
 
 ### Week #13
-#### <i>February 5, 2024</i>
 
-- Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+#### <i>February 5, 2024</i>
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit task for cross-check:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+
 
 ### Week #14
 #### <i>February 12, 2024</i>
@@ -165,7 +185,7 @@
 
 
 ### Week #15
-#### <i>February 19, 2023</i>
+#### <i>February 19, 2024</i>
 
 
 
@@ -176,98 +196,37 @@
 <details>
 <summary>Stage 2</summary>
 
-### Week #12
-
-( 06.12.2022 - 12.12.2022 )
-
-- Cross-check.[Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
-- [JS Classes & Prototypes](modules/js-classes-prototypes/)
-  - Test: "Inheritance (EN)"
-- Task: [Inheritance](tasks/classes-inheritance/classes-inheritance.md)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
-### Week #13
-
-( 13.12.2022 - 19.12.2022 )
-
-- [HTTP/HTTPS. REST. WebSocket](modules/http/)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
-### Week #14
-
-( 20.12.2022 - 26.12.2022 )
-
-- [JS Async Programming](modules/js-async/)
-  - Test: "Async (EN)"
-  - Task: [Async-Race](tasks/async-race/async-race.md)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
-### Week #15
-
-( 27.12.2022 - 02.01.2023 )
-
-- Continue task: [Async-Race](tasks/async-race/async-race.md)
-- [JS Modules](modules/js-modules/)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
 ### Week #16
-
-( 03.01.2023 - 09.01.2023 )
-
-- Complete task: [Async-Race](tasks/async-race/async-race.md)
-- [NPM](modules/npm/)
-  - Test: "NPM basics (EN)"
-- [Webpack](modules/webpack/)
-  - Test: "Webpack Basics"
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+#### <i>February 26, 2024</i>
 
 ### Week #17
-
-( 10.01.2023 - 16.01.2023 )
-
-- Task: [Core JS 101](tasks/core-js-101/core-js-101.md)
-- [Browser API](modules/browser-api/)
-  - Test: "Browser API (EN)"
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+#### <i>March 4, 2024</i>
 
 ### Week #18
-
-( 17.01.2023 - 23.01.2023 )
-
-- Complete task: [Core JS 101](tasks/core-js-101/core-js-101.md)
-- [Design Patterns](modules/design-patterns/)
-  - Test: "Software Design Patterns (EN)"
-- [Software Design Principles](modules/design-principles/)
-  - Test: "Software Design Principles (EN)"
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+#### <i>March 11, 2024</i>
 
 ### Week #19
-
-( 24.01.2023 - 30.01.2023 )
-
-- [TypeScript](modules/typescript/)
-  - Test: "TypeScript Test (EN)"
-  - Task: [TypeScript](tasks/typescript/typescript.md)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+#### <i>March 18, 2024</i>
 
 ### Week #20
-
-( 31.01.2023 - 06.02.2023 )
-
-- [Testing](modules/testing/)
-  - Test: "Testing Quiz (EN)"
-  - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
-- Task: [Self Presentation](tasks/self-introduction/self-introduction.md)
-- [Software Development Lifecycle](modules/sdlc/)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+#### <i>March 25, 2024</i>
 
 ### Week #21
+#### <i>April 1, 2024</i>
 
-( 07.02.2023 - 13.02.2023 )
+### Week #22
+#### <i>April 8, 2024</i>
 
-- [Preparing to interview](modules/interview-core-js/interview.md)
+### Week #23
+#### <i>April 15, 2024</i>
+
+### Week #24
+#### <i>April 22, 2024</i>
+
+### Week #25 - Week 32
+#### <i>April 29, 2024 - June 24, 2024</i> 
 
 </details>
 
-#### Interview with mentors ( 07.02.2023 - 27.02.2023 )
+#### Interview with mentors ( <i>July,1 2024 - July, 22 2024</i> )
 

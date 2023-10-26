@@ -15,7 +15,3 @@
     - https://webref.ru/layout/flexbox-tutorial - 2h
     - https://habr.com/ru/post/467049/ - 1h
 - [Video - Introduction to What The FlexBox?!](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
-
-
-## Practice
-1. Test "CSS Positioning & Flexbox" в RS APP > Auto Test
