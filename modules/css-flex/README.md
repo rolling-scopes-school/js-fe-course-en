@@ -15,10 +15,6 @@
     - https://webref.ru/layout/flexbox-tutorial - 2h
     - https://habr.com/ru/post/467049/ - 1h
 - [Video - Introduction to What The FlexBox?!](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
-- [Video - Learn CSS Media Query In 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
-- [@media (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
-- [CSS Media Queries (w3schools)](https://www.w3schools.com/css/css3_mediaqueries.asp)
-- [CSS Media Queries - Examples (w3schools)](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
 
 
 ## Practice
