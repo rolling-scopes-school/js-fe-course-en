@@ -32,7 +32,7 @@
 - [Fundamentals of Chrome Dev Tools, VS Code and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Test: "RS app intro" 
+  - Test "RS app intro" 
 
 
 ### Week #2
@@ -44,10 +44,9 @@
 - [HTML basics](modules/html-basics/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Review students tasks [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
   - Test "HTML Basic ( EN )"
-  - Task: [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
-  - Submit task for cross-check: [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Task [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Submit task for cross-check [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
 
 ### Week #3
 
@@ -57,9 +56,10 @@
 - [Figma](modules/figma/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
-  - Submit task for cross-check: [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
   - Review students tasks [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Task [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
+  - Submit task for cross-check [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
+  - Test "CSS Basics (EN)"
 
 ### Week #4
 
@@ -69,7 +69,7 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
-  - Task: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
+  - Task [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
   - Test "CSS Positioning & Flexbox"
   - Test "CSS Grid"
 
@@ -80,9 +80,9 @@
 - Review students tasks [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Task [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
-  - Submit task for cross-check [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
-  - Test: "Media Queries & Responsive (EN)"
+  - Task [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
+  - Submit task for cross-check [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
+  - Test "Media Queries & Responsive (EN)"
 
 ### Week #6
 
@@ -90,13 +90,11 @@
 
 - [JS Basics. Part 1](modules/js-basics-1/)
 - [DevTools](modules/devtools/)
-- Task: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Review students tasks [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md) TODO!!! Change the task
-  - Task [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
-  - Submit task for cross-check [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
-  - Test: "JS-basics. Part 1 (EN)"
+  - Review students tasks [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
+  - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+  - Test: "JS-basic. Part 1 (EN)"
 
 ### Week #7
 
@@ -104,16 +102,13 @@
 
 - [JS Basics. Part 2](modules/js-basics-2/)
 - [JS Basics. Part 3](modules/js-basics-3/)
-- 
-- Cross-check: [Online Zoo. Week 1](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-1)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Review students tasks [Online Zoo. Week 2](tasks/online-zoo/online-zoo.md#-cross-check-evaluation-criteria-week-2)
+  - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+  - Submit task for cross-check [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
   - Test: "JS-basics. Part 2 (EN)"
   - Test: "JS-basics. Part 3 (EN)"
-  - Task [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
-  - Task [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
-  - Submit task for cross-check [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
+  - [JS-101](https://github.com/Luffi2539/core-js-101/)
 
 ### Week #8
 
@@ -123,69 +118,83 @@
 - [JS Objects](modules/js-objects/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Review students tasks [Online Zoo. Week 3](tasks/online-zoo/online-zoo.md#week-3)
+  - Review students tasks [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
   - Test: "JS Array. Basics"
   - Test: "JS Object. Basics"
-  - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
-  - Task [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
+  - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
+  - [JS-101](https://github.com/Luffi2539/core-js-101/)
 
 ### Holiday weeks !!! 
 
 ### Week #9
 
 #### <i>January 8, 2024</i>
-##### ***Tasks will be changed***
 - [DOM API](modules/dom-api/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Submit task for cross-check [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
+  - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
+  - Submit task for cross-check [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
   - Test: "DOM API (EN)"
+  - [JS-101](https://github.com/Luffi2539/core-js-101/)
 
 ### Week #10
 
 #### <i>January 15, 2024</i>
-##### ***Tasks will be changed*** 
 - [DOM Events](modules/dom-events/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Review students tasks [Online Zoo. Week 4](tasks/online-zoo/online-zoo.md#cross-check-evaluation-criteria-week-4)
+  - Review students tasks [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
   - Task [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
   - Test: "DOM Events (EN)"
+  - [JS-101](https://github.com/Luffi2539/core-js-101/)
 
 ### Week #11
 
 #### <i>January 22, 2024</i>
-##### ***Tasks will be changed*** 
 - [Forms & Validation](modules/forms-validation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - Task [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
   - Submit task for cross-check [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
+  - [JS-101](https://github.com/Luffi2539/core-js-101/)
 
 
 ### Week #12
 
 #### <i>January 29, 2024</i>
-
 - !!!! TODO add education modules && translate task (https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/clean-code)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+  - [JS-101](https://github.com/Luffi2539/core-js-101/)
 
 ### Week #13
 
 #### <i>February 5, 2024</i>
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
   - Submit task for cross-check:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+  - [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - Pass interview with mentor
 
 
 ### Week #14
 #### <i>February 12, 2024</i>
+- [CSS Preprocessors. Sass](modules/sass/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - Pass interview with mentor
 
 
 
 ### Week #15
 #### <i>February 19, 2024</i>
+- [CSS Modules And Some CSS New Features](modules/css-modules/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Pass interview with mentor
 
 
 
