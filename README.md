@@ -28,11 +28,12 @@
 #### <i>November 6, 2023</i>
 
 - [RS School introduction](modules/rs-school-intro/)
-- [Introduction to the profession of "JS/Front-end developer](modules/js-fe-developer/)
+- [Introduction to the profession of JS/Front-end developer](modules/js-fe-developer/)
 - [Fundamentals of Chrome Dev Tools, VS Code and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Test "RS app intro" 
+  - Test "Fundamentals of the Internet"
 
 
 ### Week #2
