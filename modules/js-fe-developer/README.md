@@ -41,4 +41,3 @@ Understanding NodeJS, Cloud services, and TypeScript is crucial due to the expan
 - [NodeJS Roadmap](https://roadmap.sh/nodejs)
 - [AWS Best Practices](https://roadmap.sh/best-practices/aws)
 - [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
-- (optional) [Career Guidance [RU]](https://www.youtube.com/watch?v=pQ0hr5U8RL0) - 1.5 hours
