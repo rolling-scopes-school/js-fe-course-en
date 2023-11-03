@@ -32,7 +32,7 @@
 - [Fundamentals of Chrome Dev Tools, VS Code and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Test "RS app intro" 
+  - Test "RSS Test" 
   - Test "Fundamentals of the Internet"
 
 
@@ -45,7 +45,8 @@
 - [HTML basics](modules/html-basics/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Test "HTML Basic ( EN )"
+  - Test "Test HTML Basics"
+  - Test "Git test"
   - Task [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
   - Submit task for cross-check [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
 
@@ -60,7 +61,7 @@
   - Review students tasks [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
   - Task [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
   - Submit task for cross-check [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
-  - Test "CSS Basics (EN)"
+  - Test "Test CSS Basics"
 
 ### Week #4
 
@@ -95,7 +96,7 @@
 - <i>Week assignments</i>
   - Review students tasks [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
   - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
-  - Test: "JS-basic. Part 1 (EN)"
+  - Test "JS Types"
 
 ### Week #7
 
@@ -107,9 +108,8 @@
 - <i>Week assignments</i>
   - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
   - Submit task for cross-check [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
-  - Test: "JS-basics. Part 2 (EN)"
-  - Test: "JS-basics. Part 3 (EN)"
-  - [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
+  - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
 
 ### Week #8
 
@@ -120,10 +120,10 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Review students tasks [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
-  - Test: "JS Array. Basics"
-  - Test: "JS Object. Basics"
   - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
-  - [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - Test "JS Basics"
+  - [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
+  - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
 
 ### Holiday weeks !!! 
 
@@ -136,7 +136,8 @@
   - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
   - Submit task for cross-check [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
   - Test: "DOM API (EN)"
-  - [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - Submit [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
+  - Submit [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
 
 ### Week #10
 
@@ -147,7 +148,6 @@
   - Review students tasks [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
   - Task [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
   - Test: "DOM Events (EN)"
-  - [JS-101](https://github.com/Luffi2539/core-js-101/)
 
 ### Week #11
 
