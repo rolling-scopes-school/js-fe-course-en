@@ -163,7 +163,7 @@
 ### Week #12
 
 #### <i>January 29, 2024</i>
-- !!!! TODO add education modules && translate task (https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/clean-code)
+- [Clean Code](modules/clean-code/README.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
