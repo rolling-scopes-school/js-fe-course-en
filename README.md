@@ -47,8 +47,8 @@
 - <i>Week assignments</i>
   - Test "Test HTML Basics"
   - Test "Git test"
-  - Task [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
-  - Submit task for cross-check [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Task [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+  - Submit task for cross-check [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
 
 ### Week #3
 
@@ -58,7 +58,7 @@
 - [Figma](modules/figma/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Review students tasks [CV.Markdown](../tasks/CV(markdown)/CV(markdown).md)
+  - Review students tasks [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
   - Task [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
   - Submit task for cross-check [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
   - Test "Test CSS Basics"
@@ -71,7 +71,7 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
-  - Task [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
+  - Task [Coffee House (part 1)](<tasks/coffee-house/coffee-house-week1.md>)
   - Test "CSS Positioning & Flexbox"
   - Test "CSS Grid"
 
@@ -79,11 +79,10 @@
 
 #### <i>December 4, 2023</i>
 - [Media Queries & Responsive Design](modules/media-query/)
-- Review students tasks [CSS Meme Slider](<tasks/CSS_Meme_Slider/CSS_meme_slider.md>)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Task [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
-  - Submit task for cross-check [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
+  - Task [Coffee House (part 1)](<tasks/coffee-house/coffee-house-week1.md>)
+  - Submit task for cross-check [Coffee House (part 1)](<tasks/coffee-house/coffee-house-week1.md>)
   - Test "Media Queries & Responsive (EN)"
 
 ### Week #6
