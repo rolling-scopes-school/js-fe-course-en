@@ -23,17 +23,10 @@ Your task is to create your own CV using HTML and CSS.
 ### How to submit the task
 * After completing implementation of the task
     * go to the [rs app](https://app.rs.school/)
-    * select Auto-Test
+    * select Cross-check: Submit
     * select the name of the task in the drop-down list
     * click the Submit button
-* The test's result will be displayed on the right
 * Till the deadline, you may submit the task as many times as you want, each submission result overwrites the previous one.
-
-
-### Criteria
-- +50 points if the requirements for the task are met
-- +50 points if repository, commit and PR requirements are met
-
 
 ### Prepare repository for "CV. HTML, CSS & Git Basics. Cross-check" task
 * After finishing this stage, go to ["CV. HTML, CSS & Git Basics. Cross-check" task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/CV(markdown)/CV(cross-check).md) to prepare and submit your repository for a cross-check task. 
