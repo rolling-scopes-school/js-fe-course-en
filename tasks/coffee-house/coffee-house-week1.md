@@ -20,7 +20,7 @@ The content width of 1440px should not change when resizing the browser window.
 console.log('1. First criteria's name: +5\n2.Second criteria's name: +10')
 ```
 7. Deploy your work to gh-pages. For example, create and merge a Pull Request from the `coffee-house` branch into `gh-pages` branch. The Pull Request title can be arbitrary. There is no need to describe this Pull Request.
-8. After completing your work, open a Pull Request from the `coffee-house` branch to the `main` branch. Give the Pull Request a title based on the task name. Provide a description for the Pull Request following [template](https://docs.rs.school/#/pull-request-review-process?id=Требования-к-pull-request-pr)  
+8. After completing your work, open a Pull Request from the `coffee-house` branch to the `main` branch. Give the Pull Request a title based on the task name. Provide a description for the Pull Request following [template](https://docs.rs.school/#/en/pull-request-review-process?id=description-example)  
    There is no need to merge this Pull Request.
 9. Submit the link to the deployment of your work in the [RS APP](https://app.rs.school/) section "Cross-Check Submit"
 10. After the task deadline, the cross-check process begins. The cross-check lasts for three days. To receive points for the task, you need to review all the submissions sent for review and submit the results of the review in the "Cross-Check Review" section of [RS APP](https://app.rs.school/).
