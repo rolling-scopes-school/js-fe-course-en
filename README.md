@@ -68,6 +68,7 @@
 #### <i>November 27, 2023</i>
 - [CSS Flex](modules/css-flex/)
 - [CSS Grid](modules/css-grid/)
+- [DevTools](modules/devtools/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
@@ -90,7 +91,6 @@
 #### <i>December 11, 2023</i>
 
 - [JS Basics. Part 1](modules/js-basics-1/)
-- [DevTools](modules/devtools/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Review students tasks [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
