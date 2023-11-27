@@ -1,4 +1,4 @@
-## Coffee-House. Week-1 - Fixed layout
+## Coffee-House. Part_1 - Fixed layout
 
 - [Main task Description and Requirements](coffee-house.md)
 
@@ -9,7 +9,7 @@ The content width of 1440px should not change when resizing the browser window.
 
 ## Workflow
 
-1. Task should be done in private school's repository. [How to work with a school's private repository](https://docs.rs.school/#/private-repository)
+1. Task should be done in private school's repository
 2. Create new branch `coffee-house` from `main`. Create a folder `coffee-house` in the created branch. Place your code in this folder.
 3. Complete the task.
 4. Check if your work meets [Layout Requirements](#layout-requirements)
@@ -81,7 +81,7 @@ To make the assessment of your work easier, print self-assessment of your projec
 - Regarding text, we check its alignment and spacing relative to the block's boundaries. Text sizes are only checked for height. Deviations in word width and letter spacing when comparing the layout and the markup are not considered errors if the correct font with the specified properties is used
 
 ## How to submit
-- **Coffee-House. Week-1 - Fixed layout** task is checked by cross-check.
+- **Coffee-House.Part_1 - Fixed layout** task is checked by cross-check.
 - After receiving the task but before the deadline, please go to the RS App at https://app.rs.school/. Select **Cross-Check: Submit**, choose the relevant task from the dropdown menu, and add the link to the deployed version of your created website in the **Solution URL** field. Then, click **Submit** button.
 
 ## Submit Recommendations
@@ -90,4 +90,4 @@ To make the assessment of your work easier, print self-assessment of your projec
 - Make sure that the deployed link you provide opens in incognito mode of the browser
 
 ## Task Evaluation
-- Instructions for conducting a cross-check: https://docs.rs.school/#/cross-check-flow
+- Instructions for conducting a cross-check: https://docs.rs.school/#/en/cross-check-flow

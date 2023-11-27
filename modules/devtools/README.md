@@ -1,4 +1,4 @@
-### Module description
+# Web Developer Tools
 **Web Developer Tools (DevTools)** are built into modern web browsers like Google Chrome, Mozilla Firefox, and Microsoft Edge, 
 providing a suite of tools for front-end developers. Here are several reasons why a front-end developer should know and
 use DevTools:
