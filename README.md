@@ -80,6 +80,7 @@
 
 #### <i>December 4, 2023</i>
 - [Media Queries & Responsive Design](modules/media-query/)
+- [CSS Preprocessors. Sass](modules/sass/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Task [Coffee House (part 1)](<tasks/coffee-house/coffee-house-week1.md>)
@@ -181,7 +182,7 @@
 
 ### Week #14
 #### <i>February 12, 2024</i>
-- [CSS Preprocessors. Sass](modules/sass/)
+
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Submit [JS-101](https://github.com/Luffi2539/core-js-101/)
