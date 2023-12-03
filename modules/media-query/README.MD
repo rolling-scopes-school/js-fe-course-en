@@ -35,9 +35,6 @@ future-proofs the design and can improve website accessibility.
 - basics of Responsive Web Design
 - the process of designing a responsive layout
 
-## Estimated Module Duration
-6 hours
-
 ## Theory 
 1. [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 2. [Viewport meta tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
@@ -53,5 +50,3 @@ future-proofs the design and can improve website accessibility.
 - [CSS Media Queries (w3schools)](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - [CSS Media Queries - Examples (w3schools)](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
 
-## Practice   
-1. You are required to complete the "Media Queries & Responsive (EN)" test in RS APP > Auto Test.

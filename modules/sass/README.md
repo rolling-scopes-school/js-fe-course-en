@@ -34,9 +34,7 @@ In summary, learning CSS preprocessors like Sass is advantageous for front-end d
 cleaner, more modular, and maintainable code, allows for advanced functionality, improves performance, streamlines the 
 workflow, and enhances their marketability in the industry.
 
-## In this module, students need to:
-
-Know and understand:
+## In this module, students need to know and understand:
 
 - types and tasks of preprocessors
 - SASS basics (variables, inheritance,
@@ -46,7 +44,6 @@ Know and understand:
 
 
 ## Theory
-
 1. [Sass Basics](https://sass-lang.com/guide/)
 2. [Sass Crash Course](https://youtu.be/nu5mdN2JIwM?si=IQLhG_ToLHTziRI6) 
 3. [Sass Guidelines](https://sass-guidelin.es/)
