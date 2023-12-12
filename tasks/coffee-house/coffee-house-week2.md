@@ -15,7 +15,7 @@ For all other resolutions up to 380px, ensure:
 
 ## Workflow
 
-1. Task should be done in private school's repository. [How to work with a school's private repository](https://docs.rs.school/#/private-repository).
+1. Task should be done in private school's repository. 
 2. Create new branch `coffee-house-week2` from `coffee-house`. You will already find the `coffee-house` folder with the project files completed in the previous stage in this branch.
 3. Continue working on the task in the branch you've created.
 4. Check if your work meets [Layout Requirements](#layout-requirements).
@@ -121,4 +121,4 @@ To make the assessment of your work easier, print self-assessment of your projec
 - Make sure that the deployed link you provide opens in incognito mode of the browser
 
 ## Task Evaluation
-- Instructions for conducting a cross-check: https://docs.rs.school/#/cross-check-flow
+- Instructions for conducting a cross-check: https://docs.rs.school/#/en/cross-check-flow
