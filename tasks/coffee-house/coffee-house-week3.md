@@ -19,7 +19,7 @@ In this part of the task, you need to add the following functionality to the web
 
 ## Workflow
 
-1. Task should be done in private school's repository. [How to work with a school's private repository](https://docs.rs.school/#/private-repository).
+1. Task should be done in private school's repository. 
 2. Create new branch `coffee-house-week3` from `coffee-house`. You will already find the `coffee-house` folder with the project files completed in the previous stage in this branch.
 3. Continue working on the task in the branch you've created.
 4. Check the compliance of your work with the [Functional Requirements](#functional-requirements).
@@ -82,7 +82,7 @@ console.log('1. First criteria's name: +5\n2.Second criteria's name: +10')
 
 **Maximum score for the task: 90 points**
 
-Scores for requirement points are specified in [Layout Requirements](#layout-requirements) section
+Scores for requirement points are specified in [Functional Requirements](#functional-requirements) section
 
 All disputed issues are resolved in favor of the student being assessed.
 
@@ -102,4 +102,4 @@ To make the assessment of your work easier, print self-assessment of your projec
 - Make sure that the deployed link you provide opens in incognito mode of the browser
 
 ## Task Evaluation
-- Instructions for conducting a cross-check: https://docs.rs.school/#/cross-check-flow
+- Instructions for conducting a cross-check: https://docs.rs.school/#/en/cross-check-flow
