@@ -138,6 +138,8 @@
   - Test: "DOM API (EN)"
   - Submit [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
   - Submit [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
+  - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
+  - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
 
 ### Week #10
 
@@ -146,8 +148,10 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Review students tasks [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
-  - Task [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
   - Test: "DOM Events (EN)"
+  - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
+  - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
+  - [Hangman](tasks/hangman/hangman.md)
 
 ### Week #11
 
@@ -155,9 +159,9 @@
 - [Forms & Validation](modules/forms-validation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Task [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
-  - Submit task for cross-check [Virtual keyboard](tasks/virtual-keyboard/virtual-keyboard-en.md)
-  - [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - Submit [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
+  - Submit [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
+  - [Hangman](tasks/hangman/hangman.md)
 
 
 ### Week #12
@@ -166,17 +170,15 @@
 - [Clean Code](modules/clean-code/README.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
-  - [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+  - Submit [Hangman](tasks/hangman/hangman.md)
 
 ### Week #13
 
 #### <i>February 5, 2024</i>
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Task:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
-  - Submit task for cross-check:[Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
-  - [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
   - Pass interview with mentor
 
 
@@ -185,7 +187,7 @@
 
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Submit [JS-101](https://github.com/Luffi2539/core-js-101/)
+  - Submit [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
   - Pass interview with mentor
 
 
