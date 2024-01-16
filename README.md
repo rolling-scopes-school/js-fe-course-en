@@ -171,7 +171,7 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
-  - Submit [Hangman](tasks/hangman/hangman.md)
+  - Submit for cross-check [Hangman](tasks/hangman/hangman.md)
 
 ### Week #13
 
@@ -179,6 +179,7 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+  - Cross-check of [Hangman](tasks/hangman/hangman.md)
   - Pass interview with mentor
 
 
