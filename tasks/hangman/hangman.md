@@ -56,7 +56,7 @@ At the [following link](https://www.figma.com/file/ug2NAUiXPpaFDvch5TWUxd/Hangma
 - The design must be **adaptive (or responsive)**, that includes desktop(1440px <= width), tablet(768px <= width < 1440px) and mobile(360px <= width < 768px). When switching between versions everything must be displayed correctly, all functionality must be present, no content must disappear or be left beyond the screen.
 - Initially, `body` in the `index.html` file **must be empty**, all necessary elements are generated using JS.
 - Both at the beginning and in the end of the game, the question-answer pair must be **chosen randomly** _(it's recommended to have at least 10 question-answer pairs)_.
-- The application can be done **in English or in Russian**.
+- The application can be done **in English**.
 
 ## Repository requirements
 
