@@ -168,9 +168,10 @@
 
 #### <i>January 29, 2024</i>
 - [Clean Code](modules/clean-code/README.md)
+- [Linters, formatters, Husky](modules/linters-formatters-husky)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+  - [Clean Code](modules/clean-code/clean-code.md)
   - Submit for cross-check [Hangman](tasks/hangman/hangman.md)
 
 ### Week #13
@@ -178,7 +179,7 @@
 #### <i>February 5, 2024</i>
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+  - [Clean Code](modules/clean-code/clean-code.md)
   - Cross-check of [Hangman](tasks/hangman/hangman.md)
   - Pass interview with mentor
 
@@ -188,7 +189,7 @@
 
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  - Submit [Clean Code S1E1](tasks/clean-code/clean-code-S1E1.md)
+  - Submit [Clean Code](modules/clean-code/clean-code.md)
   - Pass interview with mentor
 
 
