@@ -212,15 +212,30 @@
 
 ### Week #16
 #### <i>February 26, 2024</i>
+- [Inheritance](modules/js-classes-prototypes/)
+- [Error Handling](modules/js-error-handling/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assigments</i>
 
 ### Week #17
 #### <i>March 4, 2024</i>
+- [HTTP](modules/http/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assigments</i>
+
 
 ### Week #18
 #### <i>March 11, 2024</i>
+- [Async](modules/js-async/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assigments</i>
 
 ### Week #19
 #### <i>March 18, 2024</i>
+- [Generators, advanced iteration](modules/js-generators-iterators/)
+- [Modules](modules/js-modules/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assigments</i>
 
 ### Week #20
 #### <i>March 25, 2024</i>
