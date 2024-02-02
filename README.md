@@ -225,21 +225,53 @@
 ### Week #20
 #### <i>March 25, 2024</i>
 
+- [Webpack](modules/webpack/)
+- [Node Package Manager (NPM)](modules/npm/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - ### HERE should be test related to webpack
+  - Test "NPM basics (EN)"
+
 ### Week #21
 #### <i>April 1, 2024</i>
+- [Design Patterns](modules/design-patterns/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Task [JS101](tasks/core-js-101/)
+  - Test "Software Design Patterns (EN)"
 
 ### Week #22
 #### <i>April 8, 2024</i>
+- [Software Design Principles](modules/design-principles/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Proceed task [JS101](tasks/core-js-101/)
+  - Test "Software design principles (EN)"
 
 ### Week #23
 #### <i>April 15, 2024</i>
+- [Testing](modules/testing/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Proceed task [JS101](tasks/core-js-101/)
+  - Test "Testing Quiz (EN)"
 
 ### Week #24
 #### <i>April 22, 2024</i>
+- [TypeScript](modules/typescript/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Proceed task [JS101](tasks/core-js-101/)
+  - Test "TypeScript Test (EN)"
 
 ### Week #25 - Week 32
 #### <i>April 29, 2024 - June 24, 2024</i> 
-
+- Node js basics
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Preparing for the final interview with mentors
+  - Complete task [JS101](tasks/core-js-101/)
+  
 </details>
 
 #### Interview with mentors ( <i>July,1 2024 - July, 22 2024</i> )
