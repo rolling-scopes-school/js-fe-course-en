@@ -181,7 +181,6 @@
 - <i>Week assignments</i>
   - [Clean Code](modules/clean-code/clean-code.md)
   - Cross-check of [Hangman](tasks/hangman/hangman.md)
-  - Pass interview with mentor
 
 
 ### Week #14
