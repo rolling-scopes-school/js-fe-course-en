@@ -177,6 +177,7 @@
 ### Week #13
 
 #### <i>February 5, 2024</i>
+- [Preparation for Technical screening](tasks/technical-screening/README.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - [Clean Code](modules/clean-code/clean-code.md)
@@ -204,7 +205,7 @@
 
 </details>
 
-## Interview with mentors ( February 5, 2023 - February 25, 2024 )
+## Interview with mentors ( February 14, 2023 - February 25, 2024 )
 
 <details>
 <summary>Stage 2</summary>

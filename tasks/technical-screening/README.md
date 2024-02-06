@@ -29,29 +29,35 @@ If a student does not have an Interviewer, he is not invited to an interview and
 
 **Redistribution**. At the administration’s discretion, a redistribution would take place. Students from the wait-list will participate in it.
 
-## Interview topics:
-- OOP basics.
-- Basic data structures (array, linked list, stack, queue, tree, hash table, etc).
-- Being able to solve easy JavaScript tasks. [Examples](https://www.codewars.com/kata/search/javascript?q=&r[]=-7&tags=Algorithms&beta=false).
-- Basic searching and sorting algorithms.
-- Binary number.
-- HTML/CSS basics:
-    - Display attributes' values.
-    - Weight of selectors.
-    - Pseudo-classes, pseudo-elements.
-    - Box model.
-    - em vs rem.
-    - Positioning: document flow, position attributes' values, overflow, z-index.
-    - Flexbox.
-    - Grid.
-- JS basics:
-    - Data types.
-    - Variables.
-    - Type conversions.
-    - Basic operators.
-    - Comparisons.
-    - Loops.
-    - if, if else, switch.
+## Interview Topics 
+
+- Basics of OOP.
+- Basic data structures and their organization (array, list, stack, queue, tree, hash table, etc.).
+- Ability to implement a fairly simple algorithm in JavaScript. [Example tasks](https://www.codewars.com/kata/search/javascript?q=&r[]=-7&tags=Algorithms&beta=false)
+- Basic sorting and searching algorithms.
+- Binary number system.
+- **Several questions on tasks solved in stage#1**
+- Basics of HTML/CSS:
+  - Display attribute values
+  - Selector weights
+  - Pseudo-classes and pseudo-elements
+  - Box model
+  - em vs rem, relative and absolute values
+  - Positioning: document flow, position property, overflow, and z-index
+  - Flexbox
+  - Grid
+  - ...
+- Basics of JS:
+  - Data types
+  - Variables
+  - Number methods
+  - String methods & String templates
+  - Ternary, Nullish Coalescing, Optional Chaining, and Logical Operators – Syntax and Use Cases
+  - Switch case - examples where it can be useful
+  - Loops - for, while, do while
+  - Be able to discover cases of implicit data types conversion into boolean, string, number
+  - Type conversions
+  - Strict comparison
 
 
 ## What should a student do in case of an unsuccessful interview
