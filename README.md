@@ -181,7 +181,7 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - [Clean Code](modules/clean-code/clean-code.md)
-  - Cross-check of [Hangman](tasks/hangman/hangman.md)
+
 
 
 ### Week #14
