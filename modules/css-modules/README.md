@@ -1,23 +1,28 @@
-# CSS Modules And Some CSS New Features
+### Module description
+**CSS Modules** are an essential tool for a front-end developer as they provide several advantages:
 
-## In this module, students need to:
+1. **Scoped Styles**: With CSS modules, each style is scoped locally by default, which eliminates the risk of global scope and
+name clashes. It can be a powerful way to include styles without worrying about interference between components.
 
-Know and understand:
+2. **Modularity**: CSS modules promote a modular approach to styling, allowing developers to use and manage styles on a 
+component-by-component basis. This makes maintaining the codebase easier, especially for large applications.
 
-- CSS Modules Approach
-- Container Queries
-- Style Queries
-- CSS Nesting
-- New Viewport Units
-- Selector :has()
-- nth-of Syntax
-- Popover
-- Anchor Positioning
-- CSS color-mix()
-- Trigonometric Functions In CSS
+3. **Easy Migrations**: CSS modules can be incrementally adopted, which makes migrations easier. You can start using them 
+in single components, see the benefits, and then gradually roll them out across your project.
 
-## Theory
+4. **Code Reusability**: Component-specific styles encourage code reusability. With CSS modules, you can write a set of 
+CSS once and reuse it in different components without clashes.
 
+5. **Compatibility**: CSS modules are supported by many popular JavaScript frameworks and libraries including React, 
+Vue and Angular.
+
+6. **Team Collaboration**: They help prevent naming collisions and other tricky bugs that can occur in larger teams or 
+codebases.
+
+Learning CSS Modules will give you a different, component-based perspective of working with styles, and can improve 
+your front-end code organization, maintainability and reusability.
+
+### Education materials
 1. [CSS Modules](https://github.com/css-modules/css-modules) 
 2. [CSS Modules Article](https://glenmaddern.com/articles/css-modules)
 3. [Container Queries](https://drafts.csswg.org/css-contain-3/#container-queries)
