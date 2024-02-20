@@ -29,4 +29,4 @@ a crucial role in making the web accessible for everyone.
 ### Education materials
 - [Introduction to the Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
 - [Read about accessibility](https://web.dev/articles/accessibility)
-- 
+

@@ -205,8 +205,6 @@
   - [Basic JS](https://github.com/AlreadyBored/basic-js)
   - Pass interview with mentor
 
-
-
 </details>
 
 ## Interview with mentors ( February 14, 2023 - February 25, 2024 )
@@ -218,34 +216,36 @@
 #### <i>February 26, 2024</i>
 - [Inheritance](modules/js-classes-prototypes/)
 - [Error Handling](modules/js-error-handling/)
+- [Client-Server Interaction Overview](modules/client-server/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assigments</i>
+- <i>Week assignments</i>
   - Submit [Data structure](https://github.com/AlreadyBored/basic-js-ds)
   - Submit [Basic JS](https://github.com/AlreadyBored/basic-js)
 
 ### Week #17
 #### <i>March 4, 2024</i>
-- [HTTP](modules/http/)
+- [TypeScript Basic](modules/typescript-basic/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assigments</i>
+- <i>Week assignments</i>
+  - [TypeScript Essential](tasks/TypeScriptEssentials/)
 
 
 ### Week #18
 #### <i>March 11, 2024</i>
+- [HTTP](modules/http/)
 - [Async](modules/js-async/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assigments</i>
+- <i>Week assignments</i>
 
 ### Week #19
 #### <i>March 18, 2024</i>
 - [Generators, advanced iteration](modules/js-generators-iterators/)
 - [Modules](modules/js-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assigments</i>
+- <i>Week assignments</i>
 
 ### Week #20
 #### <i>March 25, 2024</i>
-
 - [Webpack](modules/webpack/)
 - [Node Package Manager (NPM)](modules/npm/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -275,7 +275,6 @@
 
 ### Week #24
 #### <i>April 22, 2024</i>
-- [TypeScript](modules/typescript/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   
