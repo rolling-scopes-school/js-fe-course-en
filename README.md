@@ -228,21 +228,28 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - [TypeScript Essential](tasks/TypeScriptEssentials/)
+  - [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
+  - [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
 
 
 ### Week #18
 #### <i>March 11, 2024</i>
-- [HTTP](modules/http/)
-- [Async](modules/js-async/)
+- [Typescript: Advanced](modules/typescript-advanced/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - [News API](tasks/news-api/)
+  - submit [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+  - Submit for cross-check [TypeScript Essentials](tasks/TypeScriptEssentials/)
+  - submit [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
 
 ### Week #19
 #### <i>March 18, 2024</i>
+- [Async](modules/js-async/)
 - [Generators, advanced iteration](modules/js-generators-iterators/)
 - [Modules](modules/js-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - Submit for **mentor's** review [News API](tasks/news-api/)
 
 ### Week #20
 #### <i>March 25, 2024</i>
