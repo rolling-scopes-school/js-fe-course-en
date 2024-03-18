@@ -244,19 +244,23 @@
 
 ### Week #19
 #### <i>March 18, 2024</i>
-- [Async](modules/js-async/)
-- [Generators, advanced iteration](modules/js-generators-iterators/)
+- [Code review](modules/code-review/)
+- [SPA](modules/single-page-application/)
 - [Modules](modules/js-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Submit for **mentor's** review [News API](tasks/news-api/)
+  - [Code review](tasks/code-review/)
+  - [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
 
 ### Week #20
 #### <i>March 25, 2024</i>
-- [Webpack](modules/webpack/)
-- [Node Package Manager (NPM)](modules/npm/)
+- [Bundlers](modules/bundlers/)
+- [Web storages](modules/web-storage/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - Submit for **mentor's** review [Code review](tasks/code-review/)
+  - submit [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
   
 
 ### Week #21
