@@ -377,12 +377,21 @@ Start each selector or rule on a new line.
 
 ```css
 /* Not recommended */
+a:focus, a:active {
+  position: relative; top: 1px;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  line-height: 3.2;
+}
+
+/* Recommended */
 a:focus,
 a:active {
   position: relative; top: 1px;
 }
 
-/* Recommended */
 h1,
 h2,
 h3 {
