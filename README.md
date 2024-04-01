@@ -265,29 +265,39 @@
 
 ### Week #21
 #### <i>April 1, 2024</i>
-- [Design Patterns](modules/design-patterns/)
+- [Asynchronous programming](modules/async/)
+- [RESTful API](modules/restful-api/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - [Async race](tasks/async-race/)
+  - [core-js-promises](https://github.com/rolling-scopes-school/core-js-promises)
  
 
 ### Week #22
 #### <i>April 8, 2024</i>
-- [Software Design Principles](modules/design-principles/)
+- [Web security](modules/web-security/)
+- [Event loop, animation](modules/eventloop-animation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - [Async race](tasks/async-race/)
+  - submit [core-js-promises](https://github.com/rolling-scopes-school/core-js-promises)
   
 
 ### Week #23
 #### <i>April 15, 2024</i>
-- [Testing](modules/testing/)
+- [Functional programming](modules/fp-basics/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
-  
+  - Submit for **mentor's** review [Async race](tasks/async-race/)
+  - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
+
+
 
 ### Week #24
 #### <i>April 22, 2024</i>
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
+  - submit [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
   
 
 ### Week #25 - Week 32
