@@ -12,7 +12,7 @@ operate their engines, and show race statistics.
 
 Previously, development of this application had been started by a Belarusian developer named Dzmitry (and was almost finished). 
 However, his laptop :computer: was stolen by bad guys. Unfortunately, we don't have any sources of UI :disappointed:. 
-Fortunately, he had recorded some [demo](https://youtu.be/sTXtlBLh-Ts) (RU) beforehand. Additionally, he had stored the
+Fortunately, he had recorded some [demo](https://youtu.be/sTXtlBLh-Ts) (RU) and [demo](https://youtu.be/ifNDaaqZOWA) (EN) beforehand. Additionally, he had stored the
 server mock in his [repo](https://github.com/mikhama/async-race-api).
 
 We found in the latest news that a new company called "The Fast and the Furious" announced the release of a new product 
@@ -77,6 +77,7 @@ What are you waiting for? Let's start coding!
 
 - [Server Mock Repo](https://github.com/mikhama/async-race-api)
 - [Demo Video](https://youtu.be/sTXtlBLh-Ts) (RU)
+- [Demo Video](https://youtu.be/ifNDaaqZOWA) (EN)
 - [Color Palette Tool](https://www.colorspire.com/rgb-color-wheel/)
 - [SPA Wikipedia](https://en.wikipedia.org/wiki/Single-page_application)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
