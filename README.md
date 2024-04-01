@@ -1,261 +1,304 @@
-# RS School. JS/Frontend development course.
+# 🎓 RS School. JS/Frontend Development Course. 
 
-## Course roadmap
+## 🚀 Overview
+
+- 📣 **Open to all who wish to join**
+- 📅 **Study time:** 15 weeks
+- 📚 **Format:** self-study + webinars + Discord communication + assignments (cross-checks/auto-checks)
+
+### 📝 Topics Covered:
+
+1. Introduction of students to The Rolling Scopes and RS School.
+2. Git, GitHub, commit and pull request formatting.
+3. Adaptive layout markup.
+4. Core JS.
+5. Algorithmic tasks.
+6. DOM, DOM Events, Browser API.
+7. Virtual keyboard project.
+8. Clean Code project.
+9. Preparation for HTML/CSS/JS/Algorithms interviews.
+
+## Training Program
 
 <details>
-<summary>Stage 1</summary>
+<summary>Stage #1</summary>
 
 ### Week #1
 
-( 22.03.2022 - 28.03.2022 )
+#### <i>November 6, 2023</i>
 
 - [RS School introduction](modules/rs-school-intro/)
-  - Test: "RS app intro"
-- [JS/FE developer](modules/js-fe-developer/)
-- [IDE](modules/ide/)
+- [Introduction to the profession of JS/Front-end developer](modules/js-fe-developer/)
+- [Fundamentals of Chrome Dev Tools, VS Code and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Test "RSS Test" 
+  - Test "Fundamentals of the Internet"
+
 
 ### Week #2
 
-( 29.03.2022 - 04.04.2022 )
+#### <i>November 13, 2023</i>
 
+- [Introduction to the Git version control system and the GitHub web service](modules/git/)
+- [Introduction to the Markdown](modules/markdown/)
 - [HTML basics](modules/html-basics/)
-  - Test: "HTML Basics (EN)"
-- [Git](modules/git/)
-  - Test: "Git Quiz"
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Test "Test HTML Basics"
+  - Test "Git test"
+  - Task [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+  - Submit task for cross-check [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
 
 ### Week #3
 
-( 05.04.2022 - 11.04.2022 )
+#### <i>November 20, 2023</i>
 
 - [CSS Basics](modules/css-basics/)
-  - Test: "CSS Basics (EN)"
-- [Markdown](modules/markdown/)
-  - Task: [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+- [Figma](modules/figma/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+  - Task [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
+  - Submit task for cross-check [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
+  - Test "Test CSS Basics"
 
 ### Week #4
 
-( 12.04.2022 - 18.04.2022 )
-
-- Task: [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
-- [JS Basics. Part 1](modules/js-basics-1/)
-  - Test: "JS-basics. Part 1 (EN)"
+#### <i>November 27, 2023</i>
+- [CSS Flex](modules/css-flex/)
+- [CSS Grid](modules/css-grid/)
+- [DevTools](modules/devtools/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
+  - Task [Coffee House (part 1)](<tasks/coffee-house/coffee-house-week1.md>)
+  - Test "CSS Positioning & Flexbox"
+  - Test "CSS Grid"
 
 ### Week #5
 
-( 19.04.2022 - 25.04.2022 )
-
-- Cross-check.[CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(cross-check).md>)
-- [Figma](modules/figma/)
-- [JS Basics. Part 2](modules/js-basics-2/)
-  - Test: "JS-basics. Part 2 (EN)"
-- [DevTools](modules/devtools/)
+#### <i>December 4, 2023</i>
+- [Media Queries & Responsive Design](modules/media-query/)
+- [CSS Preprocessors. Sass](modules/sass/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Task [Coffee House (part 1)](<tasks/coffee-house/coffee-house-week1.md>)
+  - Submit task for cross-check [Coffee House (part 1)](<tasks/coffee-house/coffee-house-week1.md>)
+  - Test "Media Queries & Responsive (EN)"
 
 ### Week #6
 
-( 26.04.2022 - 02.05.2022 )
+#### <i>December 11, 2023</i>
 
-- Task: [Shelter.Week_1](tasks/shelter/README.md)
-- [JS Basics. Part 3](modules/js-basics-3/)
-  - Test: "JS-basics. Part 3 (EN)"
-  - Task: [Codewars: Strings, Numbers](tasks/codewars/codewars.strings.numbers.md)
+- [JS Basics. Part 1](modules/js-basics-1/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
+  - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+  - Test "JS Types"
 
 ### Week #7
 
-( 03.05.2022 - 09.05.2022 )
+#### <i>December 18, 2023</i>
 
-- Task: [Shelter.Week_2](tasks/shelter/README.md)
-- Cross-check: [Shelter.Week_1](tasks/shelter/README.md)
-- [JS Arrays](modules/js-arrays/)
-  - Test: "JS Array. Basics"
-- [JS Objects](modules/js-objects/)
-  - Test: "JS Object. Basics"
-  - Task: [Codewars: Array, Object](tasks/codewars/codewars.arrays.objects.md)
+- [JS Basics. Part 2](modules/js-basics-2/)
+- [JS Basics. Part 3](modules/js-basics-3/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+  - Submit task for cross-check [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+  - [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
+  - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
 
 ### Week #8
 
-( 10.05.2022 - 16.05.2022 )
+#### <i>December 25, 2023</i>
 
-- Task: [BookShop.Week_1](tasks/books-shop/books-shop.md)
-- Cross-check: [Shelter.Week_2](tasks/shelter/README.md)
-- [DOM API](modules/dom-api/)
-  - Test: "DOM API (EN)"
+- [JS Arrays](modules/js-arrays/)
+- [JS Objects](modules/js-objects/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+  - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
+  - Test "JS Basics"
+  - [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
+  - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
+
+### Holiday weeks !!! 
 
 ### Week #9
 
-( 17.05.2022 - 23.05.2022 )
-
-- Task: [BookShop.Week_2](tasks/books-shop/books-shop.md)
-- [DOM Events](modules/dom-events/)
-  - Test: "DOM Events (EN)"
-- [Forms & Validation](modules/forms-validation/)
+#### <i>January 8, 2024</i>
+- [DOM API](modules/dom-api/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
+  - Submit task for cross-check [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
+  - Test: "DOM API (EN)"
+  - Submit [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
+  - Submit [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
+  - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
+  - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
 
 ### Week #10
 
-( 24.05.2022 - 30.05.2022 )
-
-- Cross-check.[BookShop.Week_2](tasks/books-shop/books-shop.md)
-- [CSS Flex](modules/css-flex/)
-  - Test: "Responsive & Flexbox (EN)"
-- Task: "Shelter.Week_3"
+#### <i>January 15, 2024</i>
+- [DOM Events](modules/dom-events/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Review students tasks [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
+  - Test: "DOM Events (EN)"
+  - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
+  - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
+  - [Hangman](tasks/hangman/hangman.md)
 
 ### Week #11
 
-( 31.05.2022 - 06.06.2022 )
-
-- [CSS Grid](modules/css-grid/)
-  - Test: "CSS Grid (EN)"
-- Task: "Shelter.Week_4"
+#### <i>January 22, 2024</i>
+- [Forms & Validation](modules/forms-validation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
+  - Submit [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
+  - [Hangman](tasks/hangman/hangman.md)
+
+
+### Week #12
+
+#### <i>January 29, 2024</i>
+- [Clean Code](modules/clean-code/README.md)
+- [Linters, formatters, Husky](modules/linters-formatters-husky)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - [Clean Code](modules/clean-code/clean-code.md)
+  - Submit for cross-check [Hangman](tasks/hangman/hangman.md)
+
+### Week #13
+
+#### <i>February 5, 2024</i>
+- [Preparation for Technical screening](tasks/technical-screening/README.md)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - [Clean Code](modules/clean-code/clean-code.md)
+
+
+
+### Week #14
+#### <i>February 12, 2024</i>
+- [Accessibility](modules/accessibility/README.md)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit [Clean Code](modules/clean-code/clean-code.md)
+  - [Data structure](https://github.com/AlreadyBored/basic-js-ds)
+  - [Basic JS](https://github.com/AlreadyBored/basic-js)
+  - Pass interview with mentor
+
+
+
+### Week #15
+#### <i>February 19, 2024</i>
+- [CSS Modules And Some CSS New Features](modules/css-modules/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - [Data structure](https://github.com/AlreadyBored/basic-js-ds)
+  - [Basic JS](https://github.com/AlreadyBored/basic-js)
+  - Pass interview with mentor
 
 </details>
 
-#### Interview with mentors ( 31.05.2022 - 13.06.2022 )
+## Interview with mentors ( February 14, 2023 - February 25, 2024 )
 
 <details>
 <summary>Stage 2</summary>
 
-### Week #12
-
-( 07.06.2022 - 13.06.2022 )
-
-- Cross-check.Shelter
-- [JS Classes & Prototypes](modules/js-classes-prototypes/)
-  - Test: "Inheritance (EN)"
-  - Task: [Inheritance](tasks/classes-inheritance/classes-inheritance.md)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
-### Week #13
-
-( 14.06.2022 - 20.06.2022 )
-
-- [HTTP/HTTPS](modules/http/)
-- [WebSocket](modules/websocket/)
-- [RESTful API](modules/rest/)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
-### Week #14
-
-( 21.06.2022 - 27.06.2022 )
-
-- [JS Async Programming](modules/js-async/)
-  - Test: ""
-  - Task: [English for kids](tasks/english-for-kids/english-for-kids.md)
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
-### Week #15
-
-( 28.06.2022 - 04.07.2022 )
-
-- Continue task: [English for kids](tasks/english-for-kids/english-for-kids.md)
-- [JS Modules](modules/js-modules/)
-  - Test: ""
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-
 ### Week #16
-
-( 05.07.2022 - 11.07.2022 )
-
-- Complete task: [English for kids](tasks/english-for-kids/english-for-kids.md)
-- [NPM](modules/npm/)
-  - Test: ""
-- [Webpack](modules/webpack/)
-  - Test: ""
+#### <i>February 26, 2024</i>
+- [Inheritance](modules/js-classes-prototypes/)
+- [Error Handling](modules/js-error-handling/)
+- [Client-Server Interaction Overview](modules/client-server/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit [Data structure](https://github.com/AlreadyBored/basic-js-ds)
+  - Submit [Basic JS](https://github.com/AlreadyBored/basic-js)
 
 ### Week #17
-
-( 12.07.2022 - 18.07.2022 )
-
-- Task: [Core JS 101](tasks/core-js-101/core-js-101.md)
-- [Browser API](modules/browser-api/)
-  - Test: ""
+#### <i>March 4, 2024</i>
+- [TypeScript Basic](modules/typescript-basic/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - [TypeScript Essential](tasks/TypeScriptEssentials/)
+  - [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
+  - [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+
 
 ### Week #18
-
-( 19.07.2022 - 25.07.2022 )
-
-- Complete task: [Core JS 101](tasks/core-js-101/core-js-101.md)
-- [Design Patterns](modules/design-patterns/)
-  - Test: ""
-- [Software Design Principles](modules/design-principles/)
-  - Test: ""
+#### <i>March 11, 2024</i>
+- [Typescript: Advanced](modules/typescript-advanced/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - [News API](tasks/news-api/)
+  - submit [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+  - Submit for cross-check [TypeScript Essentials](tasks/TypeScriptEssentials/)
+  - submit [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
 
 ### Week #19
-
-( 26.07.2022 - 01.08.2022 )
-
-- [TypeScript](modules/typescript/)
-  - Test: ""
-  - Task: [TypeScript](tasks/typescript/typescript.md)
+#### <i>March 18, 2024</i>
+- [Code review](modules/code-review/)
+- [SPA](modules/single-page-application/)
+- [Modules](modules/js-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit for **mentor's** review [News API](tasks/news-api/)
+  - [Code review](tasks/code-review/)
+  - [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
 
 ### Week #20
-
-( 02.08.2022 - 08.08.2022 )
-
-- [Testing](modules/testing/)
-  - Test: ""
-  - Task: [Unit tests](tasks/unit-tests/unit-tests.md)
-- [Software Development Lifecycle](modules/sdlc/)
+#### <i>March 25, 2024</i>
+- [Bundlers](modules/bundlers/)
+- [Web storages](modules/web-storage/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Submit for **mentor's** review [Code review](tasks/code-review/)
+  - submit [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
+  
 
 ### Week #21
-
-( 09.08.2022 - 15.08.2022 )
-
-- [Preparing to interview](modules/interview-core-js/interview.md)
-
-</details>
-
-#### Interview with mentors ( 02.08.2022 - 22.08.2022 )
-
-<details>
-<summary>Stage 3 ( Angular )</summary>
+#### <i>April 1, 2024</i>
+- [Design Patterns](modules/design-patterns/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+ 
 
 ### Week #22
-
-( 16.08.2022 - 22.08.2022 )
+#### <i>April 8, 2024</i>
+- [Software Design Principles](modules/design-principles/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  
 
 ### Week #23
-
-( 23.08.2022 - 29.08.2022 )
+#### <i>April 15, 2024</i>
+- [Testing](modules/testing/)
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  
 
 ### Week #24
+#### <i>April 22, 2024</i>
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  
 
-( 30.08.2022 - 05.09.2022 )
+### Week #25 - Week 32
+#### <i>April 29, 2024 - June 24, 2024</i> 
+- Node js basics
+- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+- <i>Week assignments</i>
+  - Preparing for the final interview with mentors
 
-### Week #25
-
-( 06.09.2022 - 12.09.2022 )
-
-### Week #26
-
-( 13.09.2022 - 19.09.2022 )
-
-### Week #27
-
-( 20.09.2022 - 26.09.2022 )
-
-### Week #28
-
-( 27.09.2022 - 03.10.2022 )
-
-### Week #30
-
-( 04.10.2022 - 10.10.2022 )
-
+  
 </details>
 
-#### Exit Interview ( 15.09.2022 - 15.10.2022 )
+#### Interview with mentors ( <i>July,1 2024 - July, 22 2024</i> )
+

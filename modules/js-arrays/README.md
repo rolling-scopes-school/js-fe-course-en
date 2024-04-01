@@ -1,5 +1,26 @@
 ### Module description
-The prime focus of this module are useful methods of the array data structure that are available on the prototype of Javascript Array. Given the nature of data that a typical Javascript developer works with, these methods help retrieve or shape the data into a suitable form. The module is very practical and serves as an introduction into a Functional Programming paradigm in Javascript.
+**Arrays** are one of the fundamental data structures in programming, and JavaScript is no exception. As a front-end 
+developer, understanding and being proficient with arrays is crucial for several reasons:
+
+1. **Manipulating Data**: Arrays are used to store and manage lists of data, such as a list of posts on a blog or a list of 
+items in a shopping cart. Manipulating these arrays (adding, removing, or modifying items) is a common task in front-end
+programming.
+
+2. **Iterating Over Data**: Front-end developers often need to loop through lists of data. For example, when rendering a list 
+of items on a page, you might need to iterate over an array and create a DOM element for each item.
+
+3. **Working with APIs**: When fetching data from an API, it is common to receive the data as an array. Front-end developers 
+need to know how to work with this data structure to effectively use APIs.
+
+4. **Array Methods**: JavaScript provides a large number of built-in methods for working with arrays, such as map(), filter(), 
+reduce(), every(), some(), sort(), and many more. Understanding these methods can greatly simplify your code and reduce
+the potential for bugs.
+
+5. **Performance**: If a front-end developer knows how to work with arrays effectively, they can increase the performance of 
+their websites or applications, as arrays are faster and more efficient than other data structures in many scenarios.
+
+In summary, arrays are a crucial part of JavaScript, and knowing how to work with them can greatly influence how 
+effectively and efficiently a front-end developer can create dynamic, interactive websites.
 
 ### Education materials
 * [Arrays](https://javascript.info/array)
@@ -8,13 +29,4 @@ The prime focus of this module are useful methods of the array data structure th
 * [Map and Set](https://javascript.info/map-set)
 * [WeakMap and WeakSet](https://javascript.info/weakmap-weakset)
 
-### Test
-At the end of this module you should pass the **"JS Array. Basic"**
-
-#### Preconditions for test:
-* Tests submitted in RS School App could be solved after authorization in the application.
-* The minimum passing score is **90%** of the maximum possible number of points.
-* You can take the test **3 times**, the last result is counted.
-* You can try the test even more times, but the score for the test will be reduced by half (from the original score).
-* The result of passing the test will be displayed immediately, it will be added to the score page next day after passing.
 

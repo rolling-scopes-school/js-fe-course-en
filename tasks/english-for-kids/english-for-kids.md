@@ -160,7 +160,7 @@ Example:
 - [ ] source code requirements are not met: -10 points or more (evaluated by mentors only)
 
 ## Resources
-- [Folder with data](./english-for.kids.data)  for six categories of words (American pronunciation is used). For the other two missing categories, you should collect the data independently using Internet resources
+- [Folder with data](./data)  for six categories of words (American pronunciation is used). For the other two missing categories, you should collect the data independently using Internet resources
 - [Bootstrap themes](https://bootswatch.com/)
 - [Localstorage](https://learn.javascript.info/localstorage)
 

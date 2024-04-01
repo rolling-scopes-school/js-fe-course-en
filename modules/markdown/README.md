@@ -1,23 +1,20 @@
-### Module description
-This module you will get knowledge about markdown, what is it and how to create pages using markdown. Also, you will implement your own CV applying knowledge on markdown.
+# Introduction to the Markdown
 
-### Education materials
-* [Overview of Markdown](https://www.markdownguide.org/getting-started/)
-* [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+**Markdown** is a lightweight markup language with simple and intuitive syntax, designed to be easier to
+write and read compared to languages like HTML. It was created by _John Gruber_ and Aaron Swartz in _2004_ with the goal 
+of allowing people to create formatted text using plain text editors.
 
-### Task [CV.Markdown](../../tasks/CV(markdown)/CV(markdown).md)
+In **Markdown**, you can apply formatting, such as headings, bold, italics, links, lists, and more, using just regular
+text characters like asterisks, underscores, and brackets. When you write in Markdown, you can easily read and write
+the text even without the actual formatting, ensuring the content remains human-readable and easy to maintain.
 
-### Examples
-* [Hanna Voloshyna](https://annavoloshina.github.io/rsschool-cv/cv)
-* [Elvin Yekayev](https://elvinyeka.github.io/rsschool-cv/cv)
-* [Artur Markasian](https://mrks77.github.io/rsschool-cv/cv)
 
-### How to submit the task
-* After completing implementation of the task
-  * go to the [rs app](https://app.rs.school/)
-  * select Auto-Test
-  * select the name of the task in the drop-down list
-  * click the Submit button
-* The test's result will be displayed on the right
-* Till the deadline, you may submit the task as many times as you want, each submission result overwrites the previous one.
+## Theory
+1. [Markdown Tutorial](https://www.markdowntutorial.com/)
+2. [Mastering Markdown - GitHub Guides](https://guides.github.com/features/mastering-markdown/) - you can start with basics and syntax and dive in other concepts when practice
 
+
+## Optional
+1. [CommonMark Tutorial ](https://commonmark.org/help/tutorial/)
+2. [Markdown Guide](https://www.markdownguide.org/)
+3. [Learn Markdown in Y Minutes](https://learnxinyminutes.com/docs/markdown/)
