@@ -286,23 +286,27 @@
 ### Week #23
 #### <i>April 15, 2024</i>
 - [Functional programming](modules/fp-basics/)
+- [Design patterns](modules/design-patterns)
+- [Design principles](modules/design-principles)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Submit for **mentor's** review [Async race](tasks/async-race/)
+  - Submit for cross-check [Async race](tasks/async-race/)
   - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
-
 
 
 ### Week #24
 #### <i>April 22, 2024</i>
+- [Testing](modules/testing/)
+- [Websockets](modules/web-sockets/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - submit [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
+  - [Presentation](tasks/presentation/), submit for **mentor's** review
   
 
 ### Week #25 - Week 32
 #### <i>April 29, 2024 - June 24, 2024</i> 
-- Node js basics
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Preparing for the final interview with mentors
