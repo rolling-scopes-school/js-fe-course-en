@@ -303,13 +303,32 @@
 - <i>Week assignments</i>
   - submit [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
   - [Presentation](tasks/presentation/), submit for **mentor's** review
+  - [Final task preparation](tasks/final-task/)
   
 
-### Week #25 - Week 32
-#### <i>April 29, 2024 - June 24, 2024</i> 
-- [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
+### Week #25 (Sprint 1)
+#### <i>April 29, 2024</i>
+- [Scrum/Kanban](modules/sdlc/)
+- [CI/CD](modules/ci-cd/)
 - <i>Week assignments</i>
-  - Preparing for the final interview with mentors
+  - [Final task. Sprint 1](tasks/eCommerce-Application/Sprints/Sprint%231.md)
+
+### Week #26-27 (Sprint 2)
+#### <i>May 6, 2024</i>
+- [How browsers work](modules/how-browsers-work/)
+- <i>Week assignments</i>
+  - [Final task. Sprint 2](tasks/eCommerce-Application/Sprints/Sprint%232.md)
+
+### Week #28-29 (Sprint 3)
+#### <i>May 20, 2024</i>
+- <i>Week assignments</i>
+  - [Final task. Sprint 3](tasks/eCommerce-Application/Sprints/Sprint%233.md)
+
+
+### Week #30-31 (Sprint 4)
+#### <i>June 3, 2024</i>
+- <i>Week assignments</i>
+  - [Final task. Sprint 4](tasks/eCommerce-Application/Sprints/Sprint%234.md)
 
   
 </details>
