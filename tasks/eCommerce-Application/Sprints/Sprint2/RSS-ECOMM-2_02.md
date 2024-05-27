@@ -15,6 +15,7 @@ Display clear error messages on the login form when validation issues are detect
 #### Acceptance Criteria ✅
 
 - Clear error messages are shown next to the corresponding input field when validation fails.
+- The first error messages should be visible after an input will get out of focus ([blur](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/blur)).
 - Error messages are descriptive, explaining the specific validation issue.
 - Error messages follow the specified display rules for a consistent and user-friendly experience.
 - Error messages disappear when the user corrects the invalid input.
