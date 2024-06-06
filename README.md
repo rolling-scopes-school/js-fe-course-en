@@ -333,5 +333,5 @@
   
 </details>
 
-#### Interview with mentors ( <i>July,1 2024 - July, 22 2024</i> )
+#### Interview with mentors ( <i>June,17 2024 - June, 30 2024</i> )
 
