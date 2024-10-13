@@ -27,6 +27,12 @@ In essence, accessibility is not optional but an integral part of web developmen
 a crucial role in making the web accessible for everyone.
 
 ### Education materials
+- [Intoduction to Web Accessibility](https://youtu.be/20SHvU2PKsM?si=HtRkXwkvUzc1DUel)
 - [Introduction to the Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
 - [Read about accessibility](https://web.dev/articles/accessibility)
+- [Web Accessibility Perspectives](https://youtu.be/3f31oufqFSM?si=-WDeWujaDBAmw2YH)
+
+### Optional
+- [Web accessibility initiative](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+- [Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
 
