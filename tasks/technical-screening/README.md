@@ -95,4 +95,4 @@ Even if you already have a mentor, you need to register. Then, in case of any pr
 
 ### Question: How can a student switch to another mentor? 🔄
 
-The course does not provide the option for students to choose a mentor.
+The course does not provide an option for students to choose a mentor.
