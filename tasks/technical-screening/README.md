@@ -1,35 +1,48 @@
-## Interview with a mentor
-Technical Screening or The process of recruiting students by a mentor to their group.
-## Interview goals:
+## Technical Screening 🗣️
+
+Technical Screening or the process of a mentor recruiting students into their group.
+
+## Interview Objectives 🎯
+
 - Forming a list of students for RSSchool stage#2.
-- Forming “Mentor-students” subgroups.
+- Creating "Mentor-Students" subgroups.
+  Each mentor interviews more people than they plan to mentor (For example, +2 students).
+  After all the interviews, a mentor can dismiss a part of the group to retain the number of students they can mentor. Mentors may delay dismissal for a few weeks to make a more considered decision.
+- Checking the students' level of preparation.
+- Providing students with interview experience.
 
-Each mentor interviews more people than he planned to mentor (eg: +2 students).
-After all the interviews have been completed, the mentor may drop part of the group in order to keep the number of students that he can mentor. Mentors can postpone the exclusion for several weeks in order to make a more informed decision.
+## Attention! RS School does not pre-check 🚫
 
-- Checking the level of students' preparation.
-- Students get the experience of going through the interview.
-- 
-## Attention! RS School doesn’t check in advance:
-- Mentors’ adequacy.
-- Students’ adequacy.
+- Mentors' adequacy
+- Students' adequacy
 
-## Interview process
-Interviews take place during the last week of the stage#1 and the first week of stage#2.
-You can track up-to-date information on the interview in [app.rs.school](https://app.rs.school) in the `Interviews` section. It will contain a link to the interview’s description, the deadline, and a registration button.
+## Number of Students and Invitation Order 📝
 
-### Phases
-1. **Registration**. In order to take part in the selection for an interview, the student should press the `Register` button. If the student already has an Interview, there is no need to press the button, you should contact the interviewer.
-2. **Pairs formation**. After distribution, students will see “Interviewer” - there will be a link to his account in [app.rs.school](https://app.rs.school) with the contacts for communication. The student needs to contact the interviewer within the first week and agree on the date of the interview.
-If a student does not have an Interviewer, he is not invited to an interview and is automatically moved to the wait-list.
-3. **Interviewing**. The interview will be conducted online. The average length of an interview is ~60 minutes.
-4. **Results of the interview**. After the student has passed the interview, the `Result` column will contain information about the mentor's decision: Yes - the mentor takes the student, otherwise the student is moved to the wait-list.
+The number of students invited to interviews depends on the number of mentors who have signed up for the course.
 
-**Wait-list** - a list of students who were either not invited for an interview or were rejected by the mentor after the interview. Mentors can select students from this list.
+Students receive invitations in the following order:
 
-**Redistribution**. At the administration’s discretion, a redistribution would take place. Students from the wait-list will participate in it.
+1. On the recommendation of a mentor if the mentor is ready to mentor those students.
+2. Based on the results of the first stage of the course.
 
-## Interview Topics 
+## Interview Process 🔄
+
+Interviews take place during during the last week of the stage#1 and the first week of stage#2.
+You can track current interview information on [app.rs.school](https://app.rs.school) in the `Interviews` section. There you will find a link to the interview description, the interview deadline, and a registration button.
+
+### Stages
+
+1. **Registration** 📌. To participate in the interview selection, the student must click the `Register` button. If an Interviewer is already displayed for the student, there is no need to click the button; they should contact the interviewer.
+2. **Pairing** 👥. After the distribution, students will see their Interviewer — a link to their account on [app.rs.school](https://app.rs.school) with contact details. The student must contact the interviewer within the first week to agree on an interview date.
+   If an Interviewer is not shown to the student, they are not invited to an interview and automatically moved to the wait-list
+3. **Conducting the Interview** 💬. The interview can be conducted online. The average interview duration is ~60 minutes.
+4. **Interview Results** 📊. After a student completes the interview, the `Result` column will display the mentor's decision: Yes — the mentor takes the student; otherwise, the student is moved to the wait-list.
+
+**Wait-list** 📃 is a list of the students who were either not invited to an interview or were rejected by a mentor after the interview. Mentors can recruit additional students from this list if possible.
+
+**Redistribution** 🔁. Additional redistributions may be conducted at the administration's discretion, involving students from the wait-list.
+
+## Interview Topics 📚
 
 - Basics of OOP.
 - Basic data structures and their organization (array, list, stack, queue, tree, hash table, etc.).
@@ -59,21 +72,27 @@ If a student does not have an Interviewer, he is not invited to an interview and
   - Type conversions
   - Strict comparison
 
+## What Students Should Do if They Fail the Interview 😟
 
-## What should a student do in case of an unsuccessful interview
-The student can continue their studies sign up for the next course. Lectures, assignments and chats are in the public domain.
+Students can continue studying independently or enroll in the next batch. All the lectures, assignments, and chats are publicly accessible. The assignments will not be checked by a mentor. The grades for the tests and cross-checks will be given. Mentors may recruit students during the course if possible.
 
+## What to Do if a Student is Dissatisfied with the Mentor Interview 😕
 
-## What to do if a student is dissatisfied with an interview with a mentor
-In this case, the student needs to describe the situation and their claim [here](https://github.com/rolling-scopes-school/support/issues/51).
+In such a case, the student needs to describe the situation and their complaint [here // TBD]()
 
-## FAQ
-### Typical student problems
-1) I can’t contact the mentor because there are no contacts in his profile.
-2) There are contacts, but the mentor does not answer for more than 3 days.
-3) The mentor can no longer mentor.
-You need to leave a comment [here](https://github.com/rolling-scopes-school/support/issues/51).
-### Q: Do I need to register for an interview if I already have a mentor?
-Even if you already have a mentor, you need to register. Then, in case of any problems with the mentor, you can get on the waiting list and expect to receive a new mentor in the future.
-### Q: How can a student transfer to another mentor?
-The course does not allow students to choose a mentor.
+## FAQ ❓
+
+### Typical Student Problems
+
+1. I can't contact the mentor because their profile does not contain contact details.
+2. Contacts are there, but the mentor does not respond for more than 3 days.
+3. The mentor can no longer mentor.
+   You need to leave a comment in the issue link [here // TBD]()
+
+### Question: Do I need to register for an interview with a mentor if I already have a mentor? 🤔
+
+Even if you already have a mentor, you need to register. Then, in case of any problems with the mentor, you can be put on the waiting list and later expect to get a new mentor.
+
+### Question: How can a student switch to another mentor? 🔄
+
+The course does not provide the option for students to choose a mentor.
