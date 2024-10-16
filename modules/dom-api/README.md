@@ -25,6 +25,8 @@ of complex, responsive, and user-friendly web applications.
 ### Education materials
 
 - [Video lecture](https://www.youtube.com/watch?v=VsJuPTbt1Hc&list=PLzLiprpVuH8e1YNSEXMtjOuB1uxqQLYED&index=16)
+- [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API)
 - [Document (javascript.info)](https://javascript.info/document)
 - [HTMLElement (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
 - [Element (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/Element)
