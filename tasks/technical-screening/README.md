@@ -93,6 +93,6 @@ In such a case, the student needs to describe the situation and their complaint 
 
 Even if you already have a mentor, you need to register. Then, in case of any problems with the mentor, you can be put on the waiting list and later expect to get a new mentor.
 
-### Question: How can a student switch to another mentor? 🔄
+### Question: How can a student switch to another mentor?
 
 The course does not provide an option for students to choose a mentor.
