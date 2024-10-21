@@ -1,10 +1,4 @@
-# [Stage#1.](../../) Linters, Formatters, and Husky
-
-## Module Overview 📚
-
-This module introduces students to essential development tools: Linters, Formatters, and Husky. It's designed to provide a comprehensive understanding of how these tools enhance code quality and consistency in web development projects. The module covers the basics and practical applications of these tools, including installation and configuration.
-
-## Learning Objectives 🎯
+## Module Description
 
 - Get to know:
   - Linters
@@ -12,8 +6,6 @@ This module introduces students to essential development tools: Linters, Formatt
   - Husky
 - Explore reasons to use these tools
 - Get to know how to install and configure these tools
-
-## Brief Overview 📑
 
 **Linters**, **formatters**, and tools like **Husky** are essential for front-end developers for several reasons:
 
@@ -25,7 +17,7 @@ This module introduces students to essential development tools: Linters, Formatt
 
 In conclusion, these tools help in maintaining code quality, consistency, and enforcing rules, which is necessary for efficiency, collaboration, and preventing errors in large codebases. They also automate some tasks, which allows developers to focus on writing code.
 
-## Theory 📖
+## Educational Materials
 
 1. Watch [the video about linters](https://www.youtube.com/watch?v=HDQXWr5TOnI)
 2. Read [the article about linters](https://www.testim.io/blog/what-is-a-linter-heres-a-definition-and-quick-start-guide/)
@@ -34,9 +26,8 @@ In conclusion, these tools help in maintaining code quality, consistency, and en
 5. Watch [the video-tutorial how to work with ESLint and Prettier in VSCode](https://www.youtube.com/watch?v=St1YSNoB36Y)
 6. Read [docs about ESLint rules](https://eslint.org/docs/latest/use/configure/rules)
 7. Read [Husky - Get started](https://typicode.github.io/husky/get-started.html)
-8. Read [Husky - Project Not in Git Root Directory](https://typicode.github.io/husky/how-to.html#project-not-in-git-root-directory)
 
-## Additional Resources 📘
+## Optional Materials
 
 1. [Prettier documentation](https://prettier.io/)
 2. [ESLint configuration (docs)](https://eslint.org/docs/latest/use/configure/)
