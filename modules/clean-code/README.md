@@ -1,12 +1,4 @@
-# [Stage#1](../../) Project 'Clean Code S1E1'
-
-## Module Overview 📚
-
-This module provides a comprehensive introduction to the fundamental principles of clean code, including DRY, KISS, and YAGNI. It emphasizes the importance of writing maintainable, readable, and efficient code, covering essential practices like code formatting, effective comments, and proper commit styling. Through this module, students will gain hands-on experience with tools such as linters and style guides, laying the foundation for producing high-quality, professional-level code.
-
-## Learning Objectives 🎯
-
-Students will:
+## Module Description
 
 - Learn the general principles:
   - DRY
@@ -19,12 +11,6 @@ Students will:
   - JavaScript Style Guide
   - Tools, linters
 - Start learning the practices of writing clean, readable code
-
-## Practice part 💻
-
-1. Complete the task ['Clean Code S1E1'](clean-code.md)
-
-## Brief Overview 📑
 
 **DRY** (Don’t Repeat Yourself), **KISS** (Keep It Simple, Stupid), and **YAGNI** (You Aren’t Gonna Need It) are fundamental principles in software development, including front-end development. Here's why:
 
@@ -45,7 +31,11 @@ A front-end developer who understands and applies these principles will likely w
 
 The impact of learning clean coding practices goes beyond improved personal development; it fundamentally enhances the quality of the applications you work on and increases the productivity of your team.
 
-## Theory 📖
+## Practice
+
+1. Complete the task ['Clean Code S1E1'](clean-code.md)
+
+## Educational Materials
 
 Students are encouraged to study the following resources:
 
@@ -54,7 +44,7 @@ Students are encouraged to study the following resources:
 - [Common rules for HTML & CSS. Part 1](materials/html-and-css.md)
 - [Common rules for HTML & CSS. Part 2](materials/html-and-css-extended.md)
 
-## Additional Resources 📘
+## Optional Materials
 
 Expand your knowledge with these additional materials:
 
