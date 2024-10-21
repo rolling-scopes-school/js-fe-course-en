@@ -36,23 +36,20 @@ cross-browser compatibility, and adaptability, making it an essential part of mo
 development.
 
 
-## What should be done:
-- Get to know a position, block-model
-- Get to know a flexbox layout
-
 ## Education materials
-1. **Basics of Element Positioning**:
-  - [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
-  - [CSS Layout - The position Property](https://www.w3schools.com/css/css_positioning.asp)
-  - [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+1. **Basics of CSS and Element Positioning**:
+  - [CSS Tutorial](https://www.w3schools.com/css/default.asp)
+  - [Positioning](https://www.peterlunch.com/blog/understanding-the-css-position-property)
+  - [The Box Model](https://internetingishard.netlify.app/html-and-css/css-box-model/)
   - [CSS-Tricks](https://css-tricks.com/almanac/properties/p/position/)
   - [Learn CSS Position In 9 Minutes](https://youtu.be/jx5jmI0UlXU?si=B0EHkFkLp1r7NsSC)
 
 2. **Flexbox**
-- [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Video - Introduction to What The FlexBox?!](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
 ### Optional
 - [Learn Flexbox for free](https://scrimba.com/learn/flexbox)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)

@@ -45,9 +45,9 @@ Learn basics of CSS Grid layout:
 
 ## Education materials
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [Introduction to the CSS Grid Challenges](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/) 
-- [Layout Land](https://www.youtube.com/playlist?list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1)
 - [A game for learning CSS grid](https://cssgridgarden.com/)
 
 ## Optional
 - [Grid by Example](https://gridbyexample.com/examples/) 
+- [Introduction to the CSS Grid Challenges](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/) 
+- [Layout Land](https://www.youtube.com/playlist?list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1)
