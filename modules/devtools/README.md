@@ -34,25 +34,13 @@ websites are built, explore the code and assets, and experiment with changes in 
 In summary, knowing and using DevTools is essential for front-end developers as they enhance productivity, enable 
 efficient debugging and optimization, simplify responsiveness testing and accessibility auditing, and offer opportunities for continuous learning and improvement.
 
-
-## In this module, students need to:
-
-* Inspect & Examine HTML/CSS
-* Edit HTML/CSS
-* Enable, Disable or Apply styles
-* Copy, Move or Delete Elements
-* Console API
-* Special Console Symbols
-* JS debugging
-* Examine Network & Resources
-
 ### Education materials
 - [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - [Video. Google Chrome Developer Tools Crash Course](https://youtu.be/x4q86IjJFag)
 - [Debugging in the browser](https://javascript.info/debugging-chrome)
 
 
-###Optional
+### Optional
 - [Video. Dev tools](https://youtu.be/2yxKblrXiEg)
 - [The official Google Chrome Developers channel on YouTube](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [Mozilla Firefox Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)

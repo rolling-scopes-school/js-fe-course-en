@@ -29,7 +29,8 @@
 
 - [RS School introduction](modules/rs-school-intro/)
 - [Introduction to the profession of JS/Front-end developer](modules/js-fe-developer/)
-- [Fundamentals of Chrome Dev Tools, VS Code and Internet](modules/ide/)
+- [DevTools](modules/devtools/)
+- [Fundamentals IDE and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Test "RSS Test" 
@@ -68,7 +69,6 @@
 #### <i>November 18, 2024</i>
 - [CSS Flex](modules/css-flex/)
 - [CSS Grid](modules/css-grid/)
-- [DevTools](modules/devtools/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i>Week assignments</i>
   - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
