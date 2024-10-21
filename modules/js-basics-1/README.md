@@ -29,6 +29,14 @@ In summary, learning the basics of JavaScript significantly boosts a front-end d
 opportunities, as it allows them to create dynamic, interactive websites and applications, and is a prerequisite for 
 using many modern web development tools, libraries, and frameworks.
 
+This module is crafted to solidify the understanding of core JavaScript concepts. By reinforcing the knowledge of the language's 
+building blocks, you will be equipped with the skills necessary to tackle more complex programming challenges and frameworks.
+
+Strengthen JavaScript knowledge:
+
+- Variables
+- Data types
+- Type conversion
 
 
 #### Variables 
@@ -52,10 +60,10 @@ different scoping rules. Understanding these is critical to avoiding mistakes an
 6. _Interaction With DOM_: Variables allow developers to store and manipulate DOM elements to create interactive and dynamic 
 web pages.
 
-Overall, understanding variables in JavaScript is one of the backbones of coding because variables allow developers to 
-write flexible, efficient, and effective code that can react to user actions and system changes. Variables are some of
-the basic building blocks of any programming language so knowing how to use them is a crucial skill for every front-end 
-developer.
+Overall, understanding variables (its definitions, usage and hoisting) in JavaScript is one of the backbones of coding because 
+variables allow developers to write flexible, efficient, and effective code that can react to user actions and system changes. 
+Variables are some of the basic building blocks of any programming language so knowing how to use them is a crucial skill for 
+every front-end developer.
 
 #### Data types
 Understanding **data types in JavaScript** is critical for a front-end developer due to several reasons:
@@ -96,9 +104,20 @@ the creation of more complex data structures.
 * [Code structure](https://javascript.info/structure)
 * [The modern mode, "use strict"](https://javascript.info/strict-mode)
 * [Variables](https://javascript.info/variables)
-* [Data types](https://javascript.info/types)
+* [Data types](https://javascript.info/data-types)
+* [Difference between primitive values and objects](https://medium.com/@junshengpierre/javascript-primitive-values-object-references-361cfc1cbfb0)
 * [Interaction: alert, prompt, confirm](https://javascript.info/alert-prompt-confirm)
 * [Type Conversions](https://javascript.info/type-conversions)
+* [Difference between explicit and implicit type coercion](https://betterprogramming.pub/implicit-and-explicit-coercion-in-javascript-b23d0cb1a750)
 * [video. JS Basic. Data types](https://youtu.be/b4eMKfKnres)
 * [Online course.JavaScript for beginners](https://code-basics.com/languages/javascript)
 
+
+## Optional Materials
+* [Detailed article of differences between variable declaration, reassignment, scope and hoisting](https://www.freecodecamp.org/news/how-to-declare-variables-in-javascript/) 
+* [video about JavaScript data types](https://youtu.be/UmSpfdxu3ro)
+* [video about type conversion](https://youtu.be/XWNq7XJuwoo)
+* [Exercises to practice variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables) 
+* [Quiz questions under hoisting theme](https://www.educative.io/courses/javascript-interview-handbook/quiz-hoisting)
+* [Excercise on type conversions](https://javascript.info/task/primitive-conversions-questions)
+* [Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)

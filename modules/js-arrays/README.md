@@ -26,7 +26,12 @@ effectively and efficiently a front-end developer can create dynamic, interactiv
 * [Arrays](https://javascript.info/array)
 * [Array methods](https://javascript.info/array-methods)
 * [Iterables](https://javascript.info/iterable)
-* [Map and Set](https://javascript.info/map-set)
-* [WeakMap and WeakSet](https://javascript.info/weakmap-weakset)
+* [Destructuring arrays](https://medium.com/swlh/array-destructuring-in-javascript-141196434d65)
+* [Using the array spread operator](https://javascript.info/rest-parameters-spread)
+* [Destructuring arrays](https://javascript.info/destructuring-assignment#array-destructuring)
+
+## Optional Materials
+* [Spread operator and rest parameters](https://medium.com/@luke_smaki/javascript-es6-spread-operator-and-rest-parameters-b3e89d112281)
+* Array Build-In Methods: [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 
