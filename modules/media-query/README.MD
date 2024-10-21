@@ -1,4 +1,4 @@
-# Media Queries & Responsive Design
+## Module Description
 
 1. **Adaptability across devices**: As the variety of devices, screen sizes, and resolutions grows, it’s crucial 
 for front-end developers to ensure that their websites and applications look good and function well on all 
@@ -28,7 +28,7 @@ optimal user experience across multiple devices, boosts search rankings, and str
 future-proofs the design and can improve website accessibility.
 
 
-## Theory 
+## Educational Materials
 - [Responsive Web Design: What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [CSS Media Queries Guide](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - [Make a website responsive for all devices](https://www.youtube.com/watch?v=UUjNEMXZA-k)
@@ -36,7 +36,7 @@ future-proofs the design and can improve website accessibility.
 - [Responsive_Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - [Responsive Layouts](https://css-tricks.com/responsive-layouts-fewer-media-queries/)
 
-## Additional Materials
+## Optional Materials
 - [@media (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
 - [CSS Media Queries (w3schools)](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - [CSS Media Queries - Examples (w3schools)](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)

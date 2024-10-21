@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 
 **Classes and prototypes** are foundational concepts in JavaScript, and understanding them is crucial for a JavaScript 
 developer for the following reasons:
@@ -47,7 +47,7 @@ to speed with these frameworks more quickly.
 Understanding inheritance can lead to cleaner, more efficient, and modular code, and it's a crucial concept for any 
 JavaScript developer to grasp.
 
-### Education materials
+## Educational Materials
 - [Prototypes, inheritance](https://javascript.info/prototypes)
 - [Class](https://javascript.info/classes)
 - [Video JavaScript Classes Tutorial](https://www.youtube.com/watch?v=2ZphE5HcQPQ&ab_channel=freeCodeCamp.org)
@@ -55,7 +55,7 @@ JavaScript developer to grasp.
 - [Video - Inheritance in JavaScript](https://www.youtube.com/watch?v=MfxBfRD0FVU)
 - [Video - Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc)
 
-### Additional resources
+## Optional Materials
 - [JavaScript — Inheritance, delegation patterns and Object linking (codeburst.io)](https://codeburst.io/javascript-inheritance-25fe61ab9f85)
 - [RS School Presentaton "JavaScript Classes"](https://kirilknysh.github.io/js-classes-talk/#/)
 

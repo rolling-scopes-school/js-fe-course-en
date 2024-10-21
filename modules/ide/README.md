@@ -1,6 +1,4 @@
-# Fundamentals of Chrome Dev Tools, VS Code and Internet
-
-## Objectives for this module:
+## Module Description
 
 Students are required to get acquainted with:
 
@@ -12,11 +10,8 @@ Students are required to get acquainted with:
     - Console
 - Basic terminal commands
 
-## Estimated time for completing the module:
 
-4 hours
-
-## Theory
+## Educational Materials
 
 1. [Internet and Browsers](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 2. [Webinar: Browsers and VS Code – Installation and Setup](https://www.youtube.com/watch?v=VqCgcpAypFQ)
@@ -24,7 +19,7 @@ Students are required to get acquainted with:
     - [Basic Windows Commands](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
     - [Basic Mac Commands](https://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start)
 
-## Additional resources
+## Optional Materials
 
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [Getting Started with Chrome Dev Tools ](https://developer.chrome.com/docs/devtools/) - 2h read

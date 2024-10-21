@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 
 #### **JavaScript** 
 is an essential tool in the front-end developer's toolbox, and understanding its fundamentals is 
@@ -91,7 +91,7 @@ the creation of more complex data structures.
 
 
 
-### Education materials
+## Educational Materials
 * [Hello, world!](https://javascript.info/hello-world)
 * [Code structure](https://javascript.info/structure)
 * [The modern mode, "use strict"](https://javascript.info/strict-mode)

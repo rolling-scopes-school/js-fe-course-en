@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 Knowing CSS is important for several reasons, especially if you are involved in designing or 
 developing websites:
 
@@ -16,7 +16,7 @@ developing websites:
 
 In summary, knowing CSS can improve the quality of your websites, streamline your development process, and make your projects more accessible and visually appealing. It is a fundamental skill for anyone involved in creating websites and plays a significant role in ensuring a successful online presence.
 
-### Education materials
+## Educational Materials
 * [CSS Tutorial](https://www.w3schools.com/css/)
 * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 * [Video course. CSS Tutorial For Beginners](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
@@ -24,7 +24,7 @@ In summary, knowing CSS can improve the quality of your websites, streamline you
 * [RS School. Lithuania. Semantics. CSS3](https://youtu.be/9T6Ho--eqGc)
 
 
-### Optional
+## Optional Materials
 * [RS School. Georgia. Semantic. CSS3. Part 1](https://youtu.be/yLpUsbequS4)
 * [RS School. Georgia. Semantic. CSS3. Part 2](https://youtu.be/pgkUZFdcKSU)
 

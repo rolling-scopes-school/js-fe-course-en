@@ -1,4 +1,4 @@
-# CSS grid layout
+## Module Description
 **CSS Grid** is a powerful and versatile layout system, designed to make it easier to create complex and 
 responsive two-dimensional layouts for websites and applications. Front-end developers should learn
 how to use CSS Grid for the following reasons:
@@ -43,11 +43,11 @@ Learn basics of CSS Grid layout:
 - layering items
 - positioning
 
-## Education materials
+## Educational Materials
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A game for learning CSS grid](https://cssgridgarden.com/)
 
-## Optional
+## Optional Materials
 - [Grid by Example](https://gridbyexample.com/examples/) 
 - [Introduction to the CSS Grid Challenges](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/) 
 - [Layout Land](https://www.youtube.com/playlist?list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1)

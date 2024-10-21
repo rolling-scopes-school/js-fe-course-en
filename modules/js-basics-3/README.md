@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 
 Front-end developers work extensively with **JavaScript** and other scripting languages, which are fundamental for 
 creating interactive websites. Numbers, strings, and functions are core concepts in these languages, and here's
@@ -30,7 +30,7 @@ In conclusion, numbers, strings, and functions are foundational concepts that ar
 with the DOM, handling events, manipulating data, or even making API calls. A good understanding of these is absolutely 
 necessary for a front-end developer.
 
-## Education materials
+## Educational Materials
 * [Online course. Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 * [Methods of primitives](https://javascript.info/primitives-methods)
 * [Numbers](https://javascript.info/number)

@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 Understanding **client-server interaction** is crucial for front-end developers for several key reasons:
 
 1. **Data Handling**: Front-end developers often need to make requests to a server to either fetch or send data. 
@@ -22,7 +22,7 @@ is essential for retrieving data from these APIs.
 
 Mastering the flow of information between the client and server will make you a more effective and resourceful front-end developer.
 
-### Education materials
+## Educational Materials
 
 1. [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 2. [How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)

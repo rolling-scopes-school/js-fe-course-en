@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 
 In web development, particularly in front-end development, **error handling** is crucial for a variety of reasons:
 
@@ -23,5 +23,5 @@ incorrect results or behave unpredictably, which can be worse than an outright f
 Understanding error handling is a crucial skill in a front-end developer's toolkit, and it plays a vital role in 
 building robust, user-friendly applications.    
 
-### Education materials
+## Educational Materials
 - [Error handling](https://javascript.info/error-handling)

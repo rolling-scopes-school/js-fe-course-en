@@ -1,4 +1,4 @@
-# CSS. Flex.
+## Module Description
 
 **Flex (Flexbox)** is a powerful CSS layout module designed to make it easier to create dynamic and 
 flexible layouts for websites and applications. Front-end developers should learn how to use flex 
@@ -36,7 +36,7 @@ cross-browser compatibility, and adaptability, making it an essential part of mo
 development.
 
 
-## Education materials
+## Educational Materials
 1. **Basics of CSS and Element Positioning**:
   - [CSS Tutorial](https://www.w3schools.com/css/default.asp)
   - [Positioning](https://www.peterlunch.com/blog/understanding-the-css-position-property)
@@ -50,6 +50,6 @@ development.
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Video - Introduction to What The FlexBox?!](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
-### Optional
+## Optional Materials
 - [Learn Flexbox for free](https://scrimba.com/learn/flexbox)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)

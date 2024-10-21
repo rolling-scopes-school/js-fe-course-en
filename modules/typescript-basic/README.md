@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 
 Learning **TypeScript** can be quite beneficial for front-end developers for several reasons:
 
@@ -24,11 +24,11 @@ who know TypeScript, especially for larger projects and for projects involving A
 
 By learning TypeScript, front-end developers can write more reliable, maintainable and scalable JavaScript code.
 
-### Education materials
+## Educational Materials
 - [Learn Typescript Tutorial](https://scrimba.com/learn/typescript) 
 - [Webinar Rolling Scopes School Lithuania. TypeScript](https://youtu.be/h4Y4-QMz7dw)
 
-### Additional resources
+## Optional Materials
 
 Theory:
 - [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)

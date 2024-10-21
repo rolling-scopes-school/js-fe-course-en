@@ -1,4 +1,4 @@
-# Web Developer Tools
+# Module Description
 **Web Developer Tools (DevTools)** are built into modern web browsers like Google Chrome, Mozilla Firefox, and Microsoft Edge, 
 providing a suite of tools for front-end developers. Here are several reasons why a front-end developer should know and
 use DevTools:
@@ -34,13 +34,13 @@ websites are built, explore the code and assets, and experiment with changes in 
 In summary, knowing and using DevTools is essential for front-end developers as they enhance productivity, enable 
 efficient debugging and optimization, simplify responsiveness testing and accessibility auditing, and offer opportunities for continuous learning and improvement.
 
-### Education materials
+### Educational Materials
 - [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - [Video. Google Chrome Developer Tools Crash Course](https://youtu.be/x4q86IjJFag)
 - [Debugging in the browser](https://javascript.info/debugging-chrome)
 
 
-### Optional
+### Optional Materials
 - [Video. Dev tools](https://youtu.be/2yxKblrXiEg)
 - [The official Google Chrome Developers channel on YouTube](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [Mozilla Firefox Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
