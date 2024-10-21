@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 **JavaScript objects** are fundamental for front-end development. Here's why:
 
 1. **Data Representation**: Objects provide a way to group related data and functions together. They help in building 
@@ -25,7 +25,7 @@ associated with them, allows a front-end developer to write clean, robust, and e
 web applications.
 
 
-### Education materials
+## Educational Materials
 * [Objects](https://javascript.info/object)
 * [Object references and copying](https://javascript.info/object-copy)
 * [Garbage collection](https://javascript.info/garbage-collection)

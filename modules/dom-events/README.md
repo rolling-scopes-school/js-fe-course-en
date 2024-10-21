@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 
 **DOM (Document Object Model)** events are crucial for front-end developers because they allow for interactivity in websites. 
 They are the backbone to any reaction a website has to user input. Here's why front-end developers should understand 
@@ -25,7 +25,7 @@ events, so understanding them will help navigate these languages more easily.
 DOM events are a key part of how JavaScript works with HTML and CSS to create interactive and dynamic web pages. 
 A strong understanding of how events work and how to handle them is critical for any front-end developer.
 
-### Education materials
+## Educational Materials
 - [Video lecture](https://www.youtube.com/watch?v=pcmL9apdlMo&list=PLzLiprpVuH8e1YNSEXMtjOuB1uxqQLYED&index=18)
 - [Events (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [MouseEvents (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent)

@@ -1,4 +1,4 @@
-# CSS Preprocessors. Sass
+## Module Description
 
 CSS preprocessors like Sass (Syntactically Awesome Style Sheets) can significantly enhance a front-end developer's 
 workflow and capabilities. Here are some reasons why learning Sass is beneficial for front-end developers:
@@ -35,11 +35,11 @@ cleaner, more modular, and maintainable code, allows for advanced functionality,
 workflow, and enhances their marketability in the industry.
 
 
-## Theory
+## Educational Materials
 - [Sass Basics](https://sass-lang.com/guide/)
 - [Sass Crash Course](https://youtu.be/nu5mdN2JIwM?si=IQLhG_ToLHTziRI6) 
 - [What is a CSS Preprocessors & Why Use Them](https://sherocommerce.com/what-is-a-css-preprocessors-why-use-them/) 
 - [PostCSS tool](https://postcss.org/)
 
-## Additional Materials
+## Optional Materials
 -  [Sass Tutorial](https://www.tutorialspoint.com/sass/index.htm)

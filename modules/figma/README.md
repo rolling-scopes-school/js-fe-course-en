@@ -1,4 +1,5 @@
-### Module description
+## Module Description
+
 While Figma is primarily a design tool, front-end developers can benefit from knowing and
 using Figma for several reasons:
 
@@ -38,6 +39,6 @@ skill sets, allowing developers to be more versatile and valuable team members. 
 understanding Figma, front-end developers can contribute to creating high-quality and visually 
 appealing web projects that meet user needs and expectations.
 
-### Education materials
+## Educational Materials
 * [Video course. Figma for Developers - Quick Tutorial](https://www.youtube.com/playlist?list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby)
 * [From Figma to Webflow: turning your static designs into interactive websites](https://webflow.com/blog/from-figma-to-webflow-turning-your-static-designs-into-interactive-websites)

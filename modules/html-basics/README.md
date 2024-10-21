@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 This week you will get knowledge about HTML5.
 **HTML**, which stands for HyperText Markup Language, is the standard markup language used to create and 
 structure content on the web. It serves as the backbone of any web page, providing structure and layout 
@@ -15,13 +15,13 @@ visually formatted web page that users can view and interact with.
 **HTML** is a foundational technology, along with **CSS** (Cascading Style Sheets) and **JavaScript**, that helps 
 create modern, interactive, and responsive websites.
 
-## Theory
+## Educational Materials
 * [HTML Tutorial](https://www.w3schools.com/html/)
 * [Basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * [Video course](https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&ab_channel=TheNetNinja)
 
-## Optional
+## Optional Materials
 * [Lecture RS School.Lithuania. HTML/Css](https://youtu.be/YiLqgZY4xCU)
 * [Lecture RS School.Georgia. HTML/Css](https://youtu.be/_oSYrBCsf2Q)

@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 **CSS Modules** are an essential tool for a front-end developer as they provide several advantages:
 
 1. **Scoped Styles**: With CSS modules, each style is scoped locally by default, which eliminates the risk of global scope and
@@ -22,7 +22,7 @@ codebases.
 Learning CSS Modules will give you a different, component-based perspective of working with styles, and can improve 
 your front-end code organization, maintainability and reusability.
 
-### Education materials
+## Educational Materials
 - [CSS Modules Article](https://glenmaddern.com/articles/css-modules)
 - [CSS Modules](https://github.com/css-modules/css-modules) 
 - [New Viewport Units](https://ishadeed.com/article/new-viewport-units)
@@ -32,7 +32,7 @@ your front-end code organization, maintainability and reusability.
 - [Trigonometric Functions In CSS](https://drafts.csswg.org/css-values/?c=N%3BO%3DD#trig-funcs)
 
 
-### Optional
+## Optional Materials
 - [Container Queries](https://drafts.csswg.org/css-contain-3/#container-queries)
 - [Style Queries](https://developer.chrome.com/blog/style-queries)
 - [CSS Nesting](https://www.w3.org/TR/css-nesting-1/#nest-selector)

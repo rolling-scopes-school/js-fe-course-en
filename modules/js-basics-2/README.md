@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 
 Understanding operators and loops is fundamental to programming, including front-end development. Here are a few key 
 reasons why:
@@ -29,7 +29,7 @@ In summary, operators and loops are fundamental programming concepts and masteri
 front-end developer. It allows you to write code that can react and adapt to user interactions, which is core 
 to front-end development.
 
-## Education materials
+## Educational Materials
 * [Basic operators, maths](https://javascript.info/operators)
 * [Comparisons](https://javascript.info/comparison)
 * [Conditional branching: if, '?'](https://javascript.info/ifelse)
@@ -40,6 +40,6 @@ to front-end development.
 
 
 
-## Optional
+## Optional Materials
 * [JavaScript for beginners(videos)](https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B)
 * [What is JavaScript?(videos)](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)

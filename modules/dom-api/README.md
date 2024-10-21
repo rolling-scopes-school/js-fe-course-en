@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 **The Document Object Model (DOM) API** is crucial for front-end developers for the following reasons:
 
 1. **Interaction with Web Pages**: The DOM API provides a way for JavaScript code to interact with web pages. 
@@ -22,7 +22,7 @@ performant JavaScript code by avoiding unnecessary render and layout computation
 In summary, being proficient with the DOM API is critical for a front-end developer because it allows the creation 
 of complex, responsive, and user-friendly web applications.
 
-### Education materials
+## Educational Materials
 
 - [Video lecture](https://www.youtube.com/watch?v=VsJuPTbt1Hc&list=PLzLiprpVuH8e1YNSEXMtjOuB1uxqQLYED&index=16)
 - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)

@@ -1,4 +1,4 @@
-### Module description
+## Module Description
 **Arrays** are one of the fundamental data structures in programming, and JavaScript is no exception. As a front-end 
 developer, understanding and being proficient with arrays is crucial for several reasons:
 
@@ -22,7 +22,7 @@ their websites or applications, as arrays are faster and more efficient than oth
 In summary, arrays are a crucial part of JavaScript, and knowing how to work with them can greatly influence how 
 effectively and efficiently a front-end developer can create dynamic, interactive websites.
 
-### Education materials
+## Educational Materials
 * [Arrays](https://javascript.info/array)
 * [Array methods](https://javascript.info/array-methods)
 * [Iterables](https://javascript.info/iterable)
