@@ -45,3 +45,4 @@ efficient debugging and optimization, simplify responsiveness testing and access
 - [The official Google Chrome Developers channel on YouTube](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [Mozilla Firefox Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
 - [Microsoft Edge Developer Tools](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/)
+- [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)

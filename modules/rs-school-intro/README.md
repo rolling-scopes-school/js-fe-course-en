@@ -1,4 +1,4 @@
-# RS School introduction
+# Module Description
 
 To excel in RS School, it's crucial to comprehend the course structure, unique aspects of the educational process, and how to communicate with fellow students, mentors, and course administrators. You'll also need to know how to complete assignments, submit them for review, and evaluate the work of your peers.
 
@@ -21,7 +21,7 @@ The course documentation answers most queries. However, it's worth noting that t
     - Culture of communication
     - Different roles within the community
 
-## Theory
+## Education materials
 
 1. Read the course documentation https://docs.rs.school/#/en/js-fe-course
     - Learning process
