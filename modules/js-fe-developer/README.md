@@ -31,7 +31,7 @@ Understanding NodeJS, Cloud services, and TypeScript is crucial due to the expan
 - 🔍 **NodeJS** allows developers to understand back-end functionalities and contribute comprehensively to project development.
 - 🚀 **Cloud Services** proficiency ensures the optimal utilization of modern development resources, emphasizing performance and scalability.
 
-## 🔗 Education materials
+## 🔗 Educational Materials
 
 - [Frontend Roadmap](https://roadmap.sh/frontend)
 - [JavaScript Roadmap](https://roadmap.sh/javascript)

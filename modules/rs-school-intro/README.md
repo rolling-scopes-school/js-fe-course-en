@@ -21,7 +21,7 @@ The course documentation answers most queries. However, it's worth noting that t
     - Culture of communication
     - Different roles within the community
 
-## Education materials
+## Educational Materials
 
 1. Read the course documentation https://docs.rs.school/#/en/js-fe-course
     - Learning process
