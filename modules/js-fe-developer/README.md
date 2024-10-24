@@ -1,4 +1,4 @@
-# Introduction to the profession of "JS/Front-end developer" 🌟
+# Module description
 
 ## 🎯 Objectives
 
@@ -31,13 +31,13 @@ Understanding NodeJS, Cloud services, and TypeScript is crucial due to the expan
 - 🔍 **NodeJS** allows developers to understand back-end functionalities and contribute comprehensively to project development.
 - 🚀 **Cloud Services** proficiency ensures the optimal utilization of modern development resources, emphasizing performance and scalability.
 
-## 🔗 Useful Links
+## 🔗 Educational Materials
 
-- [JavaScript Roadmap](https://roadmap.sh/javascript)
 - [Frontend Roadmap](https://roadmap.sh/frontend)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
 - [TypeScript Roadmap](https://roadmap.sh/typescript)
 - [React Roadmap](https://roadmap.sh/react)
 - [Angular Roadmap](https://roadmap.sh/angular)
+- [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
 - [NodeJS Roadmap](https://roadmap.sh/nodejs)
 - [AWS Best Practices](https://roadmap.sh/best-practices/aws)
-- [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)

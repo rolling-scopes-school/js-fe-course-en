@@ -16,10 +16,11 @@ visually formatted web page that users can view and interact with.
 create modern, interactive, and responsive websites.
 
 ## Educational Materials
+* [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+* [Learn HTML](https://web.dev/learn/html)
 * [HTML Tutorial](https://www.w3schools.com/html/)
 * [Basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-* [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * [Video course](https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&ab_channel=TheNetNinja)
 
 ## Optional Materials

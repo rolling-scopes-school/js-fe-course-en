@@ -18,6 +18,7 @@ In summary, knowing CSS can improve the quality of your websites, streamline you
 
 ## Educational Materials
 * [CSS Tutorial](https://www.w3schools.com/css/)
+* [Learn CSS](https://web.dev/learn/css)
 * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 * [Video course. CSS Tutorial For Beginners](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
 * [RS School. Lithuania. HTML / CSS Basics](https://youtu.be/YiLqgZY4xCU)
@@ -27,6 +28,7 @@ In summary, knowing CSS can improve the quality of your websites, streamline you
 ## Optional Materials
 * [RS School. Georgia. Semantic. CSS3. Part 1](https://youtu.be/yLpUsbequS4)
 * [RS School. Georgia. Semantic. CSS3. Part 2](https://youtu.be/pgkUZFdcKSU)
+* [What is CanIUse?](https://www.elegantthemes.com/blog/wordpress/what-is-caniuse)
 
 
 

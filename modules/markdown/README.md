@@ -10,11 +10,11 @@ the text even without the actual formatting, ensuring the content remains human-
 
 
 ## Educational Materials
-1. [Markdown Tutorial](https://www.markdowntutorial.com/)
-2. [Mastering Markdown - GitHub Guides](https://guides.github.com/features/mastering-markdown/) - you can start with basics and syntax and dive in other concepts when practice
+1. [Markdown Guide](https://www.markdownguide.org/)
+2. [Markdown Tutorial](https://www.markdowntutorial.com/)
+3. [Mastering Markdown - GitHub Guides](https://guides.github.com/features/mastering-markdown/) - you can start with basics and syntax and dive in other concepts when practice
 
 
 ## Optional Materials
 1. [CommonMark Tutorial ](https://commonmark.org/help/tutorial/)
-2. [Markdown Guide](https://www.markdownguide.org/)
-3. [Learn Markdown in Y Minutes](https://learnxinyminutes.com/docs/markdown/)
+2. [Learn Markdown in Y Minutes](https://learnxinyminutes.com/docs/markdown/)
