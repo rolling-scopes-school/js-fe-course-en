@@ -33,9 +33,9 @@
 - [DevTools](modules/devtools/)
 - [Fundamentals IDE and Internet](modules/ide/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Test "RSS Test"
-  - Test "Fundamentals of the Internet"
+- <i><b>Tests</b></i>
+  - "RSS Test"
+  - "Fundamentals of the Internet"
 
 ### Week #2
 
@@ -45,11 +45,13 @@
 - [Introduction to the Markdown](modules/markdown/)
 - [HTML basics](modules/html-basics/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Test "Test HTML Basics"
-  - Test "Git test"
-  - Task [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
-  - Submit task for cross-check [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
+- <i><b>Tasks</b></i>
+  - [CV.Markdown](<tasks/CV(markdown)/cv.md>)
+- <i><b>Tests</b></i>
+  - "Test HTML Basics"
+  - "Git test"
+- <i><b>TODO</b></i>
+  - Submit task for cross-check [CV.Markdown](<tasks/CV(markdown)/cv.md>)
 
 ### Week #3
 
@@ -58,11 +60,13 @@
 - [CSS Basics](modules/css-basics/)
 - [Figma](modules/figma/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Review students tasks [CV.Markdown](<tasks/CV(markdown)/CV(markdown).md>)
-  - Task [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/CV(HTML+CSS+Markdown).md>)
-  - Submit task for cross-check [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
-  - Test "Test CSS Basics"
+- <i><b>Tasks</b></i>
+  - [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/cv.md>)
+- <i><b>Tests</b></i>
+  - "Test CSS Basics"
+- <i><b>TODO</b></i>
+  - Review students tasks [CV.Markdown](<tasks/CV(markdown)/cv.md>)
+  - Submit task for cross-check [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/cv.md>)
 
 ### Week #4
 
@@ -71,11 +75,13 @@
 - [CSS Flex](modules/css-flex/)
 - [CSS Grid](modules/css-grid/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/CV(cross-check).md>)
-  - Task [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
-  - Test "CSS Positioning & Flexbox"
-  - Test "CSS Grid"
+- <i><b>Tasks</b></i>
+  - [Christmas shop. Part 1: Fixed Layout](tasks/christmas-shop/christmas-shop.md)
+- <i><b>Tests</b></i>
+  - "CSS Positioning & Flexbox"
+  - "CSS Grid"
+- <i><b>TODO</b></i>
+  - Review students tasks [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/cv.md>)
 
 ### Week #5
 
@@ -84,10 +90,13 @@
 - [Media Queries & Responsive Design](modules/media-query/)
 - [CSS Preprocessors. Sass](modules/sass/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Task [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
-  - Submit task for cross-check [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
-  - Test "Media Queries & Responsive (EN)"
+- <i><b>Tasks</b></i>
+  - [Christmas shop. Part 1: Fixed Layout](tasks/christmas-shop/christmas-shop.md)
+- <i><b>Tests</b></i>
+  - "Media Queries & Responsive (EN)"
+- <i><b>TODO</b></i>
+  - Submit task for cross-check [Christmas shop. Part 1: Fixed Layout](tasks/christmas-shop/christmas-shop.md)
+
 
 ### Week #6
 
@@ -95,10 +104,14 @@
 
 - [JS Basics. Part 1](modules/js-basics-1/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Review students tasks [Coffee House (part 1)](tasks/coffee-house/coffee-house-week1.md)
-  - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
-  - Test "JS Types"
+- <i><b>Tasks</b></i>
+  - [Christmas shop. Part 2: Responsive Design](tasks/christmas-shop/christmas-shop.md)
+- <i><b>Tests</b></i>
+  - "JS Types"
+- <i><b>TODO</b></i>
+  - Review students tasks [Christmas shop. Part 1: Fixed Layout](tasks/christmas-shop/christmas-shop.md)
+  - Submit task for cross-check [Christmas shop. Part 2: Responsive Design](tasks/christmas-shop/christmas-shop.md)
+  
 
 ### Week #7
 
@@ -107,11 +120,16 @@
 - [JS Basics. Part 2](modules/js-basics-2/)
 - [JS Basics. Part 3](modules/js-basics-3/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Task [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
-  - Submit task for cross-check [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+- <i><b>Tasks</b></i>
+  - [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
   - [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
   - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
+- <i><b>TODO</b></i>
+  - Review students tasks [Christmas shop. Part 2: Responsive Design](tasks/christmas-shop/christmas-shop.md)
+  - Submit task for cross-check [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #8
 
@@ -120,27 +138,37 @@
 - [JS Arrays](modules/js-arrays/)
 - [JS Objects](modules/js-objects/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Review students tasks [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
-  - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
-  - Test "JS Basics"
+- <i><b>Tasks</b></i>
+  - [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
   - [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
   - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
-
+- <i><b>Tests</b></i>
+  - "JS Basics"
+- <i><b>TODO</b></i>
+  - Review students tasks [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
+  
 ### Week #9
 
 #### <i>December 23, 2024</i>
 
 - [DOM API](modules/dom-api/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Task [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
-  - Submit task for cross-check [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
-  - Test: "DOM API (EN)"
-  - Submit [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
-  - Submit [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
+- <i><b>Tasks</b></i>
+  - [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
   - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
   - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
+- <i><b>Tests</b></i>
+  - "DOM API (EN)"
+- <i><b>TODO</b></i>
+  - Submit task for cross-check [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
+  - Submit [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
+  - Submit [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Holiday weeks !!!
 
@@ -150,12 +178,17 @@
 
 - [DOM Events](modules/dom-events/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Review students tasks [Coffee House (part 3)](tasks/coffee-house/coffee-house-week3.md)
-  - Test: "DOM Events (EN)"
+- <i><b>Tasks</b></i>
   - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
   - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
   - [Hangman](tasks/hangman/hangman.md)
+- <i><b>Tests</b></i>
+  - "DOM Events (EN)"
+- <i><b>TODO</b></i>
+  - Review students tasks [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #11
 
@@ -163,11 +196,14 @@
 
 - [Forms & Validation](modules/forms-validation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
+  - [Hangman](tasks/hangman/hangman.md)
+- <i><b>TODO</b></i>
   - Submit [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
   - Submit [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
-  - [Hangman](tasks/hangman/hangman.md)
-
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 ### Week #12
 
 #### <i>January 20, 2025</i>
@@ -175,30 +211,39 @@
 - [Clean Code](modules/clean-code/README.md)
 - [Linters, formatters, Husky](modules/linters-formatters-husky)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
   - [Clean Code](modules/clean-code/clean-code.md)
+- <i><b>TODO</b></i>
   - Submit for cross-check [Hangman](tasks/hangman/hangman.md)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #13
 
 #### <i>January 27, 2025</i>
-
 - [Preparation for Technical screening](tasks/technical-screening/README.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
   - [Clean Code](modules/clean-code/clean-code.md)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #14
 
 #### <i>February 3, 2025</i>
-
 - [Accessibility](modules/accessibility/README.md)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - Submit [Clean Code](modules/clean-code/clean-code.md)
+- <i><b>Tasks</b></i>
   - [Data structure](https://github.com/AlreadyBored/basic-js-ds)
   - [Basic JS](https://github.com/AlreadyBored/basic-js)
+- <i><b>TODO</b></i>
+  - Submit [Clean Code](modules/clean-code/clean-code.md)
   - Pass interview with mentor
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #15
 
@@ -206,10 +251,14 @@
 
 - [CSS Modules And Some CSS New Features](modules/css-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
   - [Data structure](https://github.com/AlreadyBored/basic-js-ds)
   - [Basic JS](https://github.com/AlreadyBored/basic-js)
+- <i><b>TODO</b></i>
   - Pass interview with mentor
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 </details>
 
