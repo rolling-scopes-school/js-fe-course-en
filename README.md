@@ -51,7 +51,7 @@
   - "Test HTML Basics"
   - "Git test"
 - <i><b>TODO</b></i>
-  - Submit task for cross-check [CV.Markdown](<tasks/CV(markdown)/cv.md>)
+  - Submit task through autotest [CV.Markdown](<tasks/CV(markdown)/cv.md>)
 
 ### Week #3
 
@@ -65,7 +65,7 @@
 - <i><b>Tests</b></i>
   - "Test CSS Basics"
 - <i><b>TODO</b></i>
-  - Review students tasks [CV.Markdown](<tasks/CV(markdown)/cv.md>)
+  - Submit task through autotest [CV. HTML, CSS & Git Basics](<tasks/CV(markdown)/cv.md>)
   - Submit task for cross-check [CV. HTML, CSS & Git Basics. Cross-check](<tasks/CV(markdown)/cv.md>)
 
 ### Week #4
