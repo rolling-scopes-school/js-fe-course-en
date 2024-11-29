@@ -126,7 +126,6 @@
   - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
 - <i><b>TODO</b></i>
   - Review students tasks [Christmas shop. Part 2: Responsive Design](tasks/christmas-shop/christmas-shop.md)
-  - Submit task for cross-check [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
