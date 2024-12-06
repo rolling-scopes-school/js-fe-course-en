@@ -136,6 +136,7 @@
 
 - [JS Arrays](modules/js-arrays/)
 - [JS Objects](modules/js-objects/)
+- [DOM API](modules/dom-api/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
   - [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
@@ -143,8 +144,7 @@
   - [Core JS strings](https://github.com/rolling-scopes-school/core-js-strings)
 - <i><b>Tests</b></i>
   - "JS Basics"
-- <i><b>TODO</b></i>
-  - Review students tasks [Coffee House (part 2)](tasks/coffee-house/coffee-house-week2.md)
+  - "DOM API (EN)"
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
@@ -153,14 +153,14 @@
 
 #### <i>December 23, 2024</i>
 
-- [DOM API](modules/dom-api/)
+- [DOM Events](modules/dom-events/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
   - [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
   - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
   - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
 - <i><b>Tests</b></i>
-  - "DOM API (EN)"
+  - "DOM Events (EN)"
 - <i><b>TODO</b></i>
   - Submit task for cross-check [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
   - Submit [Core JS numbers](https://github.com/rolling-scopes-school/core-js-numbers)
@@ -174,15 +174,11 @@
 ### Week #10
 
 #### <i>January 6, 2025</i>
-
-- [DOM Events](modules/dom-events/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
   - [Core JS conditions & loops](https://github.com/rolling-scopes-school/core-js-conditions-n-loops-tasks)
   - [Core JS Arrays](https://github.com/rolling-scopes-school/core-js-arrays)
   - [Hangman](tasks/hangman/hangman.md)
-- <i><b>Tests</b></i>
-  - "DOM Events (EN)"
 - <i><b>TODO</b></i>
   - Review students tasks [Christmas shop. Part 3: Adding Functionality](tasks/christmas-shop/christmas-shop.md)
 - <i><b>Self development ( optional )</b></i>
