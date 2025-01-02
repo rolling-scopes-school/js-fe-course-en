@@ -226,6 +226,8 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
   - [Clean Code](modules/clean-code/clean-code.md)
+- <i><b>TODO</b></i>
+  - Review students tasks. [Hangman](tasks/hangman/hangman.md)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
