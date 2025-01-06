@@ -67,6 +67,12 @@ At the [following link](https://www.figma.com/file/ug2NAUiXPpaFDvch5TWUxd/Hangma
 - Once the work is finished, create a pull request from a **hangman** branch to **main** (or master).
 - The pull request name must contain **the task name**.
 - The pull request description must be provided according to the [template](https://docs.rs.school/#/pull-request-review-process?id=Требования-к-pull-request-pr).
+- Use **gh-pages** for deployment
+
+## How to submit
+
+After receiving the task but before the deadline, please go to the RS App at https://app.rs.school/. Select **Cross-Check: Submit**, choose the relevant task from the dropdown menu, and add the link to the deployed version of your created website in the **Solution URL** field. Then, click **Submit** button.
+
 
 ## Technical requirements
 
