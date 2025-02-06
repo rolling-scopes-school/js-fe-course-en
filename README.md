@@ -266,7 +266,7 @@
 
 ### Week #16
 
-#### <i>February 26, 2024</i>
+#### <i>February 17, 2025</i>
 
 - [Inheritance](modules/js-classes-prototypes/)
 - [Error Handling](modules/js-error-handling/)
@@ -278,7 +278,7 @@
 
 ### Week #17
 
-#### <i>March 4, 2024</i>
+#### <i>February 24, 2025</i>
 
 - [TypeScript Basic](modules/typescript-basic/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -289,7 +289,7 @@
 
 ### Week #18
 
-#### <i>March 11, 2024</i>
+#### <i>March 3, 2025</i>
 
 - [Typescript: Advanced](modules/typescript-advanced/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
@@ -301,7 +301,7 @@
 
 ### Week #19
 
-#### <i>March 18, 2024</i>
+#### <i>March 10, 2025</i>
 
 - [Code review](modules/code-review/)
 - [SPA](modules/single-page-application/)
@@ -314,7 +314,7 @@
 
 ### Week #20
 
-#### <i>March 25, 2024</i>
+#### <i>March 17, 2025</i>
 
 - [Bundlers](modules/bundlers/)
 - [Web storages](modules/web-storage/)
@@ -325,7 +325,7 @@
 
 ### Week #21
 
-#### <i>April 1, 2024</i>
+#### <i>March 24, 2025</i>
 
 - [Asynchronous programming](modules/async/)
 - [RESTful API](modules/restful-api/)
@@ -336,7 +336,7 @@
 
 ### Week #22
 
-#### <i>April 8, 2024</i>
+#### <i>March 31, 2025</i>
 
 - [Web security](modules/web-security/)
 - [Event loop, animation](modules/eventloop-animation/)
@@ -347,7 +347,7 @@
 
 ### Week #23
 
-#### <i>April 15, 2024</i>
+#### <i>April 7, 2025</i>
 
 - [Functional programming](modules/fp-basics/)
 - [Design patterns](modules/design-patterns)
@@ -360,7 +360,7 @@
 
 ### Week #24
 
-#### <i>April 22, 2024</i>
+#### <i>April 14, 2025</i>
 
 - [Testing](modules/testing/)
 - [Websockets](modules/web-sockets/)
@@ -372,7 +372,7 @@
 
 ### Week #25 (Sprint 1)
 
-#### <i>April 29, 2024</i>
+#### <i>April 21, 2025</i>
 
 - [Scrum/Kanban](modules/sdlc/)
 - [CI/CD](modules/ci-cd/)
@@ -381,7 +381,7 @@
 
 ### Week #26-27 (Sprint 2)
 
-#### <i>May 6, 2024</i>
+#### <i>April 28, 2025</i>
 
 - [How browsers work](modules/how-browsers-work/)
 - <i>Week assignments</i>
@@ -389,14 +389,14 @@
 
 ### Week #28-29 (Sprint 3)
 
-#### <i>May 20, 2024</i>
+#### <i>May 12, 2025</i>
 
 - <i>Week assignments</i>
   - [Final task. Sprint 3](tasks/eCommerce-Application/Sprints/Sprint%233.md)
 
 ### Week #30-31 (Sprint 4)
 
-#### <i>June 3, 2024</i>
+#### <i>May 26, 2025</i>
 
 - <i>Week assignments</i>
   - [Final task. Sprint 4](tasks/eCommerce-Application/Sprints/Sprint%234.md)
