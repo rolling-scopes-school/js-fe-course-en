@@ -259,7 +259,7 @@
 
 </details>
 
-## Interview with mentors ( February 14, 2023 - February 25, 2024 )
+## Interview with mentors ( February 14, 2025 - March 3, 2025 )
 
 <details>
 <summary>Stage 2</summary>
