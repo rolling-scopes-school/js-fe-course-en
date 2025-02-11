@@ -6,7 +6,7 @@ their engines, and view race statistics.
 
 ## Total Points: 215
 
-## 🏁 Basic Structure (85 points)
+## Basic Structure (85 points)
 
 ### 1. View Configuration (30 points)
 
@@ -49,14 +49,14 @@ their engines, and view race statistics.
 - as stop engine button should be disabled when car is on it's initial place.
 - **Responsive Animation (5 points):** Ensure car animations are fluid and responsive on screens as small as 500px.
 
-## 🏎️ Race Animation (35 points)
+##  Race Animation (35 points)
 
 - **Start Race Button (15 points):** Implement a button to start the race for all cars on the current page.
 - **Reset Race Button (10 points):** Create a button to reset the race, returning all cars to their starting positions.
 - **Winner Announcement (10 points):** After some car finishes first user should see the message contains car's name 
 - that shows which one has won.
 
-## 🏆 Winners View (45 points)
+## Winners View (45 points)
 
 - **Display Winners (15 points):** After some car wins it should be displayed at the "Winners view" table.
 - **Pagination for Winners (10 points):** Implement pagination for the "Winners" view, with 10 winners per page.

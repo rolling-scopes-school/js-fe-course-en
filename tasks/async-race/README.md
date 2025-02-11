@@ -22,13 +22,13 @@ release their product in two weeks. But we can't allow them to do that. We must 
 
 What are you waiting for? Let's start coding!
 
-## 🎯 Objectives
+## Objectives
 
 - **Create a Single Page Application (SPA)**: Manage a collection of cars, operate their engines, and showcase race statistics in an engaging, interactive SPA.
 - **Revive the Project**: Drawing inspiration from a demo video and a server mock, reconstruct the UI and breathe life back into this ambitious project.
 - **Outpace the Competition**: Implement the project with speed and efficiency, ensuring we launch before our rivals, showcasing our innovative solution to car management and racing competitions.
 
-## 🚗 Functional Requirements
+## Functional Requirements
 
 ### Basic Structure
 
@@ -57,7 +57,7 @@ What are you waiting for? Let's start coding!
 - Display winning cars with their image, name, number of wins, and best time.
 - Pagination and sorting capabilities by wins and best times.
 
-## 📜 Non-functional Requirements
+## Non-functional Requirements
 
 - **No Libraries/Frameworks**: Pure JavaScript only, optional use of Bootstrap for CSS.
 - **TypeScript Mandatory**: Strong typing throughout, with no use of "any".
@@ -65,7 +65,7 @@ What are you waiting for? Let's start coding!
 - **SPA Implementation**: Entire content generated via JavaScript, utilizing Webpack or similar for bundling.
 - **Code Quality**: Adherence to Airbnb's ESLint configuration, with functions limited to 40 lines and avoidance of magic numbers/strings.
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 - Implement CRUD operations for cars using the provided server mock.
 - Design UI elements for car management and race controls.
@@ -73,7 +73,7 @@ What are you waiting for? Let's start coding!
 - Create animations for car movements using JavaScript and CSS.
 - Ensure responsiveness and compatibility across different devices and browsers.
 
-## 📚 Resources
+## Resources
 
 - [Server Mock Repo](https://github.com/mikhama/async-race-api)
 - [Demo Video](https://youtu.be/sTXtlBLh-Ts) (RU)
@@ -82,7 +82,7 @@ What are you waiting for? Let's start coding!
 - [SPA Wikipedia](https://en.wikipedia.org/wiki/Single-page_application)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-## 🔄 Evaluation
+## Evaluation
 
 - Your work will be evaluated based on functional and non-functional requirements.
 - The UI must be deployed for review, with a server instance running for functionality tests.
