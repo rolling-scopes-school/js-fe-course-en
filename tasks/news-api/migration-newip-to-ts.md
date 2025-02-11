@@ -87,7 +87,7 @@ The result of completing this step is:
 
 - The layout maintains stability during scaling, ensuring that elements adapt responsively without overlapping or hiding outside the viewport.
 
-## Mentor Evaluation Criteria (170 points) 🎯
+## Mentor Evaluation Criteria (170 points)
 
 ### 1. Repository Setup (20 points)
 
@@ -113,7 +113,7 @@ The result of completing this step is:
 - **(20 points)** Your own design or improvements to the existing design are added (details should be described in the Pull Request)
 - **(20 points)** No remarks from the mentor regarding the design
 
-## Penalties 🚓
+## Penalties 
 
 - **(-20 points)** Use of the `any` type
 - **(-20 points)** Code is not fully covered with types

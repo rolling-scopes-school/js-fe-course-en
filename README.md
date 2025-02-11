@@ -272,9 +272,14 @@
 - [Error Handling](modules/js-error-handling/)
 - [Client-Server Interaction Overview](modules/client-server/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
+  - [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+- <i><b>TODO</b></i>
   - Submit [Data structure](https://github.com/AlreadyBored/basic-js-ds)
   - Submit [Basic JS](https://github.com/AlreadyBored/basic-js)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #17
 
@@ -282,10 +287,12 @@
 
 - [TypeScript Basic](modules/typescript-basic/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
   - [TypeScript Essential](tasks/TypeScriptEssentials/)
-  - [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
   - [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #18
 
@@ -293,12 +300,16 @@
 
 - [Typescript: Advanced](modules/typescript-advanced/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
   - [News API](tasks/news-api/)
-  - submit [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+  - [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
+- <i><b>TODO</b></i>
   - Submit for cross-check [TypeScript Essentials](tasks/TypeScriptEssentials/)
-  - submit [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
-
+  - submit [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
+  - 
 ### Week #19
 
 #### <i>March 10, 2025</i>
@@ -307,10 +318,14 @@
 - [SPA](modules/single-page-application/)
 - [Modules](modules/js-modules/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
+  - [News API](tasks/news-api/)
+- <i><b>TODO</b></i>
+  - submit [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
   - Submit for **mentor's** review [News API](tasks/news-api/)
-  - [Code review](tasks/code-review/)
-  - [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #20
 
@@ -319,9 +334,14 @@
 - [Bundlers](modules/bundlers/)
 - [Web storages](modules/web-storage/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
+  - [Code review](tasks/code-review/)
+  - [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
+- <i><b>TODO</b></i>
   - Submit for **mentor's** review [Code review](tasks/code-review/)
-  - submit [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #21
 
@@ -330,9 +350,16 @@
 - [Asynchronous programming](modules/async/)
 - [RESTful API](modules/restful-api/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
   - [Async race](tasks/async-race/)
   - [core-js-promises](https://github.com/rolling-scopes-school/core-js-promises)
+- <i><b>TODO</b></i>
+  - submit [Code review](tasks/code-review/)
+  - submit [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
+
 
 ### Week #22
 
@@ -341,9 +368,13 @@
 - [Web security](modules/web-security/)
 - [Event loop, animation](modules/eventloop-animation/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
   - [Async race](tasks/async-race/)
+- <i><b>TODO</b></i>
   - submit [core-js-promises](https://github.com/rolling-scopes-school/core-js-promises)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #23
 
@@ -353,10 +384,15 @@
 - [Design patterns](modules/design-patterns)
 - [Design principles](modules/design-principles)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
+  - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
+  - [Wheel of Fortune](TBD)
+- <i><b>TODO</b></i>
   - Submit for **mentor's** review [Async race](tasks/async-race/)
   - Submit for cross-check [Async race](tasks/async-race/)
-  - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
 ### Week #24
 
@@ -365,42 +401,72 @@
 - [Testing](modules/testing/)
 - [Websockets](modules/web-sockets/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
-- <i>Week assignments</i>
-  - submit [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
-  - [Presentation](tasks/presentation/), submit for **mentor's** review
-  - [Final task preparation](tasks/final-task/)
+- <i><b>Tasks</b></i>
+  - [Wheel of Fortune](TBD)
+  - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
+- <i><b>TODO</b></i>
+  - Submit [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
-### Week #25 (Sprint 1)
+
+### Week #25 
 
 #### <i>April 21, 2025</i>
+- <i><b>Tasks</b></i>
+  - [Presentation](tasks/presentation/)
+  - [Fun Chat](tasks/fun-chat/)
+- <i><b>TODO</b></i>
+  - Submit [Wheel of Fortune](TBD)
+  - Submit [Presentation](tasks/presentation/)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
-- [Scrum/Kanban](modules/sdlc/)
-- [CI/CD](modules/ci-cd/)
-- <i>Week assignments</i>
-  - [Final task. Sprint 1](tasks/eCommerce-Application/Sprints/Sprint%231.md)
 
-### Week #26-27 (Sprint 2)
+### Week #26 
 
 #### <i>April 28, 2025</i>
+- <i><b>Tasks</b></i>
+  - [Final task preparation](tasks/final-task/)
+- <i><b>TODO</b></i>
+  - Submit [Fun Chat](tasks/fun-chat/)
+- <i><b>Self development ( optional )</b></i>
+  - [Codewars](https://www.codewars.com/)
+  - [LeetCode](https://leetcode.com/problemset/)
 
-- [How browsers work](modules/how-browsers-work/)
-- <i>Week assignments</i>
-  - [Final task. Sprint 2](tasks/eCommerce-Application/Sprints/Sprint%232.md)
 
-### Week #28-29 (Sprint 3)
+### Week #27 (Sprint 1)
+
+#### <i>May 5, 2025</i>
+- [Scrum/Kanban](modules/sdlc/)
+- [CI/CD](modules/ci-cd/)
+- <i><b>Tasks</b></i>
+  - [Final task. Sprint 1](tasks/eCommerce-Application/Sprints/Sprint%231.md)
+
+### Week #28-29 (Sprint 2)
 
 #### <i>May 12, 2025</i>
 
-- <i>Week assignments</i>
-  - [Final task. Sprint 3](tasks/eCommerce-Application/Sprints/Sprint%233.md)
+- [How browsers work](modules/how-browsers-work/)
+- <i><b>Tasks</b></i>
+  - [Final task. Sprint 2](tasks/eCommerce-Application/Sprints/Sprint%232.md)
 
-### Week #30-31 (Sprint 4)
+### Week #30-31 (Sprint 3)
 
 #### <i>May 26, 2025</i>
 
-- <i>Week assignments</i>
+- <i><b>Tasks</b></i>
+  - [Final task. Sprint 3](tasks/eCommerce-Application/Sprints/Sprint%233.md)
+
+### Week #32-33 (Sprint 4)
+
+#### <i>June 9, 2025</i>
+
+- <i><b>Tasks</b></i>
   - [Final task. Sprint 4](tasks/eCommerce-Application/Sprints/Sprint%234.md)
 
 </details>
 
-#### Interview with mentors ( <i>June,17 2024 - June, 30 2024</i> )
+#### Interview with mentors ( <i>June,9 2024 - June, 30 2024</i> )
