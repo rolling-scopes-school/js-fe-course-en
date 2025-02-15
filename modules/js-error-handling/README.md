@@ -25,3 +25,4 @@ building robust, user-friendly applications.
 
 ## Educational Materials
 - [Error handling](https://javascript.info/error-handling)
+- [MDN Web Docs - Exception handling statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling?utm_source=chatgpt.com#exception_handling_statements)
