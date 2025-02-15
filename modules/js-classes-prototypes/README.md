@@ -58,4 +58,4 @@ JavaScript developer to grasp.
 ## Optional Materials
 - [JavaScript — Inheritance, delegation patterns and Object linking (codeburst.io)](https://codeburst.io/javascript-inheritance-25fe61ab9f85)
 - [RS School Presentaton "JavaScript Classes"](https://kirilknysh.github.io/js-classes-talk/#/)
-
+- [Web.dev - Prototypal inheritance](https://web.dev/learn/javascript/objects/prototypal-inheritance)
