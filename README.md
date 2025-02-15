@@ -274,12 +274,22 @@
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
   - [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+  - [Interview with mentor](tasks/technical-screening/README.md)
 - <i><b>TODO</b></i>
   - Submit [Data structure](https://github.com/AlreadyBored/basic-js-ds)
   - Submit [Basic JS](https://github.com/AlreadyBored/basic-js)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
+
+ <details>
+  <summary markdown="span">Mentor activities</summary>
+
+  - [Confirm course registration](https://app.rs.school/course/mentor/confirm?course=js-fe-en-2024q4)
+  - [Check your profile contact info](https://app.rs.school/profile#edit)
+  - Wait for students contact you
+  - [Conducting Technical Screening](tasks/technical-screening/README.md)
+</details>
 
 ### Week #17
 
@@ -290,9 +300,19 @@
 - <i><b>Tasks</b></i>
   - [TypeScript Essential](tasks/TypeScriptEssentials/)
   - [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
+  - [Interview with mentor](tasks/technical-screening/README.md)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
+
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+  - [Confirm course registration](https://app.rs.school/course/mentor/confirm?course=js-fe-en-2024q4)
+  - [Check your profile contact info](https://app.rs.school/profile#edit)
+  - Wait for students contact you
+  - [Conducting Technical Screening](tasks/technical-screening/README.md)
+</details>
 
 ### Week #18
 
@@ -309,7 +329,27 @@
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
-  - 
+
+```
+At the end of this week, all students will be required to use typescript and adhere to the following rules when completing all subsequent tasks:
+
+- Use of Everyday Types
+- Use of Generics
+- Use of Object Types
+- Use of Classes
+- Use of Function
+- No use of the Any type
+- ESLinter is configured for TypeScript (the typescript-eslint/recommended plugin is used) and there are no errors
+- The TypeScript configuration file has the flags "noImplicitAny": true and "strict": true
+- webpack is configured and works with TypeScript
+```
+
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+  - [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+</details>
+
 ### Week #19
 
 #### <i>March 10, 2025</i>
