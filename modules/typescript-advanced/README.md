@@ -24,6 +24,9 @@ competitive in the job market.
 To summarize, while basic understanding can get you started with TypeScript and its benefits, advanced knowledge can 
 enhance your efficiency and productivity remarkably, making you a more effective and valuable developer.
 
+This module is designed to elevate your proficiency in TypeScript and to deepen your expertise in key areas, covering topics such as utility types, tsconfig configuration, and advanced TypeScript features.
+By exploring topics like type guards, generics, utility types and advanced types techniques, you will acquire a well-rounded understanding of TypeScript features. This knowledge equips you with the tools to write more expressive, maintainable, and efficient code, fostering your ability to tackle complex real-world projects.
+
 
 ### Education materials
 - [Learn Typescript Tutorial](https://scrimba.com/learn/typescript) 

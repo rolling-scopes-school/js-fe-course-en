@@ -24,6 +24,9 @@ who know TypeScript, especially for larger projects and for projects involving A
 
 By learning TypeScript, front-end developers can write more reliable, maintainable and scalable JavaScript code.
 
+This module introduces students to TypeScript Basics. It aims to provide an in-depth understanding of key concepts such as reading and writing TypeScript code, describing variables with primitive data types, and exploring essential TypeScript constructs like interface, type, and more.
+The module covers a range of topics from fundamental TypeScript skills to theoretical aspects, fostering a solid understanding of the basics of TypeScript among students.
+
 ## Educational Materials
 - [Learn Typescript Tutorial](https://scrimba.com/learn/typescript) 
 - [Webinar Rolling Scopes School Lithuania. TypeScript](https://youtu.be/h4Y4-QMz7dw)
