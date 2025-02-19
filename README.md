@@ -298,7 +298,7 @@
 - [TypeScript Basic](modules/typescript-basic/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
-  - [TypeScript Essential](tasks/TypeScriptEssentials/)
+  - [TypeScript Beginners](tasks/typescript-beginners/)
   - [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
   - [Interview with mentor](tasks/technical-screening/README.md)
 - <i><b>Self development ( optional )</b></i>
@@ -324,7 +324,7 @@
   - [News API](tasks/news-api/)
   - [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
 - <i><b>TODO</b></i>
-  - Submit for cross-check [TypeScript Essentials](tasks/TypeScriptEssentials/)
+  - Submit for cross-check [TypeScript Beginners](tasks/typescript-beginners/)
   - submit [Codewars-OOP Tasks](tasks/codewars/codewars-OOP.md)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
@@ -363,9 +363,16 @@ At the end of this week, all students will be required to use typescript and adh
 - <i><b>TODO</b></i>
   - submit [core-js-objects](https://github.com/rolling-scopes-school/core-js-objects)
   - Submit for **mentor's** review [News API](tasks/news-api/)
+  - Review students tasks [TypeScript Beginners](tasks/typescript-beginners/)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
+
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+</details>
 
 ### Week #20
 
@@ -382,6 +389,13 @@ At the end of this week, all students will be required to use typescript and adh
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
+  - 
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+- [Check](https://rs.school/docs/en/pull-request-review-process) the [News API](tasks/news-api/)
+</details>
 
 ### Week #21
 
@@ -400,6 +414,12 @@ At the end of this week, all students will be required to use typescript and adh
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
 
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+- [Check](https://rs.school/docs/en/pull-request-review-process) the [Code review](tasks/code-review/)
+</details>
 
 ### Week #22
 
@@ -415,6 +435,12 @@ At the end of this week, all students will be required to use typescript and adh
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
+
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+</details>
 
 ### Week #23
 
@@ -434,6 +460,12 @@ At the end of this week, all students will be required to use typescript and adh
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
 
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+</details>
+
 ### Week #24
 
 #### <i>April 14, 2025</i>
@@ -451,6 +483,13 @@ At the end of this week, all students will be required to use typescript and adh
   - [LeetCode](https://leetcode.com/problemset/)
 
 
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+- [Check](https://rs.school/docs/en/pull-request-review-process) the [Async race](tasks/async-race/)
+</details>
+
 ### Week #25 
 
 #### <i>April 21, 2025</i>
@@ -464,6 +503,11 @@ At the end of this week, all students will be required to use typescript and adh
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
 
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+</details>
 
 ### Week #26 
 
@@ -476,6 +520,12 @@ At the end of this week, all students will be required to use typescript and adh
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
 
+
+<details>
+  <summary markdown="span">Mentor activities</summary>
+
+- [Weekly meeting with students](https://rs.school/docs/en/rs-school-mentor#how-can-a-mentor-interact-with-students-effectively)
+</details>
 
 ### Week #27 (Sprint 1)
 
