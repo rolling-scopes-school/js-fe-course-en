@@ -51,11 +51,11 @@ Feedback:
 1. **Private School Repository**: All work must be done in a private school repository.
 
 ### Branch Management
-1. **Create Branch**: Begin by creating a new branch `typescript-essentials` from the `main` branch.
+1. **Create Branch**: Begin by creating a new branch `typescript-beginners` from the `main` branch.
 
 ### Pull Requests
 
-1. **Open Pull Request**: Once you complete a module, open a pull request (PR) from `typescript-essentials` to `main`.
+1. **Open Pull Request**: Once you complete a module, open a pull request (PR) from `typescript-beginners` to `main`.
 2. **PR Description**: Format the PR description in accordance with the [PR Description requirements](https://docs.rs.school/#/en/pull-request-review-process?id=description-example).
 
 ## Task Submission to Cross-Check Rules
