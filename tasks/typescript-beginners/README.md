@@ -1,4 +1,4 @@
-# TypeScript Essentials
+# TypeScript Beginner
 
 ## Overview
 
