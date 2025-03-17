@@ -558,4 +558,4 @@ At the end of this week, all students will be required to use typescript and adh
 
 </details>
 
-#### Interview with mentors ( <i>June,9 2024 - June, 30 2024</i> )
+#### Interview with mentors ( <i>June,9 2025 - June, 30 2025</i> )
