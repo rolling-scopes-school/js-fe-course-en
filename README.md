@@ -408,7 +408,6 @@ At the end of this week, all students will be required to use typescript and adh
   - [Async race](tasks/async-race/)
   - [core-js-promises](https://github.com/rolling-scopes-school/core-js-promises)
 - <i><b>TODO</b></i>
-  - submit [Code review](tasks/code-review/)
   - submit [core-js-dates](https://github.com/rolling-scopes-school/core-js-dates)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
