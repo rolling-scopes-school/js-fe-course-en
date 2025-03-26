@@ -451,9 +451,8 @@ At the end of this week, all students will be required to use typescript and adh
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
   - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
-  - [Wheel of Fortune](TBD)
+  - [Async race](tasks/async-race/)
 - <i><b>TODO</b></i>
-  - Submit for **mentor's** review [Async race](tasks/async-race/)
   - Submit for cross-check [Async race](tasks/async-race/)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
@@ -473,9 +472,10 @@ At the end of this week, all students will be required to use typescript and adh
 - [Websockets](modules/web-sockets/)
 - [Questions related to the week's information if any](https://forms.gle/4xkgtaUQ2tuniFg99)
 - <i><b>Tasks</b></i>
-  - [Wheel of Fortune](TBD)
+  - [Fun Chat](tasks/fun-chat/)
   - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
 - <i><b>TODO</b></i>
+  - Submit for **mentor's** review [Async race](tasks/async-race/)
   - Submit [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
@@ -495,8 +495,7 @@ At the end of this week, all students will be required to use typescript and adh
 - <i><b>Tasks</b></i>
   - [Presentation](tasks/presentation/)
   - [Fun Chat](tasks/fun-chat/)
-- <i><b>TODO</b></i>
-  - Submit [Wheel of Fortune](TBD)
+- <i><b>TODO</b></i>  
   - Submit [Presentation](tasks/presentation/)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
