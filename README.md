@@ -452,8 +452,6 @@ At the end of this week, all students will be required to use typescript and adh
 - <i><b>Tasks</b></i>
   - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
   - [Async race](tasks/async-race/)
-- <i><b>TODO</b></i>
-  - Submit for cross-check [Async race](tasks/async-race/)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
@@ -475,6 +473,7 @@ At the end of this week, all students will be required to use typescript and adh
   - [Fun Chat](tasks/fun-chat/)
   - [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
 - <i><b>TODO</b></i>
+  - Submit for cross-check [Async race](tasks/async-race/)
   - Submit for **mentor's** review [Async race](tasks/async-race/)
   - Submit [core-js-functions](https://github.com/rolling-scopes-school/core-js-functions)
 - <i><b>Self development ( optional )</b></i>
