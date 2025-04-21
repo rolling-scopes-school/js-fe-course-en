@@ -494,8 +494,6 @@ At the end of this week, all students will be required to use typescript and adh
 - <i><b>Tasks</b></i>
   - [Presentation](tasks/presentation/)
   - [Fun Chat](tasks/fun-chat/)
-- <i><b>TODO</b></i>  
-  - Submit [Presentation](tasks/presentation/)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
@@ -513,6 +511,7 @@ At the end of this week, all students will be required to use typescript and adh
   - [Final task preparation](tasks/final-task/)
 - <i><b>TODO</b></i>
   - Submit [Fun Chat](tasks/fun-chat/)
+  - Submit [Presentation](tasks/presentation/)
 - <i><b>Self development ( optional )</b></i>
   - [Codewars](https://www.codewars.com/)
   - [LeetCode](https://leetcode.com/problemset/)
