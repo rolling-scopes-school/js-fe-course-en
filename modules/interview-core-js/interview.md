@@ -72,7 +72,7 @@
     - Understand callback limitations (callback hell) `(optional)`
     - Binding, binding one function twice
     - Know how to bind `this` scope to function
-    - Carrying and partial functions
+    - Currying and partial functions
 
 - #### Network requests
 
